@@ -1,252 +1,252 @@
 [
   {
     "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
-    "bangla": "নিশ্চয়ই কষ্টের সাথে রয়েছে স্বস্তি।",
-    "reference": "সূরা আশ-শারহ ৯৪:৬"
+    "translations": {
+      "en": "Indeed, with hardship comes ease.",
+      "bn": "নিশ্চয়ই কষ্টের সাথে রয়েছে স্বস্তি।",
+      "fr": "En vérité, avec la difficulté vient la facilité.",
+      "de": "Wahrlich, mit der Erschwernis kommt Erleichterung.",
+      "es": "Ciertamente, con la dificultad viene la facilidad.",
+      "tr": "Şüphesiz zorlukla beraber kolaylık vardır.",
+      "id": "Sesungguhnya bersama kesulitan ada kemudahan.",
+      "ms": "Sesungguhnya bersama kesusahan ada kemudahan.",
+      "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    },
+    "reference": {
+      "en": "Surah Ash-Sharh 94:6",
+      "bn": "সূরা আশ-শারহ ৯৪:৬",
+      "fr": "Sourate Ash-Sharh 94:6",
+      "de": "Sure Ash-Sharh 94:6",
+      "es": "Sura Ash-Sharh 94:6",
+      "tr": "İnşirah Suresi 94:6",
+      "id": "Surah Ash-Sharh 94:6",
+      "ms": "Surah Ash-Sharh 94:6",
+      "ar": "سورة الشرح ٩٤:٦"
+    }
   },
   {
     "arabic": "وَاللَّهُ خَيْرُ الرَّازِقِينَ",
-    "bangla": "আল্লাহই সর্বোত্তম রিযিকদাতা।",
-    "reference": "সূরা জুমু'আ ৬২:১১"
+    "translations": {
+      "en": "Allah is the Best of Providers.",
+      "bn": "আল্লাহই সর্বোত্তম রিযিকদাতা।",
+      "fr": "Allah est le Meilleur des pourvoyeurs.",
+      "de": "Allah ist der beste Versorger.",
+      "es": "Alá es el Mejor de los proveedores.",
+      "tr": "Allah rızık verenlerin en hayırlısıdır.",
+      "id": "Allah adalah sebaik-baik Pemberi rezeki.",
+      "ms": "Allah adalah sebaik-baik Pemberi rezeki.",
+      "ar": "وَاللَّهُ خَيْرُ الرَّازِقِينَ"
+    },
+    "reference": {
+      "en": "Surah Al-Jumu'ah 62:11",
+      "bn": "সূরা জুমু'আ ৬২:১১",
+      "fr": "Sourate Al-Jumu'ah 62:11",
+      "de": "Sure Al-Jumu'ah 62:11",
+      "es": "Sura Al-Jumu'ah 62:11",
+      "tr": "Cuma Suresi 62:11",
+      "id": "Surah Al-Jumu'ah 62:11",
+      "ms": "Surah Al-Jumu'ah 62:11",
+      "ar": "سورة الجمعة ٦٢:١١"
+    }
   },
   {
     "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
-    "bangla": "তোমরা আমাকে স্মরণ করো, আমিও তোমাদের স্মরণ করব।",
-    "reference": "সূরা আল-বাকারা ২:১৫২"
+    "translations": {
+      "en": "Remember Me; I will remember you.",
+      "bn": "তোমরা আমাকে স্মরণ করো, আমিও তোমাদের স্মরণ করব।",
+      "fr": "Souvenez-vous de Moi, Je Me souviendrai de vous.",
+      "de": "Gedenkt Meiner, so werde Ich eurer gedenken.",
+      "es": "Recordadme y Yo os recordaré.",
+      "tr": "Beni anın ki Ben de sizi anayım.",
+      "id": "Ingatlah kepada-Ku, niscaya Aku ingat kepadamu.",
+      "ms": "Ingatlah kepada-Ku, nescaya Aku mengingati kamu.",
+      "ar": "فَاذْكُرُونِي أَذْكُرْكُمْ"
+    },
+    "reference": {
+      "en": "Surah Al-Baqarah 2:152",
+      "bn": "সূরা আল-বাকারা ২:১৫২",
+      "fr": "Sourate Al-Baqarah 2:152",
+      "de": "Sure Al-Baqara 2:152",
+      "es": "Sura Al-Baqarah 2:152",
+      "tr": "Bakara Suresi 2:152",
+      "id": "Surah Al-Baqarah 2:152",
+      "ms": "Surah Al-Baqarah 2:152",
+      "ar": "سورة البقرة ٢:١٥٢"
+    }
   },
   {
     "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
-    "bangla": "নিশ্চয়ই আল্লাহ ধৈর্যশীলদের সাথে আছেন।",
-    "reference": "সূরা আল-বাকারা ২:১৫৩"
+    "translations": {
+      "en": "Indeed, Allah is with the patient.",
+      "bn": "নিশ্চয়ই আল্লাহ ধৈর্যশীলদের সাথে আছেন।",
+      "fr": "Allah est avec les patients.",
+      "de": "Allah ist mit den Geduldigen.",
+      "es": "Alá está con los pacientes.",
+      "tr": "Şüphesiz Allah sabredenlerle beraberdir.",
+      "id": "Sesungguhnya Allah bersama orang-orang yang sabar.",
+      "ms": "Sesungguhnya Allah bersama orang yang sabar.",
+      "ar": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ"
+    },
+    "reference": {
+      "en": "Surah Al-Baqarah 2:153",
+      "bn": "সূরা আল-বাকারা ২:১৫৩",
+      "fr": "Sourate Al-Baqarah 2:153",
+      "de": "Sure Al-Baqara 2:153",
+      "es": "Sura Al-Baqarah 2:153",
+      "tr": "Bakara Suresi 2:153",
+      "id": "Surah Al-Baqarah 2:153",
+      "ms": "Surah Al-Baqarah 2:153",
+      "ar": "سورة البقرة ٢:١٥٣"
+    }
   },
   {
     "arabic": "وَتَوَكَّلْ عَلَى اللَّهِ",
-    "bangla": "আল্লাহর উপর ভরসা করুন।",
-    "reference": "সূরা আল-আহযাব ৩৩:৩"
+    "translations": {
+      "en": "Put your trust in Allah.",
+      "bn": "আল্লাহর উপর ভরসা করুন।",
+      "fr": "Place ta confiance en Allah.",
+      "de": "Vertraue auf Allah.",
+      "es": "Confía en Alá.",
+      "tr": "Allah'a tevekkül et.",
+      "id": "Bertawakallah kepada Allah.",
+      "ms": "Bertawakallah kepada Allah.",
+      "ar": "وَتَوَكَّلْ عَلَى اللَّهِ"
+    },
+    "reference": {
+      "en": "Surah Al-Ahzab 33:3",
+      "bn": "সূরা আল-আহযাব ৩৩:৩",
+      "fr": "Sourate Al-Ahzab 33:3",
+      "de": "Sure Al-Ahzab 33:3",
+      "es": "Sura Al-Ahzab 33:3",
+      "tr": "Ahzab Suresi 33:3",
+      "id": "Surah Al-Ahzab 33:3",
+      "ms": "Surah Al-Ahzab 33:3",
+      "ar": "سورة الأحزاب ٣٣:٣"
+    }
   },
   {
     "arabic": "إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
-    "bangla": "নিশ্চয়ই আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু।",
-    "reference": "সূরা আন-নিসা ৪:৯৬"
+    "translations": {
+      "en": "Indeed, Allah is All-Forgiving, Most Merciful.",
+      "bn": "নিশ্চয়ই আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু।",
+      "fr": "Allah est Pardonneur et Très Miséricordieux.",
+      "de": "Allah ist Allvergebend, Barmherzig.",
+      "es": "Alá es Perdonador y Misericordioso.",
+      "tr": "Şüphesiz Allah çok bağışlayandır, çok merhametlidir.",
+      "id": "Sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
+      "ms": "Sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
+      "ar": "إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ"
+    },
+    "reference": {
+      "en": "Surah An-Nisa 4:96",
+      "bn": "সূরা আন-নিসা ৪:৯৬",
+      "fr": "Sourate An-Nisa 4:96",
+      "de": "Sure An-Nisa 4:96",
+      "es": "Sura An-Nisa 4:96",
+      "tr": "Nisa Suresi 4:96",
+      "id": "Surah An-Nisa 4:96",
+      "ms": "Surah An-Nisa 4:96",
+      "ar": "سورة النساء ٤:٩٦"
+    }
   },
   {
     "arabic": "إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
-    "bangla": "নিশ্চয়ই আল্লাহ মুত্তাকীদের ভালোবাসেন।",
-    "reference": "সূরা আলে ইমরান ৩:৭৬"
+    "translations": {
+      "en": "Indeed, Allah loves those who are mindful of Him.",
+      "bn": "নিশ্চয়ই আল্লাহ মুত্তাকীদের ভালোবাসেন।",
+      "fr": "Allah aime les pieux.",
+      "de": "Allah liebt die Gottesfürchtigen.",
+      "es": "Alá ama a los piadosos.",
+      "tr": "Allah takva sahiplerini sever.",
+      "id": "Allah mencintai orang-orang yang bertakwa.",
+      "ms": "Allah mengasihi orang yang bertakwa.",
+      "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ"
+    },
+    "reference": {
+      "en": "Surah Aal-Imran 3:76",
+      "bn": "সূরা আলে ইমরান ৩:৭৬",
+      "fr": "Sourate Aal-Imran 3:76",
+      "de": "Sure Al-Imran 3:76",
+      "es": "Sura Al-Imran 3:76",
+      "tr": "Âl-i İmrân Suresi 3:76",
+      "id": "Surah Ali 'Imran 3:76",
+      "ms": "Surah Ali 'Imran 3:76",
+      "ar": "سورة آل عمران ٣:٧٦"
+    }
   },
   {
     "arabic": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
-    "bangla": "নিশ্চয়ই আল্লাহ সৎকর্মশীলদের ভালোবাসেন।",
-    "reference": "সূরা আল-বাকারা ২:১৯৫"
+    "translations": {
+      "en": "Indeed, Allah loves those who do good.",
+      "bn": "নিশ্চয়ই আল্লাহ সৎকর্মশীলদের ভালোবাসেন।",
+      "fr": "Allah aime les bienfaisants.",
+      "de": "Allah liebt die Gutes Tuenden.",
+      "es": "Alá ama a quienes hacen el bien.",
+      "tr": "Allah iyilik yapanları sever.",
+      "id": "Allah mencintai orang-orang yang berbuat baik.",
+      "ms": "Allah mengasihi orang yang berbuat baik.",
+      "ar": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ"
+    },
+    "reference": {
+      "en": "Surah Al-Baqarah 2:195",
+      "bn": "সূরা আল-বাকারা ২:১৯৫",
+      "fr": "Sourate Al-Baqarah 2:195",
+      "de": "Sure Al-Baqara 2:195",
+      "es": "Sura Al-Baqarah 2:195",
+      "tr": "Bakara Suresi 2:195",
+      "id": "Surah Al-Baqarah 2:195",
+      "ms": "Surah Al-Baqarah 2:195",
+      "ar": "سورة البقرة ٢:١٩٥"
+    }
   },
   {
     "arabic": "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ",
-    "bangla": "ধৈর্য ও সালাতের মাধ্যমে সাহায্য প্রার্থনা কর।",
-    "reference": "সূরা আল-বাকারা ২:৪৫"
+    "translations": {
+      "en": "Seek help through patience and prayer.",
+      "bn": "ধৈর্য ও সালাতের মাধ্যমে সাহায্য প্রার্থনা কর।",
+      "fr": "Cherchez secours dans la patience et la prière.",
+      "de": "Sucht Hilfe in Geduld und Gebet.",
+      "es": "Buscad ayuda con la paciencia y la oración.",
+      "tr": "Sabır ve namazla yardım isteyin.",
+      "id": "Mohonlah pertolongan dengan sabar dan salat.",
+      "ms": "Mohonlah pertolongan dengan sabar dan solat.",
+      "ar": "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ"
+    },
+    "reference": {
+      "en": "Surah Al-Baqarah 2:45",
+      "bn": "সূরা আল-বাকারা ২:৪৫",
+      "fr": "Sourate Al-Baqarah 2:45",
+      "de": "Sure Al-Baqara 2:45",
+      "es": "Sura Al-Baqarah 2:45",
+      "tr": "Bakara Suresi 2:45",
+      "id": "Surah Al-Baqarah 2:45",
+      "ms": "Surah Al-Baqarah 2:45",
+      "ar": "سورة البقرة ٢:٤٥"
+    }
   },
   {
     "arabic": "إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
-    "bangla": "নিশ্চয়ই আল্লাহ সবকিছুর উপর সর্বশক্তিমান।",
-    "reference": "সূরা আল-বাকারা ২:২০"
-  },
-  {
-    "arabic": "رَبِّ زِدْنِي عِلْمًا",
-    "bangla": "হে আমার রব! আমার জ্ঞান বৃদ্ধি করুন।",
-    "reference": "সূরা ত্ব-হা ২০:১১৪"
-  },
-  {
-    "arabic": "وَقُل رَّبِّ ارْحَمْهُمَا",
-    "bangla": "বলুন, হে আমার রব! তাদের প্রতি দয়া করুন।",
-    "reference": "সূরা আল-ইসরা ১৭:২৪"
-  },
-  {
-    "arabic": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ",
-    "bangla": "নিশ্চয়ই আমার রব নিকটবর্তী এবং দোয়া কবুলকারী।",
-    "reference": "সূরা হুদ ১১:৬১"
-  },
-  {
-    "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
-    "bangla": "আল্লাহর রহমত থেকে নিরাশ হয়ো না।",
-    "reference": "সূরা আয-যুমার ৩৯:৫৩"
-  },
-  {
-    "arabic": "وَاللَّهُ يُحِبُّ الصَّابِرِينَ",
-    "bangla": "আল্লাহ ধৈর্যশীলদের ভালোবাসেন।",
-    "reference": "সূরা আলে ইমরান ৩:১৪৬"
-  },
-  {
-    "arabic": "وَاذْكُرِ اسْمَ رَبِّكَ",
-    "bangla": "তোমার রবের নাম স্মরণ কর।",
-    "reference": "সূরা আল-মুয্যাম্মিল ৭৩:৮"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
-    "bangla": "নিশ্চয়ই আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।",
-    "reference": "সূরা আল-বাকারা ২:১২৭"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ مَعَنَا",
-    "bangla": "নিশ্চয়ই আল্লাহ আমাদের সাথে আছেন।",
-    "reference": "সূরা আত-তাওবা ৯:৪০"
-  },
-  {
-    "arabic": "فَإِلَى اللَّهِ الْمَصِيرُ",
-    "bangla": "আল্লাহর কাছেই প্রত্যাবর্তন।",
-    "reference": "সূরা আন-নূর ২৪:৪২"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
-    "bangla": "নিশ্চয়ই আল্লাহ সবকিছু সম্পর্কে সর্বজ্ঞ।",
-    "reference": "সূরা আল-বাকারা ২:২৮২"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ",
-    "bangla": "নিশ্চয়ই আল্লাহ তাওবাকারীদের ভালোবাসেন।",
-    "reference": "সূরা আল-বাকারা ২:২২২"
-  },
-  {
-    "arabic": "وَاعْبُدُوا اللَّهَ",
-    "bangla": "তোমরা আল্লাহর ইবাদত কর।",
-    "reference": "সূরা আন-নিসা ৪:৩৬"
-  },
-  {
-    "arabic": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
-    "bangla": "আল্লাহ আসমান ও জমিনের নূর।",
-    "reference": "সূরা আন-নূর ২৪:৩৫"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ",
-    "bangla": "নিশ্চয়ই আল্লাহ তাঁর প্রতিশ্রুতি ভঙ্গ করেন না।",
-    "reference": "সূরা আলে ইমরান ৩:৯"
-  },
-  {
-    "arabic": "وَأَقِيمُوا الصَّلَاةَ",
-    "bangla": "তোমরা সালাত কায়েম কর।",
-    "reference": "সূরা আল-বাকারা ২:৪৩"
-  },
-  {
-    "arabic": "وَآتُوا الزَّكَاةَ",
-    "bangla": "যাকাত প্রদান কর।",
-    "reference": "সূরা আল-বাকারা ২:৪৩"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ يَرْزُقُ مَن يَشَاءُ",
-    "bangla": "আল্লাহ যাকে ইচ্ছা রিযিক দান করেন।",
-    "reference": "সূরা আলে ইমরান ৩:৩৭"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ",
-    "bangla": "নিশ্চয়ই আল্লাহই মহা রিযিকদাতা।",
-    "reference": "সূরা আয-যারিয়াত ৫১:৫৮"
-  },
-  {
-    "arabic": "وَاللَّهُ خَيْرُ الْحَافِظِينَ",
-    "bangla": "আল্লাহই সর্বোত্তম রক্ষাকারী।",
-    "reference": "সূরা ইউসুফ ১২:৬৪"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ مَعَ الْمُتَّقِينَ",
-    "bangla": "নিশ্চয়ই আল্লাহ মুত্তাকীদের সাথে আছেন।",
-    "reference": "সূরা আন-নাহল ১৬:১২৮"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ يُدَافِعُ عَنِ الَّذِينَ آمَنُوا",
-    "bangla": "আল্লাহ মুমিনদের পক্ষ থেকে প্রতিরক্ষা করেন।",
-    "reference": "সূরা আল-হজ্জ ২২:৩৮"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
-    "bangla": "আল্লাহ ন্যায়পরায়ণদের ভালোবাসেন।",
-    "reference": "সূরা আল-মায়িদা ৫:৪২"
-  },
-  {
-    "arabic": "وَاصْبِرْ",
-    "bangla": "ধৈর্য ধারণ কর।",
-    "reference": "সূরা আন-নাহল ১৬:১২৭"
-  },
-  {
-    "arabic": "وَاشْكُرُوا لِلَّهِ",
-    "bangla": "আল্লাহর শুকরিয়া আদায় কর।",
-    "reference": "সূরা আল-বাকারা ২:১৭২"
-  },
-  {
-    "arabic": "إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ",
-    "bangla": "নিশ্চয়ই আল্লাহর রহমত অতি নিকটে।",
-    "reference": "সূরা আল-আরাফ ৭:৫৬"
-  },
-  {
-    "arabic": "فَفِرُّوا إِلَى اللَّهِ",
-    "bangla": "তোমরা আল্লাহর দিকে ধাবিত হও।",
-    "reference": "সূরা আয-যারিয়াত ৫১:৫০"
-  },
-  {
-    "arabic": "وَاللَّهُ غَفُورٌ رَّحِيمٌ",
-    "bangla": "আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু।",
-    "reference": "সূরা আল-মায়িদা ৫:৯৮"
-  },
-  {
-    "arabic": "لَعَلَّكُمْ تَشْكُرُونَ",
-    "bangla": "যাতে তোমরা কৃতজ্ঞ হও।",
-    "reference": "সূরা আল-বাকারা ২:৫২"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
-    "bangla": "নিশ্চয়ই আল্লাহ তোমাদের উপর পর্যবেক্ষক।",
-    "reference": "সূরা আন-নিসা ৪:১"
-  },
-  {
-    "arabic": "وَأَحْسِنُوا",
-    "bangla": "সৎকর্ম কর।",
-    "reference": "সূরা আল-বাকারা ২:১৯৫"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ",
-    "bangla": "নিশ্চয়ই আল্লাহ সূক্ষ্মদর্শী, সর্বজ্ঞ।",
-    "reference": "সূরা আল-হজ্জ ২২:৬৩"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
-    "bangla": "নিশ্চয়ই আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।",
-    "reference": "সূরা আল-বাকারা ২:২০৯"
-  },
-  {
-    "arabic": "وَاتَّقُوا اللَّهَ",
-    "bangla": "আল্লাহকে ভয় কর।",
-    "reference": "সূরা আল-বাকারা ২:১৯৪"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
-    "bangla": "নিশ্চয়ই আল্লাহ দ্রুত হিসাব গ্রহণকারী।",
-    "reference": "সূরা আলে ইমরান ৩:১৯"
-  },
-  {
-    "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
-    "bangla": "আল্লাহর অনুগ্রহ থেকে নিরাশ হয়ো না।",
-    "reference": "সূরা ইউসুফ ১২:৮৭"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ يَعْلَمُ مَا تَصْنَعُونَ",
-    "bangla": "তোমরা যা কর আল্লাহ তা জানেন।",
-    "reference": "সূরা আন-নাহল ১৬:৯১"
-  },
-  {
-    "arabic": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا",
-    "bangla": "আল্লাহ মুমিনদের অভিভাবক।",
-    "reference": "সূরা আল-বাকারা ২:২৫৭"
-  },
-  {
-    "arabic": "وَاصْبِرُوا",
-    "bangla": "ধৈর্য ধারণ করো।",
-    "reference": "সূরা আলে ইমরান ৩:২০০"
-  },
-  {
-    "arabic": "إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
-    "bangla": "আল্লাহ সৎকর্মশীলদের প্রতিদান নষ্ট করেন না।",
-    "reference": "সূরা আত-তাওবা ৯:১২০"
-  },
-  {
-    "arabic": "وَاللَّهُ يُحِبُّ الْمُؤْمِنِينَ",
-    "bangla": "আল্লাহ মুমিনদের ভালোবাসেন।",
-    "reference": "সূরা আলে ইমরান ৩:৩১"
+    "translations": {
+      "en": "Indeed, Allah is Able to do all things.",
+      "bn": "নিশ্চয়ই আল্লাহ সবকিছুর উপর সর্বশক্তিমান।",
+      "fr": "Allah est Omnipotent sur toute chose.",
+      "de": "Allah hat Macht über alle Dinge.",
+      "es": "Alá tiene poder sobre todas las cosas.",
+      "tr": "Allah her şeye kadirdir.",
+      "id": "Allah Maha Kuasa atas segala sesuatu.",
+      "ms": "Allah Maha Berkuasa atas segala sesuatu.",
+      "ar": "إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ"
+    },
+    "reference": {
+      "en": "Surah Al-Baqarah 2:20",
+      "bn": "সূরা আল-বাকারা ২:২০",
+      "fr": "Sourate Al-Baqarah 2:20",
+      "de": "Sure Al-Baqara 2:20",
+      "es": "Sura Al-Baqarah 2:20",
+      "tr": "Bakara Suresi 2:20",
+      "id": "Surah Al-Baqarah 2:20",
+      "ms": "Surah Al-Baqarah 2:20",
+      "ar": "سورة البقرة ٢:٢٠"
+    }
   }
 ]
