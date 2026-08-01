@@ -1,23 +1,192 @@
 [
   {
-    "arabic":"اللَّهُمَّ اغْفِرْ لِي",
-
-    "translations":{
-      "bn":"হে আল্লাহ! আমাকে ক্ষমা করুন।",
-      "en":"O Allah, forgive me.",
-      "ur":"اے اللہ! مجھے بخش دے۔",
-      "id":"Ya Allah, ampunilah aku.",
-      "tr":"Allah'ım beni bağışla.",
-      "fr":"Ô Allah, pardonne-moi."
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي",
+    "translations": {
+      "bn": "হে আল্লাহ! আমাকে ক্ষমা করুন।",
+      "en": "O Allah, forgive me.",
+      "ur": "اے اللہ! مجھے بخش دے۔",
+      "id": "Ya Allah, ampunilah aku.",
+      "tr": "Allah'ım beni bağışla.",
+      "fr": "Ô Allah, pardonne-moi."
     },
-
-    "reference":{
-      "bn":"সহিহ মুসলিম",
-      "en":"Sahih Muslim",
-      "ur":"صحیح مسلم",
-      "id":"Sahih Muslim",
-      "tr":"Sahih Muslim",
-      "fr":"Sahih Muslim"
+    "reference": {
+      "bn": "সহিহ মুসলিম",
+      "en": "Sahih Muslim",
+      "ur": "صحیح مسلم",
+      "id": "Sahih Muslim",
+      "tr": "Sahih Muslim",
+      "fr": "Sahih Muslim"
+    }
+  },
+  {
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "translations": {
+      "bn": "হে আমার রব! আমার জ্ঞান বৃদ্ধি করুন।",
+      "en": "My Lord, increase me in knowledge.",
+      "ur": "اے میرے رب! میرے علم میں اضافہ فرما۔",
+      "id": "Ya Tuhanku, tambahkanlah ilmuku.",
+      "tr": "Rabbim! İlmimi artır.",
+      "fr": "Seigneur, augmente mes connaissances."
+    },
+    "reference": {
+      "bn": "সূরা ত্ব-হা ২০:১১৪",
+      "en": "Surah Taha 20:114",
+      "ur": "سورۃ طہٰ 20:114",
+      "id": "Surah Taha 20:114",
+      "tr": "Taha Suresi 20:114",
+      "fr": "Sourate Ta-Ha 20:114"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "translations": {
+      "bn": "হে আমাদের রব! আমাদের দুনিয়ায় কল্যাণ দিন, আখিরাতে কল্যাণ দিন এবং জাহান্নামের আগুন থেকে রক্ষা করুন।",
+      "en": "Our Lord, grant us good in this world and good in the Hereafter and protect us from the Fire.",
+      "ur": "اے ہمارے رب! ہمیں دنیا و آخرت کی بھلائی عطا فرما اور آگ کے عذاب سے بچا۔",
+      "id": "Ya Tuhan kami, berilah kami kebaikan di dunia dan akhirat serta lindungilah kami dari neraka.",
+      "tr": "Rabbimiz! Bize dünyada ve ahirette iyilik ver, bizi ateş azabından koru.",
+      "fr": "Seigneur, accorde-nous le bien ici-bas et dans l'au-delà, et protège-nous du Feu."
+    },
+    "reference": {
+      "bn": "সূরা বাকারা ২:২০১",
+      "en": "Surah Al-Baqarah 2:201",
+      "ur": "سورۃ البقرہ 2:201",
+      "id": "Surah Al-Baqarah 2:201",
+      "tr": "Bakara Suresi 2:201",
+      "fr": "Sourate Al-Baqara 2:201"
+    }
+  },
+  {
+    "arabic": "حَسْبِيَ اللَّهُ لَا إِلٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ",
+    "translations": {
+      "bn": "আল্লাহই আমার জন্য যথেষ্ট, তিনি ছাড়া কোনো উপাস্য নেই। আমি তাঁর উপরই ভরসা করি।",
+      "en": "Allah is sufficient for me. There is no god except Him. I rely upon Him.",
+      "ur": "اللہ میرے لیے کافی ہے، اسی پر میرا بھروسہ ہے۔",
+      "id": "Cukuplah Allah bagiku, kepada-Nya aku bertawakal.",
+      "tr": "Allah bana yeter. O'na tevekkül ettim.",
+      "fr": "Allah me suffit. Je place ma confiance en Lui."
+    },
+    "reference": {
+      "bn": "সূরা তাওবা ৯:১২৯",
+      "en": "Surah At-Tawbah 9:129",
+      "ur": "سورۃ التوبہ 9:129",
+      "id": "Surah At-Taubah 9:129",
+      "tr": "Tevbe Suresi 9:129",
+      "fr": "Sourate At-Tawbah 9:129"
+    }
+  },
+  {
+    "arabic": "اللَّهُمَّ اهْدِنِي",
+    "translations": {
+      "bn": "হে আল্লাহ! আমাকে সঠিক পথ দেখান।",
+      "en": "O Allah, guide me.",
+      "ur": "اے اللہ! مجھے ہدایت دے۔",
+      "id": "Ya Allah, berilah aku petunjuk.",
+      "tr": "Allah'ım bana hidayet ver.",
+      "fr": "Ô Allah, guide-moi."
+    },
+    "reference": {
+      "bn": "সহিহ মুসলিম",
+      "en": "Sahih Muslim",
+      "ur": "صحیح مسلم",
+      "id": "Sahih Muslim",
+      "tr": "Sahih Muslim",
+      "fr": "Sahih Muslim"
+    }
+  },
+  {
+    "arabic": "اللَّهُمَّ ارْزُقْنِي",
+    "translations": {
+      "bn": "হে আল্লাহ! আমাকে উত্তম রিযিক দান করুন।",
+      "en": "O Allah, grant me lawful sustenance.",
+      "ur": "اے اللہ! مجھے پاکیزہ رزق عطا فرما۔",
+      "id": "Ya Allah, berilah aku rezeki yang baik.",
+      "tr": "Allah'ım bana helal rızık ver.",
+      "fr": "Ô Allah, accorde-moi une subsistance licite."
+    },
+    "reference": {
+      "bn": "তিরমিযী",
+      "en": "Jami' At-Tirmidhi",
+      "ur": "جامع ترمذی",
+      "id": "Jami' At-Tirmidhi",
+      "tr": "Tirmizi",
+      "fr": "Jami' At-Tirmidhi"
+    }
+  },
+  {
+    "arabic": "اللَّهُمَّ ارْحَمْنِي",
+    "translations": {
+      "bn": "হে আল্লাহ! আমার প্রতি দয়া করুন।",
+      "en": "O Allah, have mercy on me.",
+      "ur": "اے اللہ! مجھ پر رحم فرما۔",
+      "id": "Ya Allah, rahmatilah aku.",
+      "tr": "Allah'ım bana merhamet et.",
+      "fr": "Ô Allah, fais-moi miséricorde."
+    },
+    "reference": {
+      "bn": "সহিহ মুসলিম",
+      "en": "Sahih Muslim",
+      "ur": "صحیح مسلم",
+      "id": "Sahih Muslim",
+      "tr": "Sahih Muslim",
+      "fr": "Sahih Muslim"
+    }
+  },
+  {
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ",
+    "translations": {
+      "bn": "হে আল্লাহ! আমি আপনার কাছে জান্নাত প্রার্থনা করছি।",
+      "en": "O Allah, I ask You for Paradise.",
+      "ur": "اے اللہ! میں آپ سے جنت مانگتا ہوں۔",
+      "id": "Ya Allah, aku memohon surga kepada-Mu.",
+      "tr": "Allah'ım, senden cenneti istiyorum.",
+      "fr": "Ô Allah, je Te demande le Paradis."
+    },
+    "reference": {
+      "bn": "আবু দাউদ",
+      "en": "Sunan Abu Dawud",
+      "ur": "سنن ابو داؤد",
+      "id": "Sunan Abu Dawud",
+      "tr": "Ebu Davud",
+      "fr": "Sunan Abu Dawud"
+    }
+  },
+  {
+    "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+    "translations": {
+      "bn": "হে আল্লাহ! আপনার স্মরণ, কৃতজ্ঞতা ও সুন্দর ইবাদতে আমাকে সাহায্য করুন।",
+      "en": "O Allah, help me remember You, thank You and worship You well.",
+      "ur": "اے اللہ! اپنے ذکر، شکر اور بہترین عبادت میں میری مدد فرما۔",
+      "id": "Ya Allah, bantulah aku untuk mengingat-Mu, bersyukur kepada-Mu, dan beribadah dengan baik kepada-Mu.",
+      "tr": "Allah'ım! Seni zikretmem, Sana şükretmem ve güzel ibadet etmem için bana yardım et.",
+      "fr": "Ô Allah, aide-moi à Te rappeler, à Te remercier et à T'adorer de la meilleure façon."
+    },
+    "reference": {
+      "bn": "আবু দাউদ",
+      "en": "Sunan Abu Dawud",
+      "ur": "سنن ابو داؤد",
+      "id": "Sunan Abu Dawud",
+      "tr": "Ebu Davud",
+      "fr": "Sunan Abu Dawud"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+    "translations": {
+      "bn": "হে আমাদের রব! আমাদের পক্ষ থেকে কবুল করুন। নিশ্চয়ই আপনি সর্বশ্রোতা, সর্বজ্ঞ।",
+      "en": "Our Lord, accept this from us. Indeed, You are the All-Hearing, the All-Knowing.",
+      "ur": "اے ہمارے رب! ہم سے قبول فرما، بے شک تو خوب سننے والا، خوب جاننے والا ہے۔",
+      "id": "Ya Tuhan kami, terimalah amal kami. Sesungguhnya Engkau Maha Mendengar lagi Maha Mengetahui.",
+      "tr": "Rabbimiz! Bizden kabul buyur. Şüphesiz Sen işiten ve bilensin.",
+      "fr": "Seigneur, accepte cela de notre part. Tu es Celui qui entend tout et sait tout."
+    },
+    "reference": {
+      "bn": "সূরা বাকারা ২:১২৭",
+      "en": "Surah Al-Baqarah 2:127",
+      "ur": "سورۃ البقرہ 2:127",
+      "id": "Surah Al-Baqarah 2:127",
+      "tr": "Bakara Suresi 2:127",
+      "fr": "Sourate Al-Baqara 2:127"
     }
   }
 ]
