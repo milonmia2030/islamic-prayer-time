@@ -1,5 +1,5 @@
 {
-  "2026-08-02": {
+  "2026-08-01": {
     "ঢাকা": {
       "Fajr": "03:58",
       "Sunrise": "05:24",
@@ -160,7 +160,167 @@
       "IslamicEvent": ""
     }
   },
-  "2026-08-02": {},
+  "2026-08-02": {
+     "ঢাকা": {
+      "Fajr": "03:58",
+      "Sunrise": "05:24",
+      "Dhuhr": "13:04",
+      "Asr": "16:44",
+      "Sunset": "18:45",
+      "Maghrib": "18:45",
+      "Isha": "20:10",
+
+      "Hijri": "11 Safar 1448",
+      "MoonPhase": "Waxing Crescent",
+      "DayLength": "13h 21m",
+
+      "SunAltitude": 72,
+      "SunProgress": 0.63,
+      "MoonIllumination": 18,
+      "MoonAge": 4,
+      "IslamicEvent": ""
+    },
+
+    "চট্টগ্রাম": {
+      "Fajr": "03:51",
+      "Sunrise": "05:18",
+      "Dhuhr": "12:58",
+      "Asr": "16:39",
+      "Sunset": "18:39",
+      "Maghrib": "18:39",
+      "Isha": "20:04",
+
+      "Hijri": "11 Safar 1448",
+      "MoonPhase": "Waxing Crescent",
+      "DayLength": "13h 21m",
+
+      "SunAltitude": 74,
+      "SunProgress": 0.65,
+      "MoonIllumination": 18,
+      "MoonAge": 4,
+      "IslamicEvent": ""
+    },
+
+    "রাজশাহী": {
+      "Fajr": "04:02",
+      "Sunrise": "05:33",
+      "Dhuhr": "13:08",
+      "Asr": "16:48",
+      "Sunset": "18:51",
+      "Maghrib": "18:51",
+      "Isha": "20:16",
+
+      "Hijri": "11 Safar 1448",
+      "MoonPhase": "Waxing Crescent",
+      "DayLength": "13h 18m",
+
+      "SunAltitude": 70,
+      "SunProgress": 0.61,
+      "MoonIllumination": 18,
+      "MoonAge": 4,
+      "IslamicEvent": ""
+    },
+
+    "খুলনা": {
+      "Fajr": "04:00",
+      "Sunrise": "05:30",
+      "Dhuhr": "13:03",
+      "Asr": "16:43",
+      "Sunset": "18:44",
+      "Maghrib": "18:44",
+      "Isha": "20:09",
+
+      "Hijri": "11 Safar 1448",
+      "MoonPhase": "Waxing Crescent",
+      "DayLength": "13h 14m",
+
+      "SunAltitude": 71,
+      "SunProgress": 0.62,
+      "MoonIllumination": 18,
+      "MoonAge": 4,
+      "IslamicEvent": ""
+    },
+
+    "বরিশাল": {
+      "Fajr": "03:56",
+      "Sunrise": "05:24",
+      "Dhuhr": "13:01",
+      "Asr": "16:41",
+      "Sunset": "18:42",
+      "Maghrib": "18:42",
+      "Isha": "20:07",
+
+      "Hijri": "11 Safar 1448",
+      "MoonPhase": "Waxing Crescent",
+      "DayLength": "13h 18m",
+
+      "SunAltitude": 73,
+      "SunProgress": 0.64,
+      "MoonIllumination": 18,
+      "MoonAge": 4,
+      "IslamicEvent": ""
+    },
+
+    "সিলেট": {
+      "Fajr": "03:47",
+      "Sunrise": "05:14",
+      "Dhuhr": "12:58",
+      "Asr": "16:39",
+      "Sunset": "18:40",
+      "Maghrib": "18:40",
+      "Isha": "20:05",
+
+      "Hijri": "11 Safar 1448",
+      "MoonPhase": "Waxing Crescent",
+      "DayLength": "13h 26m",
+
+      "SunAltitude": 75,
+      "SunProgress": 0.67,
+      "MoonIllumination": 18,
+      "MoonAge": 4,
+      "IslamicEvent": ""
+    },
+
+    "রংপুর": {
+      "Fajr": "04:03",
+      "Sunrise": "05:34",
+      "Dhuhr": "13:00",
+      "Asr": "17:45",
+      "Sunset": "18:55",
+      "Maghrib": "18:52",
+      "Isha": "21:30",
+
+      "Hijri": "11 Safar 1448",
+      "MoonPhase": "Waxing Crescent",
+      "DayLength": "13h 18m",
+
+      "SunAltitude": 69,
+      "SunProgress": 0.60,
+      "MoonIllumination": 18,
+      "MoonAge": 4,
+      "IslamicEvent": ""
+    },
+
+    "ময়মনসিংহ": {
+      "Fajr": "03:55",
+      "Sunrise": "05:23",
+      "Dhuhr": "13:03",
+      "Asr": "16:43",
+      "Sunset": "18:44",
+      "Maghrib": "18:44",
+      "Isha": "20:09",
+
+      "Hijri": "11 Safar 1448",
+      "MoonPhase": "Waxing Crescent",
+      "DayLength": "13h 21m",
+
+      "SunAltitude": 72,
+      "SunProgress": 0.63,
+      "MoonIllumination": 18,
+      "MoonAge": 4,
+      "IslamicEvent": ""
+    }
+  },
   "2026-08-03": {},
   "2026-08-04": {},
   "2026-08-05": {},
