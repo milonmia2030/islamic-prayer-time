@@ -2,7 +2,7 @@
   "duas": [
     {
       "id": "sleep_001",
-      "category": "sleep",
+      "category": "ঘুম",
 
       "title": {
         "bn": "ঘুমানোর দোয়া",
@@ -23,12 +23,109 @@
       "translation": {
         "bn": "হে আল্লাহ! আপনার নামেই আমি মৃত্যু বরণ করি এবং জীবিত হই।",
         "en": "In Your name, O Allah, I die and I live.",
+        "ar": "باسمك اللهم أموت وأحيا",
         "ur": "اے اللہ! تیرے ہی نام کے ساتھ میں مرتا اور جیتا ہوں۔",
         "tr": "Allah'ım! Senin adınla ölür ve dirilirim.",
         "fr": "Ô Allah, c'est en Ton nom que je meurs et que je vis."
       },
 
       "source": "Sahih Bukhari"
+    },
+
+    {
+      "id": "wake_001",
+      "category": "ঘুম",
+
+      "title": {
+        "bn": "ঘুম থেকে ওঠার দোয়া",
+        "en": "Dua After Waking Up",
+        "ar": "دعاء الاستيقاظ",
+        "ur": "جاگنے کی دعا",
+        "tr": "Uyanınca Okunacak Dua",
+        "fr": "Invocation au réveil"
+      },
+
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا",
+
+      "pronunciation": {
+        "bn": "আলহামদু লিল্লাহিল্লাযী আহইয়ানা বা'দা মা আমাতানা",
+        "en": "Alhamdu lillahil-ladhi ahyana ba'da ma amatana"
+      },
+
+      "translation": {
+        "bn": "সমস্ত প্রশংসা আল্লাহর, যিনি আমাদের মৃত্যুর পর পুনরায় জীবিত করেছেন।",
+        "en": "All praise is for Allah who gave us life after causing us to die.",
+        "ar": "الحمد لله الذي أحيانا بعد ما أماتنا",
+        "ur": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں موت کے بعد زندگی دی۔",
+        "tr": "Bizi öldükten sonra dirilten Allah'a hamdolsun.",
+        "fr": "Louange à Allah qui nous a redonné vie après nous avoir fait mourir."
+      },
+
+      "source": "Sahih Bukhari"
+    },
+
+    {
+      "id": "food_001",
+      "category": "খাবার",
+
+      "title": {
+        "bn": "খাবার আগে দোয়া",
+        "en": "Dua Before Eating",
+        "ar": "دعاء قبل الطعام",
+        "ur": "کھانے سے پہلے کی دعا",
+        "tr": "Yemekten Önce Okunacak Dua",
+        "fr": "Invocation avant de manger"
+      },
+
+      "arabic": "بِسْمِ اللَّهِ",
+
+      "pronunciation": {
+        "bn": "বিসমিল্লাহ",
+        "en": "Bismillah"
+      },
+
+      "translation": {
+        "bn": "আল্লাহর নামে শুরু করছি।",
+        "en": "In the name of Allah.",
+        "ar": "بسم الله",
+        "ur": "اللہ کے نام سے شروع کرتا ہوں۔",
+        "tr": "Allah'ın adıyla.",
+        "fr": "Au nom d'Allah."
+      },
+
+      "source": "Sunan Abu Dawud"
+    },
+
+    {
+      "id": "food_002",
+      "category": "খাবার",
+
+      "title": {
+        "bn": "খাবার শেষে দোয়া",
+        "en": "Dua After Eating",
+        "ar": "دعاء بعد الطعام",
+        "ur": "کھانے کے بعد کی دعا",
+        "tr": "Yemekten Sonra Okunacak Dua",
+        "fr": "Invocation après avoir mangé"
+      },
+
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا",
+
+      "pronunciation": {
+        "bn": "আলহামদু লিল্লাহিল্লাযী আত'আমানা ওয়া সাকানা",
+        "en": "Alhamdu lillahil-ladhi at'amana wa saqana"
+      },
+
+      "translation": {
+        "bn": "সমস্ত প্রশংসা আল্লাহর, যিনি আমাদের আহার ও পানীয় দান করেছেন।",
+        "en": "All praise is for Allah who fed us and gave us drink.",
+        "ar": "الحمد لله الذي أطعمنا وسقانا",
+        "ur": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں کھانا اور پانی دیا۔",
+        "tr": "Bizi yediren ve içiren Allah'a hamdolsun.",
+        "fr": "Louange à Allah qui nous a nourris et abreuvés."
+      },
+
+      "source": "Sunan Abu Dawud"
     }
   ]
 }
