@@ -1,28 +1,27 @@
 {
-  "duas": [
-    {
-      "id": "sleep_before",
-      "title": {
-        "bn": "ঘুমানোর দোয়া",
-        "en": "Dua Before Sleeping",
-        "ar": "دعاء قبل النوم"
-      },
-      "category": {
-        "bn": "ঘুম",
-        "en": "Sleep",
-        "ar": "النوم"
-      },
-      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
-      "pronunciation": {
-        "bn": "বিসমিকা আল্লাহুম্মা আমূতু ওয়া আহইয়া",
-        "en": "Bismika Allahumma amutu wa ahya",
-        "ar": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا"
-      },
-      "translations": {
-        "bn": "হে আল্লাহ! আপনার নামেই আমি মৃত্যু বরণ করি এবং জীবিত হই।",
-        "en": "O Allah, in Your name I die and I live.",
-        "ar": "اللهم باسمك أموت وأحيا"
-      }
+  "id": "sleep_before",
+  "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+
+  "languages": {
+    "bn": {
+      "title": "ঘুমানোর দোয়া",
+      "pronunciation": "বিসমিকা আল্লাহুম্মা আমূতু ওয়া আহইয়া",
+      "translation": "হে আল্লাহ! আপনার নামেই আমি মৃত্যু বরণ করি এবং জীবিত হই।",
+      "meaning": "ঘুমানোর আগে এই দোয়া পড়া হয়।"
+    },
+
+    "en": {
+      "title": "Dua Before Sleeping",
+      "pronunciation": "Bismika Allahumma amutu wa ahya",
+      "translation": "O Allah, in Your name I die and I live.",
+      "meaning": "This dua is recited before sleeping."
+    },
+
+    "ar": {
+      "title": "دعاء قبل النوم",
+      "pronunciation": "باسمك اللهم أموت وأحيا",
+      "translation": "اللهم باسمك أموت وأحيا.",
+      "meaning": "يُقال هذا الدعاء قبل النوم."
     }
-  ]
+  }
 }
