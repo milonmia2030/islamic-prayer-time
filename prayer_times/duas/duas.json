@@ -2,26 +2,46 @@
   "duas": [
     {
       "id": "sleep_before",
-      "category": "Sleep",
+      "category": "sleep",
       "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
-
       "languages": {
         "bn": {
           "title": "ঘুমানোর দোয়া",
           "pronunciation": "বিসমিকা আল্লাহুম্মা আমূতু ওয়া আহইয়া",
           "translation": "হে আল্লাহ! আপনার নামেই আমি মৃত্যু বরণ করি এবং জীবিত হই।"
         },
-
         "en": {
           "title": "Dua Before Sleeping",
           "pronunciation": "Bismika Allahumma amutu wa ahya",
           "translation": "O Allah, in Your name I die and I live."
         },
-
         "ar": {
           "title": "دعاء قبل النوم",
           "pronunciation": "باسمك اللهم أموت وأحيا",
           "translation": "اللهم باسمك أموت وأحيا."
+        }
+      }
+    },
+
+    {
+      "id": "food_before",
+      "category": "food",
+      "arabic": "بِسْمِ اللَّهِ",
+      "languages": {
+        "bn": {
+          "title": "খাবার শুরু করার দোয়া",
+          "pronunciation": "বিসমিল্লাহ",
+          "translation": "আল্লাহর নামে শুরু করছি।"
+        },
+        "en": {
+          "title": "Dua Before Eating",
+          "pronunciation": "Bismillah",
+          "translation": "In the name of Allah."
+        },
+        "ar": {
+          "title": "دعاء قبل الطعام",
+          "pronunciation": "بسم الله",
+          "translation": "باسم الله."
         }
       }
     }
