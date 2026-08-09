@@ -218,5 +218,228 @@
         "translation": "اللهم بك أمسينا وبك أصبحنا وبك نحيا وبك نموت وإليك المصير."
       }
     }
+  },
+
+  
+  {
+    "id": "sleep_bad_dream",
+    "category": "sleep",
+    "arabic": "أَعُوذُ بِاللَّهِ مِنْ شَرِّهَا وَمِنْ شَرِّ الشَّيْطَانِ",
+    "languages": {
+      "bn": {
+        "title": "খারাপ স্বপ্ন দেখলে দোয়া",
+        "pronunciation": "আউযু বিল্লাহি মিন শাররিহা ওয়া মিন শাররিশ শাইতান",
+        "translation": "আমি এই স্বপ্নের অনিষ্ট এবং শয়তানের অনিষ্ট থেকে আল্লাহর আশ্রয় প্রার্থনা করছি।"
+      },
+      "en": {
+        "title": "Dua After a Bad Dream",
+        "pronunciation": "A'udhu billahi min sharriha wa min sharrish-shaytan",
+        "translation": "I seek refuge in Allah from its evil and from the evil of Satan."
+      },
+      "ar": {
+        "title": "دعاء عند رؤية ما يكره في المنام",
+        "pronunciation": "أعوذ بالله من شرها ومن شر الشيطان",
+        "translation": "أعوذ بالله من شرها ومن شر الشيطان."
+      }
+    }
+  },
+  {
+    "id": "sleep_sleep_well",
+    "category": "sleep",
+    "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي وَبِكَ أَرْفَعُهُ",
+    "languages": {
+      "bn": {
+        "title": "বিছানায় শোয়ার দোয়া",
+        "pronunciation": "বিসমিকা রব্বী ওয়াদাতু জাম্বী ওয়া বিকা আরফাউহু",
+        "translation": "হে আমার রব! আপনার নামেই আমি আমার পার্শ্ব রাখলাম এবং আপনারই সাহায্যে তা উঠাব।"
+      },
+      "en": {
+        "title": "Dua When Going to Bed",
+        "pronunciation": "Bismika rabbi wada'tu janbi wa bika arfa'uhu",
+        "translation": "In Your name, my Lord, I lay down my side, and by You I raise it."
+      },
+      "ar": {
+        "title": "دعاء عند النوم",
+        "pronunciation": "باسمك ربي وضعت جنبي وبك أرفعه",
+        "translation": "باسمك ربي وضعت جنبي وبك أرفعه."
+      }
+    }
+  },
+  {
+    "id": "food_guest",
+    "category": "food",
+    "arabic": "اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
+    "languages": {
+      "bn": {
+        "title": "কারো বাড়িতে খাবার খেলে দোয়া",
+        "pronunciation": "আল্লাহুম্মা বারিক লাহুম ফীমা রাযাকতাহুম, ওয়াগফির লাহুম ওয়ারহামহুম",
+        "translation": "হে আল্লাহ! আপনি তাদের যে রিজিক দিয়েছেন তাতে বরকত দিন, তাদের ক্ষমা করুন এবং তাদের প্রতি রহম করুন।"
+      },
+      "en": {
+        "title": "Dua for the Host After Eating",
+        "pronunciation": "Allahumma barik lahum fima razaqtahum waghfir lahum warhamhum",
+        "translation": "O Allah, bless them in what You have provided for them, forgive them, and have mercy on them."
+      },
+      "ar": {
+        "title": "دعاء لصاحب الطعام",
+        "pronunciation": "اللهم بارك لهم فيما رزقتهم واغفر لهم وارحمهم",
+        "translation": "اللهم بارك لهم فيما رزقتهم واغفر لهم وارحمهم."
+      }
+    }
+  },
+  {
+    "id": "food_thirst",
+    "category": "food",
+    "arabic": "اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِي وَاسْقِ مَنْ سَقَانِي",
+    "languages": {
+      "bn": {
+        "title": "যে খাবার খাওয়ায় তার জন্য দোয়া",
+        "pronunciation": "আল্লাহুম্মা আতইম মান আতআমানী, ওয়াসকি মান সাকানী",
+        "translation": "হে আল্লাহ! যে আমাকে খাবার খাইয়েছে তাকে খাবার দিন এবং যে আমাকে পান করিয়েছে তাকে পান করান।"
+      },
+      "en": {
+        "title": "Dua for Someone Who Fed You",
+        "pronunciation": "Allahumma at'im man at'amani wasqi man saqani",
+        "translation": "O Allah, feed the one who fed me and give drink to the one who gave me drink."
+      },
+      "ar": {
+        "title": "دعاء لمن أطعم وسقى",
+        "pronunciation": "اللهم أطعم من أطعمني واسق من سقاني",
+        "translation": "اللهم أطعم من أطعمني واسق من سقاني."
+      }
+    }
+  },
+  {
+    "id": "food_thanksgiving",
+    "category": "food",
+    "arabic": "الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ",
+    "languages": {
+      "bn": {
+        "title": "খাবারের পর আল্লাহর প্রশংসা",
+        "pronunciation": "আলহামদু লিল্লাহি হামদান কাছীরান তইয়্যিবান মুবারাকান ফীহ",
+        "translation": "সমস্ত প্রশংসা আল্লাহর, অঢেল, পবিত্র ও বরকতময় প্রশংসা।"
+      },
+      "en": {
+        "title": "Praise After Eating",
+        "pronunciation": "Alhamdu lillahi hamdan kathiran tayyiban mubarakan fih",
+        "translation": "All praise is for Allah, abundant, good and blessed praise."
+      },
+      "ar": {
+        "title": "حمد الله بعد الطعام",
+        "pronunciation": "الحمد لله حمدًا كثيرًا طيبًا مباركًا فيه",
+        "translation": "الحمد لله حمدًا كثيرًا طيبًا مباركًا فيه."
+      }
+    }
+  },
+  {
+    "id": "travel_ride",
+    "category": "travel",
+    "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى",
+    "languages": {
+      "bn": {
+        "title": "সফরে কল্যাণের দোয়া",
+        "pronunciation": "আল্লাহুম্মা ইন্না নাসআলুকা ফী সফারিনা হাজাল বিররা ওয়াত তাকওয়া ওয়া মিনাল আমালি মা তারদা",
+        "translation": "হে আল্লাহ! আমরা আমাদের এই সফরে আপনার কাছে নেকি, তাকওয়া এবং এমন আমল চাই যা আপনি পছন্দ করেন।"
+      },
+      "en": {
+        "title": "Dua for a Blessed Journey",
+        "pronunciation": "Allahumma inna nas'aluka fi safarina hadhal birra wat-taqwa wa minal amali ma tarda",
+        "translation": "O Allah, we ask You for righteousness, piety, and deeds that please You during this journey."
+      },
+      "ar": {
+        "title": "دعاء السفر للخير والتقوى",
+        "pronunciation": "اللهم إنا نسألك في سفرنا هذا البر والتقوى ومن العمل ما ترضى",
+        "translation": "اللهم إنا نسألك في سفرنا هذا البر والتقوى ومن العمل ما ترضى."
+      }
+    }
+  },
+  {
+    "id": "travel_return",
+    "category": "travel",
+    "arabic": "آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ",
+    "languages": {
+      "bn": {
+        "title": "সফর থেকে ফেরার দোয়া",
+        "pronunciation": "আয়িবূনা তাইবূনা আবিদূনা লিরব্বিনা হামিদূন",
+        "translation": "আমরা প্রত্যাবর্তনকারী, তওবাকারী, ইবাদতকারী এবং আমাদের রবের প্রশংসাকারী।"
+      },
+      "en": {
+        "title": "Dua When Returning from a Journey",
+        "pronunciation": "Ayibuna ta'ibuna abiduna li rabbina hamidun",
+        "translation": "We return, repent, worship, and praise our Lord."
+      },
+      "ar": {
+        "title": "دعاء الرجوع من السفر",
+        "pronunciation": "آيبون تائبون عابدون لربنا حامدون",
+        "translation": "آيبون تائبون عابدون لربنا حامدون."
+      }
+    }
+  },
+  {
+    "id": "mosque_salah",
+    "category": "mosque",
+    "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا وَفِي بَصَرِي نُورًا وَفِي سَمْعِي نُورًا",
+    "languages": {
+      "bn": {
+        "title": "মসজিদে যাওয়ার সময় দোয়া",
+        "pronunciation": "আল্লাহুম্মাজআল ফী কলবী নূরান, ওয়া ফী বাসারী নূরান, ওয়া ফী সামঈ নূরান",
+        "translation": "হে আল্লাহ! আমার অন্তরে আলো দিন, আমার দৃষ্টিতে আলো দিন এবং আমার শ্রবণশক্তিতে আলো দিন।"
+      },
+      "en": {
+        "title": "Dua for Light",
+        "pronunciation": "Allahumma-j'al fi qalbi nuran wa fi basari nuran wa fi sam'i nuran",
+        "translation": "O Allah, place light in my heart, light in my sight, and light in my hearing."
+      },
+      "ar": {
+        "title": "دعاء النور",
+        "pronunciation": "اللهم اجعل في قلبي نورًا وفي بصري نورًا وفي سمعي نورًا",
+        "translation": "اللهم اجعل في قلبي نورًا وفي بصري نورًا وفي سمعي نورًا."
+      }
+    }
+  },
+  {
+    "id": "morning_protection",
+    "category": "morning_evening",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+    "languages": {
+      "bn": {
+        "title": "সকাল-সন্ধ্যার নিরাপত্তার দোয়া",
+        "pronunciation": "আল্লাহুম্মা ইন্নী আসআলুকাল আফওয়া ওয়াল আফিয়াতা ফিদ্দুনিয়া ওয়াল আখিরাহ",
+        "translation": "হে আল্লাহ! আমি আপনার কাছে দুনিয়া ও আখিরাতে ক্ষমা ও নিরাপত্তা প্রার্থনা করছি।"
+      },
+      "en": {
+        "title": "Morning and Evening Dua for Protection",
+        "pronunciation": "Allahumma inni as'alukal-afwa wal-afiyata fid-dunya wal-akhirah",
+        "translation": "O Allah, I ask You for pardon and well-being in this world and the Hereafter."
+      },
+      "ar": {
+        "title": "دعاء العفو والعافية",
+        "pronunciation": "اللهم إني أسألك العفو والعافية في الدنيا والآخرة",
+        "translation": "اللهم إني أسألك العفو والعافية في الدنيا والآخرة."
+      }
+    }
+  },
+  {
+    "id": "evening_protection",
+    "category": "morning_evening",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "languages": {
+      "bn": {
+        "title": "সকাল-সন্ধ্যার হেফাজতের দোয়া",
+        "pronunciation": "বিসমিল্লাহিল্লাযী লা ইয়াদুররু মা'আসমিহি শাইউন ফিল আরদি ওয়ালা ফিস সামাই, ওয়া হুয়াস সামীউল আলীম",
+        "translation": "আল্লাহর নামে, যাঁর নামের সঙ্গে পৃথিবী ও আকাশের কোনো কিছুই ক্ষতি করতে পারে না। তিনি সর্বশ্রোতা, সর্বজ্ঞ।"
+      },
+      "en": {
+        "title": "Morning and Evening Protection Dua",
+        "pronunciation": "Bismillahil-ladhi la yadurru ma'asmihi shay'un fil-ardi wa la fis-sama'i wa huwas-sami'ul-alim",
+        "translation": "In the name of Allah, with whose name nothing on earth or in heaven can cause harm. He is the All-Hearing, All-Knowing."
+      },
+      "ar": {
+        "title": "دعاء الحفظ في الصباح والمساء",
+        "pronunciation": "بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم",
+        "translation": "بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم."
+      }
+    }
   }
+
 ]
