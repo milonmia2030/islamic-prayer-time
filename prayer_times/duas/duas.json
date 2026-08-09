@@ -1,5 +1,4 @@
-{
-  "duas": [
+[
   {
     "id": "sleep_before",
     "category": "sleep",
@@ -23,19 +22,19 @@
     }
   },
   {
-    "id": "waking_up",
-    "category": "morning",
+    "id": "sleep_waking",
+    "category": "sleep",
     "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
     "languages": {
       "bn": {
         "title": "ঘুম থেকে ওঠার দোয়া",
-        "pronunciation": "আলহামদু লিল্লাহিল্লাযী আহইয়ানা বা‘দা মা আমাতানা ওয়া ইলাইহিন নুশূর",
-        "translation": "সমস্ত প্রশংসা আল্লাহর জন্য, যিনি আমাদের মৃত্যুর পর জীবিত করেছেন এবং তাঁর কাছেই পুনরুত্থান।"
+        "pronunciation": "আলহামদু লিল্লাহিল্লাযী আহইয়ানা বা'দা মা আমাতানা ওয়া ইলাইহিন নুশূর",
+        "translation": "সমস্ত প্রশংসা আল্লাহর, যিনি আমাদের মৃত্যুর পর জীবিত করেছেন এবং তাঁর কাছেই পুনরুত্থান।"
       },
       "en": {
         "title": "Dua After Waking Up",
         "pronunciation": "Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur",
-        "translation": "Praise is for Allah who gave us life after causing us to die, and to Him is the resurrection."
+        "translation": "All praise is for Allah who gave us life after causing us to die, and to Him is the resurrection."
       },
       "ar": {
         "title": "دعاء الاستيقاظ من النوم",
@@ -45,51 +44,7 @@
     }
   },
   {
-    "id": "entering_bathroom",
-    "category": "bathroom",
-    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
-    "languages": {
-      "bn": {
-        "title": "বাথরুমে প্রবেশের দোয়া",
-        "pronunciation": "আল্লাহুম্মা ইন্নী আউযু বিকা মিনাল খুবুছি ওয়াল খাবায়িছ",
-        "translation": "হে আল্লাহ! আমি অপবিত্র পুরুষ ও নারী শয়তান থেকে আপনার আশ্রয় প্রার্থনা করছি।"
-      },
-      "en": {
-        "title": "Dua Before Entering the Bathroom",
-        "pronunciation": "Allahumma inni a'udhu bika minal-khubthi wal-khaba'ith",
-        "translation": "O Allah, I seek refuge in You from the male and female devils."
-      },
-      "ar": {
-        "title": "دعاء دخول الخلاء",
-        "pronunciation": "اللهم إني أعوذ بك من الخبث والخبائث",
-        "translation": "اللهم إني أعوذ بك من الشياطين."
-      }
-    }
-  },
-  {
-    "id": "leaving_bathroom",
-    "category": "bathroom",
-    "arabic": "غُفْرَانَكَ",
-    "languages": {
-      "bn": {
-        "title": "বাথরুম থেকে বের হওয়ার দোয়া",
-        "pronunciation": "গুফরানাক",
-        "translation": "হে আল্লাহ! আমি আপনার ক্ষমা প্রার্থনা করছি।"
-      },
-      "en": {
-        "title": "Dua After Leaving the Bathroom",
-        "pronunciation": "Ghufranaka",
-        "translation": "I seek Your forgiveness, O Allah."
-      },
-      "ar": {
-        "title": "دعاء الخروج من الخلاء",
-        "pronunciation": "غفرانك",
-        "translation": "أسألك مغفرتك يا الله."
-      }
-    }
-  },
-  {
-    "id": "before_eating",
+    "id": "food_before",
     "category": "food",
     "arabic": "بِسْمِ اللَّهِ",
     "languages": {
@@ -106,119 +61,162 @@
       "ar": {
         "title": "دعاء قبل الطعام",
         "pronunciation": "بسم الله",
-        "translation": "باسم الله أبدأ."
+        "translation": "بسم الله."
       }
     }
   },
   {
-    "id": "after_eating",
+    "id": "food_forget",
+    "category": "food",
+    "arabic": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+    "languages": {
+      "bn": {
+        "title": "খাবারের শুরুতে বিসমিল্লাহ ভুলে গেলে",
+        "pronunciation": "বিসমিল্লাহি আওয়ালাহু ওয়া আখিরাহু",
+        "translation": "আল্লাহর নামে, এর শুরুতেও এবং শেষেও।"
+      },
+      "en": {
+        "title": "Dua When You Forget Bismillah",
+        "pronunciation": "Bismillahi awwalahu wa akhirahu",
+        "translation": "In the name of Allah at its beginning and at its end."
+      },
+      "ar": {
+        "title": "دعاء عند نسيان التسمية",
+        "pronunciation": "بسم الله أوله وآخره",
+        "translation": "بسم الله أوله وآخره."
+      }
+    }
+  },
+  {
+    "id": "food_after",
     "category": "food",
     "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
     "languages": {
       "bn": {
         "title": "খাবার শেষে দোয়া",
-        "pronunciation": "আলহামদু লিল্লাহিল্লাযী আত‘আমানী হাযা ওয়া রাযাকানীহি মিন গাইরি হাওলিন মিন্নী ওয়ালা কুওয়াহ",
-        "translation": "সমস্ত প্রশংসা আল্লাহর জন্য, যিনি আমাকে এই খাবার খাইয়েছেন এবং আমার কোনো শক্তি ও সামর্থ্য ছাড়াই তা আমাকে রিজিক হিসেবে দিয়েছেন।"
+        "pronunciation": "আলহামদু লিল্লাহিল্লাযী আতআমানী হাজা ওয়া রাযাকানীহি মিন গাইরি হাওলিন মিন্নী ওয়ালা কুওয়াহ",
+        "translation": "সমস্ত প্রশংসা আল্লাহর, যিনি আমাকে এই খাবার খাওয়ালেন এবং আমার কোনো শক্তি বা সামর্থ্য ছাড়াই তা আমাকে রিজিক হিসেবে দান করেছেন।"
       },
       "en": {
         "title": "Dua After Eating",
         "pronunciation": "Alhamdu lillahil-ladhi at'amani hadha wa razaqanihi min ghayri hawlin minni wa la quwwah",
-        "translation": "Praise is for Allah who fed me this and provided it for me without any power or strength from me."
+        "translation": "All praise is for Allah who fed me this and provided it for me without any strength or power from me."
       },
       "ar": {
         "title": "دعاء بعد الطعام",
         "pronunciation": "الحمد لله الذي أطعمني هذا ورزقنيه من غير حول مني ولا قوة",
-        "translation": "الحمد لله الذي أطعمَني هذا ورزقنيه من غير حول مني ولا قوة."
+        "translation": "الحمد لله الذي أطعمني هذا ورزقنيه من غير حول مني ولا قوة."
       }
     }
   },
   {
-    "id": "leaving_home",
-    "category": "home",
-    "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "id": "travel_start",
+    "category": "travel",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
     "languages": {
       "bn": {
-        "title": "বাড়ি থেকে বের হওয়ার দোয়া",
-        "pronunciation": "বিসমিল্লাহি তাওয়াক্কালতু আলাল্লাহি, লা হাওলা ওয়ালা কুওয়াতা ইল্লা বিল্লাহ",
-        "translation": "আল্লাহর নামে বের হচ্ছি। আমি আল্লাহর ওপর ভরসা করলাম। আল্লাহ ছাড়া কোনো শক্তি ও সামর্থ্য নেই।"
+        "title": "সফরের দোয়া",
+        "pronunciation": "সুবহানাল্লাযী সাখখারা লানা হাজা ওয়া মা কুন্না লাহু মুকরিনীন, ওয়া ইন্না ইলা রব্বিনা লামুনকালিবূন",
+        "translation": "পবিত্র তিনি, যিনি এটিকে আমাদের অধীন করে দিয়েছেন; অথচ আমরা নিজেরা তা করতে সক্ষম ছিলাম না। আর নিশ্চয়ই আমরা আমাদের রবের কাছেই ফিরে যাব।"
       },
       "en": {
-        "title": "Dua When Leaving Home",
-        "pronunciation": "Bismillahi tawakkaltu alallah, la hawla wa la quwwata illa billah",
-        "translation": "In the name of Allah, I place my trust in Allah. There is no power or strength except with Allah."
+        "title": "Dua for Travel",
+        "pronunciation": "Subhanalladhi sakhkhara lana hadha wa ma kunna lahu muqrinin wa inna ila rabbina lamunqalibun",
+        "translation": "Glory is to Him who has subjected this to us, and we could not have done it ourselves. Surely, to our Lord we will return."
       },
       "ar": {
-        "title": "دعاء الخروج من المنزل",
-        "pronunciation": "بسم الله توكلت على الله لا حول ولا قوة إلا بالله",
-        "translation": "باسم الله، توكلت على الله، ولا حول ولا قوة إلا بالله."
+        "title": "دعاء السفر",
+        "pronunciation": "سبحان الذي سخر لنا هذا وما كنا له مقرنين وإنا إلى ربنا لمنقلبون",
+        "translation": "سبحان الذي سخر لنا هذا وما كنا له مقرنين وإنا إلى ربنا لمنقلبون."
       }
     }
   },
   {
-    "id": "entering_home",
-    "category": "home",
-    "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى رَبِّنَا تَوَكَّلْنَا",
+    "id": "mosque_enter",
+    "category": "mosque",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
     "languages": {
       "bn": {
-        "title": "বাড়িতে প্রবেশের দোয়া",
-        "pronunciation": "বিসমিল্লাহি ওয়ালাজনা, ওয়া বিসমিল্লাহি খারাজনা, ওয়া আলা রব্বিনা তাওয়াক্কালনা",
-        "translation": "আল্লাহর নামে আমরা প্রবেশ করলাম, আল্লাহর নামেই বের হলাম এবং আমাদের রবের ওপর আমরা ভরসা করলাম।"
+        "title": "মসজিদে প্রবেশের দোয়া",
+        "pronunciation": "আল্লাহুম্মাফতাহ লী আবওয়াবা রহমাতিক",
+        "translation": "হে আল্লাহ! আমার জন্য আপনার রহমতের দরজাগুলো খুলে দিন।"
       },
       "en": {
-        "title": "Dua When Entering Home",
-        "pronunciation": "Bismillahi walajna, wa bismillahi kharajna, wa ala rabbina tawakkalna",
-        "translation": "In the name of Allah we enter, in the name of Allah we leave, and upon our Lord we rely."
+        "title": "Dua When Entering the Mosque",
+        "pronunciation": "Allahumma-ftah li abwaba rahmatik",
+        "translation": "O Allah, open for me the doors of Your mercy."
       },
       "ar": {
-        "title": "دعاء دخول المنزل",
-        "pronunciation": "بسم الله ولجنا وبسم الله خرجنا وعلى ربنا توكلنا",
-        "translation": "باسم الله دخلنا، وباسم الله خرجنا، وعلى الله ربنا توكلنا."
+        "title": "دعاء دخول المسجد",
+        "pronunciation": "اللهم افتح لي أبواب رحمتك",
+        "translation": "اللهم افتح لي أبواب رحمتك."
       }
     }
   },
   {
-    "id": "before_wudu",
-    "category": "wudu",
-    "arabic": "بِسْمِ اللَّهِ",
+    "id": "mosque_exit",
+    "category": "mosque",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
     "languages": {
       "bn": {
-        "title": "অজু করার শুরুতে",
-        "pronunciation": "বিসমিল্লাহ",
-        "translation": "আল্লাহর নামে শুরু করছি।"
+        "title": "মসজিদ থেকে বের হওয়ার দোয়া",
+        "pronunciation": "আল্লাহুম্মা ইন্নী আসআলুকা মিন ফাদলিক",
+        "translation": "হে আল্লাহ! আমি আপনার অনুগ্রহ প্রার্থনা করছি।"
       },
       "en": {
-        "title": "Dua Before Wudu",
-        "pronunciation": "Bismillah",
-        "translation": "In the name of Allah."
+        "title": "Dua When Leaving the Mosque",
+        "pronunciation": "Allahumma inni as'aluka min fadlik",
+        "translation": "O Allah, I ask You for Your bounty."
       },
       "ar": {
-        "title": "دعاء قبل الوضوء",
-        "pronunciation": "بسم الله",
-        "translation": "باسم الله أبدأ الوضوء."
+        "title": "دعاء الخروج من المسجد",
+        "pronunciation": "اللهم إني أسألك من فضلك",
+        "translation": "اللهم إني أسألك من فضلك."
       }
     }
   },
   {
-    "id": "after_wudu",
-    "category": "wudu",
-    "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "id": "morning",
+    "category": "morning_evening",
+    "arabic": "اللَّهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ",
     "languages": {
       "bn": {
-        "title": "অজু শেষে দোয়া",
-        "pronunciation": "আশহাদু আল্লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারীকালাহু, ওয়া আশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসূলুহ",
-        "translation": "আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া কোনো উপাস্য নেই। তিনি একক, তাঁর কোনো শরিক নেই। এবং আমি সাক্ষ্য দিচ্ছি যে, মুহাম্মদ ﷺ তাঁর বান্দা ও রাসূল।"
+        "title": "সকালের দোয়া",
+        "pronunciation": "আল্লাহুম্মা বিকা আসবাহনা ওয়া বিকা আমসাইনা ওয়া বিকা নাহইয়া ওয়া বিকা নামূতু ওয়া ইলাইকাল নুশূর",
+        "translation": "হে আল্লাহ! আপনারই মাধ্যমে আমরা সকাল করি, আপনারই মাধ্যমে সন্ধ্যা করি, আপনারই মাধ্যমে জীবিত থাকি, আপনারই মাধ্যমে মৃত্যুবরণ করি এবং আপনার কাছেই পুনরুত্থান।"
       },
       "en": {
-        "title": "Dua After Wudu",
-        "pronunciation": "Ashhadu alla ilaha illallahu wahdahu la sharika lah, wa ashhadu anna Muhammadan abduhu wa rasuluh",
-        "translation": "I bear witness that there is no god but Allah alone, without partner, and I bear witness that Muhammad is His servant and Messenger."
+        "title": "Morning Dua",
+        "pronunciation": "Allahumma bika asbahna wa bika amsayna wa bika nahya wa bika namutu wa ilaykan-nushur",
+        "translation": "O Allah, by You we enter the morning, by You we enter the evening, by You we live, by You we die, and to You is the resurrection."
       },
       "ar": {
-        "title": "دعاء بعد الوضوء",
-        "pronunciation": "أشهد أن لا إله إلا الله وحده لا شريك له وأشهد أن محمدًا عبده ورسوله",
-        "translation": "أشهد أن لا إله إلا الله وحده لا شريك له، وأشهد أن محمدًا عبده ورسوله."
+        "title": "دعاء الصباح",
+        "pronunciation": "اللهم بك أصبحنا وبك أمسينا وبك نحيا وبك نموت وإليك النشور",
+        "translation": "اللهم بك أصبحنا وبك أمسينا وبك نحيا وبك نموت وإليك النشور."
+      }
+    }
+  },
+  {
+    "id": "evening",
+    "category": "morning_evening",
+    "arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ",
+    "languages": {
+      "bn": {
+        "title": "সন্ধ্যার দোয়া",
+        "pronunciation": "আল্লাহুম্মা বিকা আমসাইনা ওয়া বিকা আসবাহনা ওয়া বিকা নাহইয়া ওয়া বিকা নামূতু ওয়া ইলাইকাল মাসীর",
+        "translation": "হে আল্লাহ! আপনারই মাধ্যমে আমরা সন্ধ্যা করি, আপনারই মাধ্যমে সকাল করি, আপনারই মাধ্যমে জীবিত থাকি, আপনারই মাধ্যমে মৃত্যুবরণ করি এবং আপনার কাছেই প্রত্যাবর্তন।"
+      },
+      "en": {
+        "title": "Evening Dua",
+        "pronunciation": "Allahumma bika amsayna wa bika asbahna wa bika nahya wa bika namutu wa ilaykal-masir",
+        "translation": "O Allah, by You we enter the evening, by You we enter the morning, by You we live, by You we die, and to You is the return."
+      },
+      "ar": {
+        "title": "دعاء المساء",
+        "pronunciation": "اللهم بك أمسينا وبك أصبحنا وبك نحيا وبك نموت وإليك المصير",
+        "translation": "اللهم بك أمسينا وبك أصبحنا وبك نحيا وبك نموت وإليك المصير."
       }
     }
   }
 ]
-}
