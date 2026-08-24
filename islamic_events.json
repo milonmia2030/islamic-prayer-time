@@ -2,69 +2,304 @@
   "version": "2026.08.24",
   "last_updated": "2026-08-24",
 
-  "hijri_months": [
-    "১. মুহাররম",
-    "২. সফর",
-    "৩. রবিউল আউয়াল",
-    "৪. রবিউস সানি",
-    "৫. জমাদিউল আউয়াল",
-    "৬. জমাদিউস সানি",
-    "৭. রজব",
-    "৮. শাবান",
-    "৯. রমজান",
-    "১০. শাওয়াল",
-    "১১. জিলকদ",
-    "১২. জিলহজ্জ"
+  "supported_languages": [
+    "bn",
+    "en",
+    "ar",
+    "ur",
+    "tr",
+    "fr",
+    "id",
+    "ms"
   ],
+
+  "default_language": "en",
+
+  "hijri_months": {
+    "bn": [
+      "১. মুহাররম",
+      "২. সফর",
+      "৩. রবিউল আউয়াল",
+      "৪. রবিউস সানি",
+      "৫. জমাদিউল আউয়াল",
+      "৬. জমাদিউস সানি",
+      "৭. রজব",
+      "৮. শাবান",
+      "৯. রমজান",
+      "১০. শাওয়াল",
+      "১১. জিলকদ",
+      "১২. জিলহজ্জ"
+    ],
+
+    "en": [
+      "1. Muharram",
+      "2. Safar",
+      "3. Rabi al-Awwal",
+      "4. Rabi al-Thani",
+      "5. Jumada al-Awwal",
+      "6. Jumada al-Thani",
+      "7. Rajab",
+      "8. Sha'ban",
+      "9. Ramadan",
+      "10. Shawwal",
+      "11. Dhu al-Qi'dah",
+      "12. Dhu al-Hijjah"
+    ],
+
+    "ar": [
+      "١. مُحَرَّم",
+      "٢. صَفَر",
+      "٣. رَبِيع الأَوَّل",
+      "٤. رَبِيع الثَّانِي",
+      "٥. جُمَادَى الأُولَى",
+      "٦. جُمَادَى الآخِرَة",
+      "٧. رَجَب",
+      "٨. شَعْبَان",
+      "٩. رَمَضَان",
+      "١٠. شَوَّال",
+      "١١. ذُو القِعْدَة",
+      "١٢. ذُو الحِجَّة"
+    ],
+
+    "ur": [
+      "۱. محرم",
+      "۲. صفر",
+      "۳. ربیع الاول",
+      "۴. ربیع الثانی",
+      "۵. جمادی الاول",
+      "۶. جمادی الثانی",
+      "۷. رجب",
+      "۸. شعبان",
+      "۹. رمضان",
+      "۱۰. شوال",
+      "۱۱. ذوالقعدہ",
+      "۱۲. ذوالحجہ"
+    ],
+
+    "tr": [
+      "1. Muharrem",
+      "2. Safer",
+      "3. Rebiülevvel",
+      "4. Rebiülahir",
+      "5. Cemaziyelevvel",
+      "6. Cemaziyelahir",
+      "7. Recep",
+      "8. Şaban",
+      "9. Ramazan",
+      "10. Şevval",
+      "11. Zilkade",
+      "12. Zilhicce"
+    ]
+  },
 
   "2026": [
     {
-      "id": "ashura",
-      "title": "আশুরা",
-      "date": "2026-07-26",
-      "hijri": "১০ মুহাররম ১৪৪৮ হিজরি",
-      "type": "important"
-    },
-    {
       "id": "shab-e-meraj",
-      "title": "শবে মেরাজ",
+
+      "title": {
+        "bn": "শবে মেরাজ",
+        "en": "Isra and Mi'raj",
+        "ar": "الإسراء والمعراج",
+        "ur": "شبِ معراج",
+        "tr": "Miraç Kandili",
+        "fr": "Isra et Mi'raj",
+        "id": "Isra dan Mi'raj",
+        "ms": "Isra dan Mikraj"
+      },
+
       "date": "2026-01-16",
-      "hijri": "২৭ রজব ১৪৪৭ হিজরি",
+
+      "hijri": {
+        "bn": "২৭ রজব ১৪৪৭ হিজরি",
+        "en": "27 Rajab 1447 AH",
+        "ar": "٢٧ رجب ١٤٤٧ هـ",
+        "ur": "۲۷ رجب ۱۴۴۷ ہجری",
+        "tr": "27 Recep 1447 H",
+        "fr": "27 Rajab 1447 H",
+        "id": "27 Rajab 1447 H",
+        "ms": "27 Rejab 1447 H"
+      },
+
       "type": "important"
     },
+
     {
       "id": "shab-e-barat",
-      "title": "শবে বরাত",
+
+      "title": {
+        "bn": "শবে বরাত",
+        "en": "Laylat al-Bara'ah",
+        "ar": "ليلة البراءة",
+        "ur": "شبِ برات",
+        "tr": "Berat Kandili",
+        "fr": "Laylat al-Bara'ah",
+        "id": "Malam Nisfu Syaaban",
+        "ms": "Malam Nisfu Syaaban"
+      },
+
       "date": "2026-02-03",
-      "hijri": "১৫ শাবান ১৪৪৭ হিজরি",
+
+      "hijri": {
+        "bn": "১৫ শাবান ১৪৪৭ হিজরি",
+        "en": "15 Sha'ban 1447 AH",
+        "ar": "١٥ شعبان ١٤٤٧ هـ",
+        "ur": "۱۵ شعبان ۱۴۴۷ ہجری",
+        "tr": "15 Şaban 1447 H",
+        "fr": "15 Sha'ban 1447 H",
+        "id": "15 Syaaban 1447 H",
+        "ms": "15 Syaaban 1447 H"
+      },
+
       "type": "important"
     },
+
     {
       "id": "ramadan",
-      "title": "রমজান শুরু",
+
+      "title": {
+        "bn": "রমজান শুরু",
+        "en": "Beginning of Ramadan",
+        "ar": "بداية رمضان",
+        "ur": "رمضان کا آغاز",
+        "tr": "Ramazan'ın Başlangıcı",
+        "fr": "Début du Ramadan",
+        "id": "Awal Ramadan",
+        "ms": "Permulaan Ramadan"
+      },
+
       "date": "2026-02-18",
-      "hijri": "১ রমজান ১৪৪৭ হিজরি",
+
+      "hijri": {
+        "bn": "১ রমজান ১৪৪৭ হিজরি",
+        "en": "1 Ramadan 1447 AH",
+        "ar": "١ رمضان ١٤٤٧ هـ",
+        "ur": "۱ رمضان ۱۴۴۷ ہجری",
+        "tr": "1 Ramazan 1447 H",
+        "fr": "1 Ramadan 1447 H",
+        "id": "1 Ramadan 1447 H",
+        "ms": "1 Ramadan 1447 H"
+      },
+
       "type": "ramadan"
     },
+
     {
       "id": "laylatul-qadr",
-      "title": "লাইলাতুল কদর",
+
+      "title": {
+        "bn": "লাইলাতুল কদর",
+        "en": "Laylat al-Qadr",
+        "ar": "ليلة القدر",
+        "ur": "لیلۃ القدر",
+        "tr": "Kadir Gecesi",
+        "fr": "Laylat al-Qadr",
+        "id": "Lailatul Qadr",
+        "ms": "Lailatul Qadar"
+      },
+
       "date": "2026-03-16",
-      "hijri": "২৭ রমজান ১৪৪৭ হিজরি",
+
+      "hijri": {
+        "bn": "২৭ রমজান ১৪৪৭ হিজরি",
+        "en": "27 Ramadan 1447 AH",
+        "ar": "٢٧ رمضان ١٤٤٧ هـ",
+        "ur": "۲۷ رمضان ۱۴۴۷ ہجری",
+        "tr": "27 Ramazan 1447 H",
+        "fr": "27 Ramadan 1447 H",
+        "id": "27 Ramadan 1447 H",
+        "ms": "27 Ramadan 1447 H"
+      },
+
       "type": "important"
     },
+
     {
       "id": "eid-ul-fitr",
-      "title": "ঈদুল ফিতর",
+
+      "title": {
+        "bn": "ঈদুল ফিতর",
+        "en": "Eid al-Fitr",
+        "ar": "عيد الفطر",
+        "ur": "عید الفطر",
+        "tr": "Ramazan Bayramı",
+        "fr": "Aïd al-Fitr",
+        "id": "Idulfitri",
+        "ms": "Hari Raya Aidilfitri"
+      },
+
       "date": "2026-03-20",
-      "hijri": "১ শাওয়াল ১৪৪৭ হিজরি",
+
+      "hijri": {
+        "bn": "১ শাওয়াল ১৪৪৭ হিজরি",
+        "en": "1 Shawwal 1447 AH",
+        "ar": "١ شوال ١٤٤٧ هـ",
+        "ur": "۱ شوال ۱۴۴۷ ہجری",
+        "tr": "1 Şevval 1447 H",
+        "fr": "1 Shawwal 1447 H",
+        "id": "1 Syawal 1447 H",
+        "ms": "1 Syawal 1447 H"
+      },
+
       "type": "important"
     },
+
     {
       "id": "eid-ul-adha",
-      "title": "ঈদুল আযহা",
+
+      "title": {
+        "bn": "ঈদুল আযহা",
+        "en": "Eid al-Adha",
+        "ar": "عيد الأضحى",
+        "ur": "عید الاضحی",
+        "tr": "Kurban Bayramı",
+        "fr": "Aïd al-Adha",
+        "id": "Iduladha",
+        "ms": "Hari Raya Aidiladha"
+      },
+
       "date": "2026-05-27",
-      "hijri": "১০ জিলহজ্জ ১৪৪৭ হিজরি",
+
+      "hijri": {
+        "bn": "১০ জিলহজ্জ ১৪৪৭ হিজরি",
+        "en": "10 Dhu al-Hijjah 1447 AH",
+        "ar": "١٠ ذو الحجة ١٤٤٧ هـ",
+        "ur": "۱۰ ذوالحجہ ۱۴۴۷ ہجری",
+        "tr": "10 Zilhicce 1447 H",
+        "fr": "10 Dhu al-Hijjah 1447 H",
+        "id": "10 Zulhijah 1447 H",
+        "ms": "10 Zulhijjah 1447 H"
+      },
+
+      "type": "important"
+    },
+
+    {
+      "id": "ashura",
+
+      "title": {
+        "bn": "আশুরা",
+        "en": "Ashura",
+        "ar": "عاشوراء",
+        "ur": "عاشوراء",
+        "tr": "Aşura",
+        "fr": "Achoura",
+        "id": "Asyura",
+        "ms": "Asyura"
+      },
+
+      "date": "2026-07-26",
+
+      "hijri": {
+        "bn": "১০ মুহাররম ১৪৪৮ হিজরি",
+        "en": "10 Muharram 1448 AH",
+        "ar": "١٠ محرم ١٤٤٨ هـ",
+        "ur": "۱۰ محرم ۱۴۴۸ ہجری",
+        "tr": "10 Muharrem 1448 H",
+        "fr": "10 Muharram 1448 H",
+        "id": "10 Muharram 1448 H",
+        "ms": "10 Muharram 1448 H"
+      },
+
       "type": "important"
     }
   ],
@@ -72,30 +307,121 @@
   "2027": [
     {
       "id": "ramadan",
-      "title": "রমজান শুরু",
+
+      "title": {
+        "bn": "রমজান শুরু",
+        "en": "Beginning of Ramadan",
+        "ar": "بداية رمضان",
+        "ur": "رمضان کا آغاز",
+        "tr": "Ramazan'ın Başlangıcı",
+        "fr": "Début du Ramadan",
+        "id": "Awal Ramadan",
+        "ms": "Permulaan Ramadan"
+      },
+
       "date": "2027-02-08",
-      "hijri": "১ রমজান ১৪৪৮ হিজরি",
+
+      "hijri": {
+        "bn": "১ রমজান ১৪৪৮ হিজরি",
+        "en": "1 Ramadan 1448 AH",
+        "ar": "١ رمضان ١٤٤٨ هـ",
+        "ur": "۱ رمضان ۱۴۴۸ ہجری",
+        "tr": "1 Ramazan 1448 H",
+        "fr": "1 Ramadan 1448 H",
+        "id": "1 Ramadan 1448 H",
+        "ms": "1 Ramadan 1448 H"
+      },
+
       "type": "ramadan"
     },
+
     {
       "id": "laylatul-qadr",
-      "title": "লাইলাতুল কদর",
+
+      "title": {
+        "bn": "লাইলাতুল কদর",
+        "en": "Laylat al-Qadr",
+        "ar": "ليلة القدر",
+        "ur": "لیلۃ القدر",
+        "tr": "Kadir Gecesi",
+        "fr": "Laylat al-Qadr",
+        "id": "Lailatul Qadr",
+        "ms": "Lailatul Qadar"
+      },
+
       "date": "2027-03-06",
-      "hijri": "২৭ রমজান ১৪৪৮ হিজরি",
+
+      "hijri": {
+        "bn": "২৭ রমজান ১৪৪৮ হিজরি",
+        "en": "27 Ramadan 1448 AH",
+        "ar": "٢٧ رمضان ١٤٤٨ هـ",
+        "ur": "۲۷ رمضان ۱۴۴۸ ہجری",
+        "tr": "27 Ramazan 1448 H",
+        "fr": "27 Ramadan 1448 H",
+        "id": "27 Ramadan 1448 H",
+        "ms": "27 Ramadan 1448 H"
+      },
+
       "type": "important"
     },
+
     {
       "id": "eid-ul-fitr",
-      "title": "ঈদুল ফিতর",
+
+      "title": {
+        "bn": "ঈদুল ফিতর",
+        "en": "Eid al-Fitr",
+        "ar": "عيد الفطر",
+        "ur": "عید الفطر",
+        "tr": "Ramazan Bayramı",
+        "fr": "Aïd al-Fitr",
+        "id": "Idulfitri",
+        "ms": "Hari Raya Aidilfitri"
+      },
+
       "date": "2027-03-09",
-      "hijri": "১ শাওয়াল ১৪৪৮ হিজরি",
+
+      "hijri": {
+        "bn": "১ শাওয়াল ১৪৪৮ হিজরি",
+        "en": "1 Shawwal 1448 AH",
+        "ar": "١ شوال ١٤٤٨ هـ",
+        "ur": "۱ شوال ۱۴۴۸ ہجری",
+        "tr": "1 Şevval 1448 H",
+        "fr": "1 Shawwal 1448 H",
+        "id": "1 Syawal 1448 H",
+        "ms": "1 Syawal 1448 H"
+      },
+
       "type": "important"
     },
+
     {
       "id": "eid-ul-adha",
-      "title": "ঈদুল আযহা",
+
+      "title": {
+        "bn": "ঈদুল আযহা",
+        "en": "Eid al-Adha",
+        "ar": "عيد الأضحى",
+        "ur": "عید الاضحی",
+        "tr": "Kurban Bayramı",
+        "fr": "Aïd al-Adha",
+        "id": "Iduladha",
+        "ms": "Hari Raya Aidiladha"
+      },
+
       "date": "2027-05-16",
-      "hijri": "১০ জিলহজ্জ ১৪৪৮ হিজরি",
+
+      "hijri": {
+        "bn": "১০ জিলহজ্জ ১৪৪৮ হিজরি",
+        "en": "10 Dhu al-Hijjah 1448 AH",
+        "ar": "١٠ ذو الحجة ١٤٤٨ هـ",
+        "ur": "۱۰ ذوالحجہ ۱۴۴۸ ہجری",
+        "tr": "10 Zilhicce 1448 H",
+        "fr": "10 Dhu al-Hijjah 1448 H",
+        "id": "10 Zulhijah 1448 H",
+        "ms": "10 Zulhijjah 1448 H"
+      },
+
       "type": "important"
     }
   ]
