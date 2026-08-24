@@ -1,1 +1,44 @@
 
+{
+  "version": "2026.08",
+  "last_updated": "2026-08-24",
+
+  "hijri_months": [
+    "Muharram",
+    "Safar",
+    "Rabi al-Awwal",
+    "Rabi al-Thani",
+    "Jumada al-Awwal",
+    "Jumada al-Thani",
+    "Rajab",
+    "Sha'ban",
+    "Ramadan",
+    "Shawwal",
+    "Dhul-Qadah",
+    "Dhul-Hijjah"
+  ],
+
+  "events": [
+    {
+      "id": "ashura",
+      "title": "Ashura",
+      "date": "2026-07-26",
+      "hijri": "10 Muharram 1448 AH",
+      "type": "important"
+    },
+    {
+      "id": "mawlid",
+      "title": "Mawlid an-Nabi",
+      "date": "2026-08-25",
+      "hijri": "12 Rabi al-Awwal 1448 AH",
+      "type": "important"
+    }
+  ],
+
+  "ramadan": {
+    "id": "ramadan_1448",
+    "title": "Ramadan",
+    "date": "2027-02-08",
+    "hijri": "1 Ramadan 1448 AH"
+  }
+}
