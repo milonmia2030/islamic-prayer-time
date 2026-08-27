@@ -1,1 +1,461 @@
 
+{
+  "version": "2026.08.27",
+  "last_updated": "2026-08-27",
+  "questions": [
+    {
+      "id": 1,
+      "correctIndex": 2,
+
+      "bn": {
+        "question": "ইসলামের পবিত্র গ্রন্থ কোনটি?",
+        "options": [
+          "ইঞ্জিল",
+          "তাওরাত",
+          "কুরআন",
+          "জাবুর"
+        ]
+      },
+
+      "en": {
+        "question": "Which is the holy book of Islam?",
+        "options": [
+          "Injil",
+          "Torah",
+          "Quran",
+          "Zabur"
+        ]
+      },
+
+      "ur": {
+        "question": "اسلام کی مقدس کتاب کون سی ہے؟",
+        "options": [
+          "انجیل",
+          "تورات",
+          "قرآن",
+          "زبور"
+        ]
+      },
+
+      "id": {
+        "question": "Apakah kitab suci umat Islam?",
+        "options": [
+          "Injil",
+          "Taurat",
+          "Al-Qur'an",
+          "Zabur"
+        ]
+      },
+
+      "tr": {
+        "question": "İslam'ın kutsal kitabı hangisidir?",
+        "options": [
+          "İncil",
+          "Tevrat",
+          "Kur'an",
+          "Zebur"
+        ]
+      },
+
+      "fr": {
+        "question": "Quel est le livre sacré de l'Islam ?",
+        "options": [
+          "Évangile",
+          "Torah",
+          "Coran",
+          "Psaumes"
+        ]
+      }
+    },
+
+    {
+      "id": 2,
+      "correctIndex": 1,
+
+      "bn": {
+        "question": "মুসলমানদের কিবলা কোথায়?",
+        "options": [
+          "মদিনা",
+          "মক্কা",
+          "জেরুজালেম",
+          "ইরাক"
+        ]
+      },
+
+      "en": {
+        "question": "Where is the Qiblah of Muslims?",
+        "options": [
+          "Madinah",
+          "Makkah",
+          "Jerusalem",
+          "Iraq"
+        ]
+      },
+
+      "ur": {
+        "question": "مسلمانوں کا قبلہ کہاں ہے؟",
+        "options": [
+          "مدینہ",
+          "مکہ",
+          "یروشلم",
+          "عراق"
+        ]
+      },
+
+      "id": {
+        "question": "Di manakah kiblat umat Islam?",
+        "options": [
+          "Madinah",
+          "Makkah",
+          "Yerusalem",
+          "Irak"
+        ]
+      },
+
+      "tr": {
+        "question": "Müslümanların kıblesi nerededir?",
+        "options": [
+          "Medine",
+          "Mekke",
+          "Kudüs",
+          "Irak"
+        ]
+      },
+
+      "fr": {
+        "question": "Où se trouve la qibla des musulmans ?",
+        "options": [
+          "Médine",
+          "La Mecque",
+          "Jérusalem",
+          "Irak"
+        ]
+      }
+    },
+
+    {
+      "id": 3,
+      "correctIndex": 2,
+
+      "bn": {
+        "question": "নামাজ কয় ওয়াক্ত ফরজ?",
+        "options": [
+          "৩",
+          "৪",
+          "৫",
+          "৬"
+        ]
+      },
+
+      "en": {
+        "question": "How many daily prayers are obligatory?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+
+      "ur": {
+        "question": "روزانہ کتنی نمازیں فرض ہیں؟",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+
+      "id": {
+        "question": "Berapa kali salat wajib dalam sehari?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+
+      "tr": {
+        "question": "Günde kaç vakit namaz farzdır?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+
+      "fr": {
+        "question": "Combien de prières quotidiennes sont obligatoires ?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      }
+    },
+
+    {
+      "id": 4,
+      "correctIndex": 1,
+
+      "bn": {
+        "question": "রমজান মাসে কোন ইবাদত ফরজ?",
+        "options": [
+          "হজ",
+          "রোজা",
+          "যাকাত",
+          "নামাজ"
+        ]
+      },
+
+      "en": {
+        "question": "Which act of worship is obligatory during Ramadan?",
+        "options": [
+          "Hajj",
+          "Fasting",
+          "Zakat",
+          "Prayer"
+        ]
+      },
+
+      "ur": {
+        "question": "رمضان کے مہینے میں کون سی عبادت فرض ہے؟",
+        "options": [
+          "حج",
+          "روزہ",
+          "زکوٰۃ",
+          "نماز"
+        ]
+      },
+
+      "id": {
+        "question": "Ibadah apa yang diwajibkan selama Ramadan?",
+        "options": [
+          "Haji",
+          "Puasa",
+          "Zakat",
+          "Salat"
+        ]
+      },
+
+      "tr": {
+        "question": "Ramazan ayında hangi ibadet farzdır?",
+        "options": [
+          "Hac",
+          "Oruç",
+          "Zekât",
+          "Namaz"
+        ]
+      },
+
+      "fr": {
+        "question": "Quelle adoration est obligatoire pendant le Ramadan ?",
+        "options": [
+          "Hajj",
+          "Jeûne",
+          "Zakat",
+          "Prière"
+        ]
+      }
+    },
+
+    {
+      "id": 5,
+      "correctIndex": 0,
+
+      "bn": {
+        "question": "প্রথম নবী কে?",
+        "options": [
+          "আদম (আ.)",
+          "নূহ (আ.)",
+          "ইব্রাহিম (আ.)",
+          "মুসা (আ.)"
+        ]
+      },
+
+      "en": {
+        "question": "Who was the first prophet?",
+        "options": [
+          "Adam (AS)",
+          "Nuh (AS)",
+          "Ibrahim (AS)",
+          "Musa (AS)"
+        ]
+      },
+
+      "ur": {
+        "question": "پہلے نبی کون تھے؟",
+        "options": [
+          "آدم علیہ السلام",
+          "نوح علیہ السلام",
+          "ابراہیم علیہ السلام",
+          "موسیٰ علیہ السلام"
+        ]
+      },
+
+      "id": {
+        "question": "Siapakah nabi pertama?",
+        "options": [
+          "Adam (AS)",
+          "Nuh (AS)",
+          "Ibrahim (AS)",
+          "Musa (AS)"
+        ]
+      },
+
+      "tr": {
+        "question": "İlk peygamber kimdir?",
+        "options": [
+          "Âdem (AS)",
+          "Nuh (AS)",
+          "İbrahim (AS)",
+          "Musa (AS)"
+        ]
+      },
+
+      "fr": {
+        "question": "Qui était le premier prophète ?",
+        "options": [
+          "Adam (AS)",
+          "Noé (AS)",
+          "Ibrahim (AS)",
+          "Moïse (AS)"
+        ]
+      }
+    },
+
+    {
+      "id": 6,
+      "correctIndex": 2,
+
+      "bn": {
+        "question": "শেষ নবী কে?",
+        "options": [
+          "ঈসা (আ.)",
+          "মুসা (আ.)",
+          "মুহাম্মদ (সা.)",
+          "ইব্রাহিম (আ.)"
+        ]
+      },
+
+      "en": {
+        "question": "Who was the last prophet?",
+        "options": [
+          "Isa (AS)",
+          "Musa (AS)",
+          "Muhammad (PBUH)",
+          "Ibrahim (AS)"
+        ]
+      },
+
+      "ur": {
+        "question": "آخری نبی کون ہیں؟",
+        "options": [
+          "عیسیٰ علیہ السلام",
+          "موسیٰ علیہ السلام",
+          "محمد ﷺ",
+          "ابراہیم علیہ السلام"
+        ]
+      },
+
+      "id": {
+        "question": "Siapakah nabi terakhir?",
+        "options": [
+          "Isa (AS)",
+          "Musa (AS)",
+          "Muhammad (SAW)",
+          "Ibrahim (AS)"
+        ]
+      },
+
+      "tr": {
+        "question": "Son peygamber kimdir?",
+        "options": [
+          "İsa (AS)",
+          "Musa (AS)",
+          "Muhammed (SAV)",
+          "İbrahim (AS)"
+        ]
+      },
+
+      "fr": {
+        "question": "Qui était le dernier prophète ?",
+        "options": [
+          "Isa (AS)",
+          "Moïse (AS)",
+          "Muhammad (PSL)",
+          "Ibrahim (AS)"
+        ]
+      }
+    },
+
+    {
+      "id": 7,
+      "correctIndex": 2,
+
+      "bn": {
+        "question": "কুরআন কত বছরে নাজিল হয়েছে?",
+        "options": [
+          "১০ বছর",
+          "২০ বছর",
+          "২৩ বছর",
+          "৩০ বছর"
+        ]
+      },
+
+      "en": {
+        "question": "Over how many years was the Quran revealed?",
+        "options": [
+          "10 years",
+          "20 years",
+          "23 years",
+          "30 years"
+        ]
+      },
+
+      "ur": {
+        "question": "قرآن کتنے سالوں میں نازل ہوا؟",
+        "options": [
+          "10 سال",
+          "20 سال",
+          "23 سال",
+          "30 سال"
+        ]
+      },
+
+      "id": {
+        "question": "Selama berapa tahun Al-Qur'an diturunkan?",
+        "options": [
+          "10 tahun",
+          "20 tahun",
+          "23 tahun",
+          "30 tahun"
+        ]
+      },
+
+      "tr": {
+        "question": "Kur'an kaç yıl boyunca indirilmiştir?",
+        "options": [
+          "10 yıl",
+          "20 yıl",
+          "23 yıl",
+          "30 yıl"
+        ]
+      },
+
+      "fr": {
+        "question": "Sur combien d'années le Coran a-t-il été révélé ?",
+        "options": [
+          "10 ans",
+          "20 ans",
+          "23 ans",
+          "30 ans"
+        ]
+      }
+    }
+  ]
+}
