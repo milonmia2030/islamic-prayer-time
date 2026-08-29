@@ -456,6 +456,657 @@
           "30 ans"
         ]
       }
-    }
+    },
+
+{
+  "id": 8,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "ইসলামের স্তম্ভ কয়টি?",
+    "options": [
+      "৩টি",
+      "৪টি",
+      "৫টি",
+      "৬টি"
+    ]
+  },
+
+  "en": {
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+
+  "ur": {
+    "question": "اسلام کے کتنے ارکان ہیں؟",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+
+  "id": {
+    "question": "Ada berapa rukun Islam?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+
+  "tr": {
+    "question": "İslam'ın kaç şartı vardır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+
+  "fr": {
+    "question": "Combien y a-t-il de piliers de l'Islam ?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  }
+},
+
+{
+  "id": 9,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "যাকাত সাধারণত সম্পদের কত শতাংশ?",
+    "options": [
+      "১%",
+      "২.৫%",
+      "৫%",
+      "১০%"
+    ]
+  },
+
+  "en": {
+    "question": "What is the standard rate of Zakat on qualifying wealth?",
+    "options": [
+      "1%",
+      "2.5%",
+      "5%",
+      "10%"
+    ]
+  },
+
+  "ur": {
+    "question": "عام طور پر قابلِ زکوٰۃ مال پر زکوٰۃ کی شرح کتنی ہے؟",
+    "options": [
+      "1%",
+      "2.5%",
+      "5%",
+      "10%"
+    ]
+  },
+
+  "id": {
+    "question": "Berapa kadar zakat yang umum untuk harta yang memenuhi syarat?",
+    "options": [
+      "1%",
+      "2,5%",
+      "5%",
+      "10%"
+    ]
+  },
+
+  "tr": {
+    "question": "Nisaba ulaşan mal için genel zekât oranı nedir?",
+    "options": [
+      "%1",
+      "%2,5",
+      "%5",
+      "%10"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est généralement le taux de la zakat sur les biens éligibles ?",
+    "options": [
+      "1 %",
+      "2,5 %",
+      "5 %",
+      "10 %"
+    ]
+  }
+},
+
+{
+  "id": 10,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "হজ কোন মাসে অনুষ্ঠিত হয়?",
+    "options": [
+      "রমজান",
+      "যিলহজ",
+      "মুহাররম",
+      "শাবান"
+    ]
+  },
+
+  "en": {
+    "question": "In which Islamic month is Hajj performed?",
+    "options": [
+      "Ramadan",
+      "Dhul-Hijjah",
+      "Muharram",
+      "Sha'ban"
+    ]
+  },
+
+  "ur": {
+    "question": "حج کس اسلامی مہینے میں ادا کیا جاتا ہے؟",
+    "options": [
+      "رمضان",
+      "ذوالحجہ",
+      "محرم",
+      "شعبان"
+    ]
+  },
+
+  "id": {
+    "question": "Pada bulan Islam apa ibadah haji dilaksanakan?",
+    "options": [
+      "Ramadan",
+      "Dzulhijjah",
+      "Muharram",
+      "Syaban"
+    ]
+  },
+
+  "tr": {
+    "question": "Hac hangi hicrî ayda yapılır?",
+    "options": [
+      "Ramazan",
+      "Zilhicce",
+      "Muharrem",
+      "Şaban"
+    ]
+  },
+
+  "fr": {
+    "question": "Au cours de quel mois islamique le Hajj est-il accompli ?",
+    "options": [
+      "Ramadan",
+      "Dhul-Hijjah",
+      "Mouharram",
+      "Chaabane"
+    ]
+  }
+},
+
+{
+  "id": 11,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "রমজান ইসলামী বর্ষপঞ্জির কততম মাস?",
+    "options": [
+      "৯ম",
+      "৮ম",
+      "১০ম",
+      "১২তম"
+    ]
+  },
+
+  "en": {
+    "question": "Which month is Ramadan in the Islamic calendar?",
+    "options": [
+      "9th",
+      "8th",
+      "10th",
+      "12th"
+    ]
+  },
+
+  "ur": {
+    "question": "اسلامی کیلنڈر میں رمضان کون سا مہینہ ہے؟",
+    "options": [
+      "9واں",
+      "8واں",
+      "10واں",
+      "12واں"
+    ]
+  },
+
+  "id": {
+    "question": "Ramadan adalah bulan ke berapa dalam kalender Islam?",
+    "options": [
+      "Ke-9",
+      "Ke-8",
+      "Ke-10",
+      "Ke-12"
+    ]
+  },
+
+  "tr": {
+    "question": "Ramazan, hicrî takvimin kaçıncı ayıdır?",
+    "options": [
+      "9.",
+      "8.",
+      "10.",
+      "12."
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le rang du mois de Ramadan dans le calendrier islamique ?",
+    "options": [
+      "9e",
+      "8e",
+      "10e",
+      "12e"
+    ]
+  }
+},
+
+{
+  "id": 12,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "লাইলাতুল কদর কোন মাসে?",
+    "options": [
+      "শাবান",
+      "মুহাররম",
+      "রমজান",
+      "যিলকদ"
+    ]
+  },
+
+  "en": {
+    "question": "In which month does Laylat al-Qadr occur?",
+    "options": [
+      "Sha'ban",
+      "Muharram",
+      "Ramadan",
+      "Dhul-Qi'dah"
+    ]
+  },
+
+  "ur": {
+    "question": "لیلۃ القدر کس مہینے میں ہوتی ہے؟",
+    "options": [
+      "شعبان",
+      "محرم",
+      "رمضان",
+      "ذوالقعدہ"
+    ]
+  },
+
+  "id": {
+    "question": "Pada bulan apakah Lailatul Qadar terjadi?",
+    "options": [
+      "Syaban",
+      "Muharram",
+      "Ramadan",
+      "Dzulqa'dah"
+    ]
+  },
+
+  "tr": {
+    "question": "Kadir Gecesi hangi ayda bulunur?",
+    "options": [
+      "Şaban",
+      "Muharrem",
+      "Ramazan",
+      "Zilkade"
+    ]
+  },
+
+  "fr": {
+    "question": "Durant quel mois a lieu Laylat al-Qadr ?",
+    "options": [
+      "Chaabane",
+      "Mouharram",
+      "Ramadan",
+      "Dhul-Qi'dah"
+    ]
+  }
+},
+
+{
+  "id": 13,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "প্রথম ওহি কোন গুহায় নাজিল হয়?",
+    "options": [
+      "সওর গুহা",
+      "হেরা গুহা",
+      "উহুদ গুহা",
+      "মিনা গুহা"
+    ]
+  },
+
+  "en": {
+    "question": "In which cave was the first revelation received?",
+    "options": [
+      "Cave of Thawr",
+      "Cave of Hira",
+      "Cave of Uhud",
+      "Cave of Mina"
+    ]
+  },
+
+  "ur": {
+    "question": "پہلی وحی کس غار میں نازل ہوئی؟",
+    "options": [
+      "غارِ ثور",
+      "غارِ حرا",
+      "غارِ اُحد",
+      "غارِ منیٰ"
+    ]
+  },
+
+  "id": {
+    "question": "Di gua manakah wahyu pertama diturunkan?",
+    "options": [
+      "Gua Tsur",
+      "Gua Hira",
+      "Gua Uhud",
+      "Gua Mina"
+    ]
+  },
+
+  "tr": {
+    "question": "İlk vahiy hangi mağarada geldi?",
+    "options": [
+      "Sevr Mağarası",
+      "Hira Mağarası",
+      "Uhud Mağarası",
+      "Mina Mağarası"
+    ]
+  },
+
+  "fr": {
+    "question": "Dans quelle grotte la première révélation a-t-elle été reçue ?",
+    "options": [
+      "Grotte de Thawr",
+      "Grotte de Hira",
+      "Grotte d'Uhud",
+      "Grotte de Mina"
+    ]
+  }
+},
+
+{
+  "id": 14,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "কুরআন কার মাধ্যমে নবী মুহাম্মদ (সা.)-এর কাছে নাজিল হয়েছে?",
+    "options": [
+      "জিবরাইল (আ.)",
+      "মিকাইল (আ.)",
+      "ইসরাফিল (আ.)",
+      "আজরাইল (আ.)"
+    ]
+  },
+
+  "en": {
+    "question": "Through whom was the Quran revealed to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Jibril (AS)",
+      "Mikail (AS)",
+      "Israfil (AS)",
+      "Malak al-Mawt"
+    ]
+  },
+
+  "ur": {
+    "question": "نبی محمد ﷺ پر قرآن کس فرشتے کے ذریعے نازل ہوا؟",
+    "options": [
+      "جبرائیل علیہ السلام",
+      "میکائیل علیہ السلام",
+      "اسرافیل علیہ السلام",
+      "ملک الموت"
+    ]
+  },
+
+  "id": {
+    "question": "Melalui siapa Al-Qur'an diturunkan kepada Nabi Muhammad (SAW)?",
+    "options": [
+      "Jibril (AS)",
+      "Mikail (AS)",
+      "Israfil (AS)",
+      "Malaikat Maut"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an, Peygamber Muhammed'e (SAV) hangi melek aracılığıyla indirildi?",
+    "options": [
+      "Cebrail (AS)",
+      "Mikail (AS)",
+      "İsrafil (AS)",
+      "Azrail (AS)"
+    ]
+  },
+
+  "fr": {
+    "question": "Par quel ange le Coran a-t-il été révélé au prophète Muhammad (PSL) ?",
+    "options": [
+      "Jibril (AS)",
+      "Mikail (AS)",
+      "Israfil (AS)",
+      "L'Ange de la Mort"
+    ]
+  }
+},
+
+{
+  "id": 15,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "প্রথম নাজিল হওয়া সূরার প্রথম আয়াত কোন সূরায়?",
+    "options": [
+      "আলাক",
+      "ফাতিহা",
+      "বাকারা",
+      "ইখলাস"
+    ]
+  },
+
+  "en": {
+    "question": "Which Surah contains the first verses revealed?",
+    "options": [
+      "Al-Alaq",
+      "Al-Fatihah",
+      "Al-Baqarah",
+      "Al-Ikhlas"
+    ]
+  },
+
+  "ur": {
+    "question": "سب سے پہلے نازل ہونے والی آیات کس سورت میں ہیں؟",
+    "options": [
+      "العلق",
+      "الفاتحہ",
+      "البقرہ",
+      "الاخلاص"
+    ]
+  },
+
+  "id": {
+    "question": "Surah manakah yang berisi ayat-ayat pertama yang diturunkan?",
+    "options": [
+      "Al-'Alaq",
+      "Al-Fatihah",
+      "Al-Baqarah",
+      "Al-Ikhlas"
+    ]
+  },
+
+  "tr": {
+    "question": "İlk indirilen ayetler hangi sûrededir?",
+    "options": [
+      "Alak Suresi",
+      "Fâtiha Suresi",
+      "Bakara Suresi",
+      "İhlâs Suresi"
+    ]
+  },
+
+  "fr": {
+    "question": "Dans quelle sourate se trouvent les premiers versets révélés ?",
+    "options": [
+      "Al-Alaq",
+      "Al-Fatiha",
+      "Al-Baqara",
+      "Al-Ikhlas"
+    ]
+  }
+},
+
+{
+  "id": 16,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "হিজরত কোথা থেকে কোথায় হয়েছিল?",
+    "options": [
+      "মদিনা থেকে মক্কা",
+      "মক্কা থেকে জেরুজালেম",
+      "মক্কা থেকে মদিনা",
+      "তায়েফ থেকে মদিনা"
+    ]
+  },
+
+  "en": {
+    "question": "From where to where did the Hijrah take place?",
+    "options": [
+      "Madinah to Makkah",
+      "Makkah to Jerusalem",
+      "Makkah to Madinah",
+      "Ta'if to Madinah"
+    ]
+  },
+
+  "ur": {
+    "question": "ہجرت کہاں سے کہاں کی گئی؟",
+    "options": [
+      "مدینہ سے مکہ",
+      "مکہ سے یروشلم",
+      "مکہ سے مدینہ",
+      "طائف سے مدینہ"
+    ]
+  },
+
+  "id": {
+    "question": "Hijrah dilakukan dari mana ke mana?",
+    "options": [
+      "Madinah ke Makkah",
+      "Makkah ke Yerusalem",
+      "Makkah ke Madinah",
+      "Thaif ke Madinah"
+    ]
+  },
+
+  "tr": {
+    "question": "Hicret nereden nereye yapılmıştır?",
+    "options": [
+      "Medine'den Mekke'ye",
+      "Mekke'den Kudüs'e",
+      "Mekke'den Medine'ye",
+      "Taif'ten Medine'ye"
+    ]
+  },
+
+  "fr": {
+    "question": "De quelle ville à quelle ville a eu lieu l'Hégire ?",
+    "options": [
+      "De Médine à La Mecque",
+      "De La Mecque à Jérusalem",
+      "De La Mecque à Médine",
+      "De Taïf à Médine"
+    ]
+  }
+},
+
+{
+  "id": 17,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "কাবা শরীফ পুনর্নির্মাণে কোন দুই নবী ভূমিকা রেখেছিলেন?",
+    "options": [
+      "আদম (আ.) ও নূহ (আ.)",
+      "মুসা (আ.) ও ঈসা (আ.)",
+      "ইব্রাহিম (আ.) ও ইসমাইল (আ.)",
+      "দাউদ (আ.) ও সুলাইমান (আ.)"
+    ]
+  },
+
+  "en": {
+    "question": "Which two prophets rebuilt the Kaaba?",
+    "options": [
+      "Adam (AS) and Nuh (AS)",
+      "Musa (AS) and Isa (AS)",
+      "Ibrahim (AS) and Ismail (AS)",
+      "Dawud (AS) and Sulayman (AS)"
+    ]
+  },
+
+  "ur": {
+    "question": "کعبہ کی تعمیر نو میں کن دو نبیوں نے حصہ لیا؟",
+    "options": [
+      "آدم علیہ السلام اور نوح علیہ السلام",
+      "موسیٰ علیہ السلام اور عیسیٰ علیہ السلام",
+      "ابراہیم علیہ السلام اور اسماعیل علیہ السلام",
+      "داؤد علیہ السلام اور سلیمان علیہ السلام"
+    ]
+  },
+
+  "id": {
+    "question": "Dua nabi manakah yang membangun kembali Ka'bah?",
+    "options": [
+      "Adam (AS) dan Nuh (AS)",
+      "Musa (AS) dan Isa (AS)",
+      "Ibrahim (AS) dan Ismail (AS)",
+      "Dawud (AS) dan Sulaiman (AS)"
+    ]
+  },
+
+  "tr": {
+    "question": "Kâbe'yi yeniden inşa eden iki peygamber kimdir?",
+    "options": [
+      "Âdem (AS) ve Nuh (AS)",
+      "Musa (AS) ve İsa (AS)",
+      "İbrahim (AS) ve İsmail (AS)",
+      "Davud (AS) ve Süleyman (AS)"
+    ]
+  },
+
+  "fr": {
+    "question": "Quels sont les deux prophètes qui ont reconstruit la Kaaba ?",
+    "options": [
+      "Adam (AS) et Noé (AS)",
+      "Moïse (AS) et Jésus (AS)",
+      "Ibrahim (AS) et Ismail (AS)",
+      "David (AS) et Salomon (AS)"
+    ]
+  }
+}
+    
   ]
 }
