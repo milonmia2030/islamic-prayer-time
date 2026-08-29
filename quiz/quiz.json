@@ -5040,7 +5040,7 @@
 
 {
   "id": 89,
-  "correctIndex": 3,
+  "correctIndex": 1,
 
   "bn": {
     "question": "কুরআনের শেষ সূরার নাম কী?",
@@ -5105,7 +5105,7 @@
 
 {
   "id": 90,
-  "correctIndex": 0,
+  "correctIndex": 1,
 
   "bn": {
     "question": "কুরআন কোন ভাষায় নাজিল হয়েছে?",
@@ -5170,7 +5170,7 @@
 
 {
   "id": 91,
-  "correctIndex": 2,
+  "correctIndex": 1,
 
   "bn": {
     "question": "ওযুর ফরজ কয়টি?",
@@ -5300,7 +5300,7 @@
 
 {
   "id": 93,
-  "correctIndex": 3,
+  "correctIndex": 1,
 
   "bn": {
     "question": "ইসলামের পাঁচটি স্তম্ভের মধ্যে কোনটি সম্পদশালীদের ওপর ফরজ?",
@@ -5365,7 +5365,7 @@
 
 {
   "id": 94,
-  "correctIndex": 2,
+  "correctIndex": 1,
 
   "bn": {
     "question": "হজ কোন মাসে পালন করা হয়?",
@@ -5495,7 +5495,7 @@
 
 {
   "id": 96,
-  "correctIndex": 0,
+  "correctIndex": 1,
 
   "bn": {
     "question": "জুমার নামাজ কোন দিনে আদায় করা হয়?",
@@ -5560,7 +5560,7 @@
 
 {
   "id": 97,
-  "correctIndex": 2,
+  "correctIndex": 1,
 
   "bn": {
     "question": "আজানের মাধ্যমে কী ঘোষণা করা হয়?",
@@ -5625,7 +5625,7 @@
 
 {
   "id": 98,
-  "correctIndex": 3,
+  "correctIndex": 1,
 
   "bn": {
     "question": "সাহরি কোন ইবাদতের সঙ্গে সম্পর্কিত?",
@@ -5690,7 +5690,7 @@
 
 {
   "id": 99,
-  "correctIndex": 0,
+  "correctIndex": 1,
 
   "bn": {
     "question": "ইফতার কখন করা হয়?",
