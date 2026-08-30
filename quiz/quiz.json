@@ -1301,6 +1301,5208 @@
       "5 rak'ahs"
     ]
   }
+},
+
+    {
+  "id": 21,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "ইসলামের দ্বিতীয় স্তম্ভ কোনটি?",
+    "options": [
+      "হজ",
+      "নামাজ",
+      "যাকাত",
+      "রোজা"
+    ]
+  },
+
+  "en": {
+    "question": "What is the second pillar of Islam?",
+    "options": [
+      "Hajj",
+      "Prayer",
+      "Zakat",
+      "Fasting"
+    ]
+  },
+
+  "ur": {
+    "question": "اسلام کا دوسرا رکن کون سا ہے؟",
+    "options": [
+      "حج",
+      "نماز",
+      "زکوٰۃ",
+      "روزہ"
+    ]
+  },
+
+  "id": {
+    "question": "Apa rukun Islam yang kedua?",
+    "options": [
+      "Haji",
+      "Salat",
+      "Zakat",
+      "Puasa"
+    ]
+  },
+
+  "tr": {
+    "question": "İslam'ın ikinci şartı nedir?",
+    "options": [
+      "Hac",
+      "Namaz",
+      "Zekât",
+      "Oruç"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le deuxième pilier de l'Islam ?",
+    "options": [
+      "Hajj",
+      "Prière",
+      "Zakat",
+      "Jeûne"
+    ]
+  }
+},
+
+{
+  "id": 22,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "ইসলামের তৃতীয় স্তম্ভ কোনটি?",
+    "options": [
+      "রোজা",
+      "হজ",
+      "নামাজ",
+      "যাকাত"
+    ]
+  },
+
+  "en": {
+    "question": "What is the third pillar of Islam?",
+    "options": [
+      "Fasting",
+      "Hajj",
+      "Prayer",
+      "Zakat"
+    ]
+  },
+
+  "ur": {
+    "question": "اسلام کا تیسرا رکن کون سا ہے؟",
+    "options": [
+      "روزہ",
+      "حج",
+      "نماز",
+      "زکوٰۃ"
+    ]
+  },
+
+  "id": {
+    "question": "Apa rukun Islam yang ketiga?",
+    "options": [
+      "Puasa",
+      "Haji",
+      "Salat",
+      "Zakat"
+    ]
+  },
+
+  "tr": {
+    "question": "İslam'ın üçüncü şartı nedir?",
+    "options": [
+      "Oruç",
+      "Hac",
+      "Namaz",
+      "Zekât"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le troisième pilier de l'Islam ?",
+    "options": [
+      "Jeûne",
+      "Hajj",
+      "Prière",
+      "Zakat"
+    ]
+  }
+},
+
+{
+  "id": 23,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "ইসলামের চতুর্থ স্তম্ভ কোনটি?",
+    "options": [
+      "রোজা",
+      "হজ",
+      "যাকাত",
+      "নামাজ"
+    ]
+  },
+
+  "en": {
+    "question": "What is the fourth pillar of Islam?",
+    "options": [
+      "Fasting",
+      "Hajj",
+      "Zakat",
+      "Prayer"
+    ]
+  },
+
+  "ur": {
+    "question": "اسلام کا چوتھا رکن کون سا ہے؟",
+    "options": [
+      "روزہ",
+      "حج",
+      "زکوٰۃ",
+      "نماز"
+    ]
+  },
+
+  "id": {
+    "question": "Apa rukun Islam yang keempat?",
+    "options": [
+      "Puasa",
+      "Haji",
+      "Zakat",
+      "Salat"
+    ]
+  },
+
+  "tr": {
+    "question": "İslam'ın dördüncü şartı nedir?",
+    "options": [
+      "Oruç",
+      "Hac",
+      "Zekât",
+      "Namaz"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le quatrième pilier de l'Islam ?",
+    "options": [
+      "Jeûne",
+      "Hajj",
+      "Zakat",
+      "Prière"
+    ]
+  }
+},
+
+{
+  "id": 24,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "ইসলামের পঞ্চম স্তম্ভ কোনটি?",
+    "options": [
+      "নামাজ",
+      "যাকাত",
+      "হজ",
+      "রোজা"
+    ]
+  },
+
+  "en": {
+    "question": "What is the fifth pillar of Islam?",
+    "options": [
+      "Prayer",
+      "Zakat",
+      "Hajj",
+      "Fasting"
+    ]
+  },
+
+  "ur": {
+    "question": "اسلام کا پانچواں رکن کون سا ہے؟",
+    "options": [
+      "نماز",
+      "زکوٰۃ",
+      "حج",
+      "روزہ"
+    ]
+  },
+
+  "id": {
+    "question": "Apa rukun Islam yang kelima?",
+    "options": [
+      "Salat",
+      "Zakat",
+      "Haji",
+      "Puasa"
+    ]
+  },
+
+  "tr": {
+    "question": "İslam'ın beşinci şartı nedir?",
+    "options": [
+      "Namaz",
+      "Zekât",
+      "Hac",
+      "Oruç"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le cinquième pilier de l'Islam ?",
+    "options": [
+      "Prière",
+      "Zakat",
+      "Hajj",
+      "Jeûne"
+    ]
+  }
+},
+
+{
+  "id": 25,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "মুসলমানদের পবিত্র ঘরের নাম কী?",
+    "options": [
+      "মসজিদে নববী",
+      "কাবা",
+      "মসজিদুল আকসা",
+      "মসজিদে কুবা"
+    ]
+  },
+
+  "en": {
+    "question": "What is the name of the sacred House of Muslims?",
+    "options": [
+      "Al-Masjid an-Nabawi",
+      "The Kaaba",
+      "Al-Aqsa Mosque",
+      "Quba Mosque"
+    ]
+  },
+
+  "ur": {
+    "question": "مسلمانوں کے مقدس گھر کا نام کیا ہے؟",
+    "options": [
+      "مسجد نبوی",
+      "کعبہ",
+      "مسجد اقصیٰ",
+      "مسجد قباء"
+    ]
+  },
+
+  "id": {
+    "question": "Apa nama Rumah Suci umat Islam?",
+    "options": [
+      "Masjid Nabawi",
+      "Ka'bah",
+      "Masjid Al-Aqsa",
+      "Masjid Quba"
+    ]
+  },
+
+  "tr": {
+    "question": "Müslümanların kutsal evinin adı nedir?",
+    "options": [
+      "Mescid-i Nebevî",
+      "Kâbe",
+      "Mescid-i Aksâ",
+      "Kuba Mescidi"
+    ]
+  },
+
+  "fr": {
+    "question": "Comment s'appelle la Maison sacrée des musulmans ?",
+    "options": [
+      "La mosquée du Prophète",
+      "La Kaaba",
+      "La mosquée Al-Aqsa",
+      "La mosquée de Quba"
+    ]
+  }
+},
+
+{
+  "id": 26,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "কাবা শরীফ কোন শহরে অবস্থিত?",
+    "options": [
+      "মক্কা",
+      "মদিনা",
+      "তায়েফ",
+      "জেদ্দা"
+    ]
+  },
+
+  "en": {
+    "question": "In which city is the Kaaba located?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jeddah"
+    ]
+  },
+
+  "ur": {
+    "question": "کعبہ شریف کس شہر میں واقع ہے؟",
+    "options": [
+      "مکہ",
+      "مدینہ",
+      "طائف",
+      "جدہ"
+    ]
+  },
+
+  "id": {
+    "question": "Di kota manakah Ka'bah berada?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jeddah"
+    ]
+  },
+
+  "tr": {
+    "question": "Kâbe hangi şehirde bulunmaktadır?",
+    "options": [
+      "Mekke",
+      "Medine",
+      "Taif",
+      "Cidde"
+    ]
+  },
+
+  "fr": {
+    "question": "Dans quelle ville se trouve la Kaaba ?",
+    "options": [
+      "La Mecque",
+      "Médine",
+      "Taïf",
+      "Djeddah"
+    ]
+  }
+},
+
+{
+  "id": 27,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "হিজরি সনের প্রথম মাস কোনটি?",
+    "options": [
+      "রমজান",
+      "শাবান",
+      "মুহাররম",
+      "রজব"
+    ]
+  },
+
+  "en": {
+    "question": "What is the first month of the Islamic calendar?",
+    "options": [
+      "Ramadan",
+      "Sha'ban",
+      "Muharram",
+      "Rajab"
+    ]
+  },
+
+  "ur": {
+    "question": "اسلامی سال کا پہلا مہینہ کون سا ہے؟",
+    "options": [
+      "رمضان",
+      "شعبان",
+      "محرم",
+      "رجب"
+    ]
+  },
+
+  "id": {
+    "question": "Apa bulan pertama dalam kalender Islam?",
+    "options": [
+      "Ramadan",
+      "Syaban",
+      "Muharram",
+      "Rajab"
+    ]
+  },
+
+  "tr": {
+    "question": "Hicri takvimin ilk ayı hangisidir?",
+    "options": [
+      "Ramazan",
+      "Şaban",
+      "Muharrem",
+      "Recep"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le premier mois du calendrier islamique ?",
+    "options": [
+      "Ramadan",
+      "Chaabane",
+      "Mouharram",
+      "Rajab"
+    ]
+  }
+},
+
+{
+  "id": 28,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "হিজরি সনের শেষ মাস কোনটি?",
+    "options": [
+      "মুহাররম",
+      "রমজান",
+      "শাওয়াল",
+      "জিলহজ"
+    ]
+  },
+
+  "en": {
+    "question": "What is the last month of the Islamic calendar?",
+    "options": [
+      "Muharram",
+      "Ramadan",
+      "Shawwal",
+      "Dhul-Hijjah"
+    ]
+  },
+
+  "ur": {
+    "question": "اسلامی سال کا آخری مہینہ کون سا ہے؟",
+    "options": [
+      "محرم",
+      "رمضان",
+      "شوال",
+      "ذوالحجہ"
+    ]
+  },
+
+  "id": {
+    "question": "Apa bulan terakhir dalam kalender Islam?",
+    "options": [
+      "Muharram",
+      "Ramadan",
+      "Syawal",
+      "Dzulhijjah"
+    ]
+  },
+
+  "tr": {
+    "question": "Hicri takvimin son ayı hangisidir?",
+    "options": [
+      "Muharrem",
+      "Ramazan",
+      "Şevval",
+      "Zilhicce"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le dernier mois du calendrier islamique ?",
+    "options": [
+      "Mouharram",
+      "Ramadan",
+      "Chawwal",
+      "Dhou al-Hijja"
+    ]
+  }
+},
+
+{
+  "id": 29,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "রমজানের পর কোন মাস আসে?",
+    "options": [
+      "শাবান",
+      "শাওয়াল",
+      "জিলকদ",
+      "মুহাররম"
+    ]
+  },
+
+  "en": {
+    "question": "Which month comes after Ramadan?",
+    "options": [
+      "Sha'ban",
+      "Shawwal",
+      "Dhul-Qi'dah",
+      "Muharram"
+    ]
+  },
+
+  "ur": {
+    "question": "رمضان کے بعد کون سا مہینہ آتا ہے؟",
+    "options": [
+      "شعبان",
+      "شوال",
+      "ذوالقعدہ",
+      "محرم"
+    ]
+  },
+
+  "id": {
+    "question": "Bulan apakah yang datang setelah Ramadan?",
+    "options": [
+      "Syaban",
+      "Syawal",
+      "Dzulqa'dah",
+      "Muharram"
+    ]
+  },
+
+  "tr": {
+    "question": "Ramazan'dan sonra hangi ay gelir?",
+    "options": [
+      "Şaban",
+      "Şevval",
+      "Zilkade",
+      "Muharrem"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel mois vient après le Ramadan ?",
+    "options": [
+      "Chaabane",
+      "Chawwal",
+      "Dhou al-Qi'da",
+      "Mouharram"
+    ]
+  }
+},
+
+{
+  "id": 30,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "রমজান মাসের শেষে কোন ঈদ উদযাপন করা হয়?",
+    "options": [
+      "ঈদুল ফিতর",
+      "ঈদুল আজহা",
+      "আশুরা",
+      "মিলাদ"
+    ]
+  },
+
+  "en": {
+    "question": "Which Eid is celebrated at the end of Ramadan?",
+    "options": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Ashura",
+      "Mawlid"
+    ]
+  },
+
+  "ur": {
+    "question": "رمضان کے آخر میں کون سی عید منائی جاتی ہے؟",
+    "options": [
+      "عید الفطر",
+      "عید الاضحیٰ",
+      "عاشوراء",
+      "میلاد"
+    ]
+  },
+
+  "id": {
+    "question": "Idul Fitri dirayakan pada akhir bulan apa?",
+    "options": [
+      "Ramadan",
+      "Dzulhijjah",
+      "Muharram",
+      "Syaban"
+    ]
+  },
+
+  "tr": {
+    "question": "Ramazan'ın sonunda hangi bayram kutlanır?",
+    "options": [
+      "Ramazan Bayramı",
+      "Kurban Bayramı",
+      "Aşure",
+      "Mevlid"
+    ]
+  },
+
+  "fr": {
+    "question": "Quelle fête est célébrée à la fin du Ramadan ?",
+    "options": [
+      "Aïd al-Fitr",
+      "Aïd al-Adha",
+      "Achoura",
+      "Mawlid"
+    ]
+  }
+},
+
+{
+  "id": 31,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "ঈদুল আজহায় কোন ইবাদতটি বিশেষভাবে করা হয়?",
+    "options": [
+      "ইতিকাফ",
+      "তারাবিহ",
+      "কুরবানি",
+      "তাহাজ্জুদ"
+    ]
+  },
+
+  "en": {
+    "question": "Which act of worship is especially performed on Eid al-Adha?",
+    "options": [
+      "I'tikaf",
+      "Taraweeh",
+      "Qurbani",
+      "Tahajjud"
+    ]
+  },
+
+  "ur": {
+    "question": "عید الاضحیٰ میں کون سی عبادت خاص طور پر کی جاتی ہے؟",
+    "options": [
+      "اعتکاف",
+      "تراویح",
+      "قربانی",
+      "تہجد"
+    ]
+  },
+
+  "id": {
+    "question": "Ibadah apa yang secara khusus dilakukan pada Idul Adha?",
+    "options": [
+      "I'tikaf",
+      "Tarawih",
+      "Kurban",
+      "Tahajud"
+    ]
+  },
+
+  "tr": {
+    "question": "Kurban Bayramı'nda özellikle hangi ibadet yapılır?",
+    "options": [
+      "İtikâf",
+      "Teravih",
+      "Kurban",
+      "Teheccüd"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel acte d'adoration est particulièrement accompli lors de l'Aïd al-Adha ?",
+    "options": [
+      "I'tikaf",
+      "Tarawih",
+      "Sacrifice (Qurbani)",
+      "Tahajjud"
+    ]
+  }
+},
+
+{
+  "id": 32,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "তারাবিহ নামাজ কোন মাসে পড়া হয়?",
+    "options": [
+      "শাবান",
+      "রমজান",
+      "মুহাররম",
+      "জিলহজ"
+    ]
+  },
+
+  "en": {
+    "question": "In which month is Taraweeh prayer performed?",
+    "options": [
+      "Sha'ban",
+      "Ramadan",
+      "Muharram",
+      "Dhul-Hijjah"
+    ]
+  },
+
+  "ur": {
+    "question": "تراویح کی نماز کس مہینے میں پڑھی جاتی ہے؟",
+    "options": [
+      "شعبان",
+      "رمضان",
+      "محرم",
+      "ذوالحجہ"
+    ]
+  },
+
+  "id": {
+    "question": "Pada bulan apakah salat Tarawih dilakukan?",
+    "options": [
+      "Syaban",
+      "Ramadan",
+      "Muharram",
+      "Dzulhijjah"
+    ]
+  },
+
+  "tr": {
+    "question": "Teravih namazı hangi ayda kılınır?",
+    "options": [
+      "Şaban",
+      "Ramazan",
+      "Muharrem",
+      "Zilhicce"
+    ]
+  },
+
+  "fr": {
+    "question": "Pendant quel mois la prière de Tarawih est-elle accomplie ?",
+    "options": [
+      "Chaabane",
+      "Ramadan",
+      "Mouharram",
+      "Dhou al-Hijja"
+    ]
+  }
+},
+
+{
+  "id": 33,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "লাইলাতুল কদর কোন মাসে আসে?",
+    "options": [
+      "শাওয়াল",
+      "শাবান",
+      "মুহাররম",
+      "রমজান"
+    ]
+  },
+
+  "en": {
+    "question": "In which month does Laylat al-Qadr occur?",
+    "options": [
+      "Shawwal",
+      "Sha'ban",
+      "Muharram",
+      "Ramadan"
+    ]
+  },
+
+  "ur": {
+    "question": "لیلۃ القدر کس مہینے میں آتی ہے؟",
+    "options": [
+      "شوال",
+      "شعبان",
+      "محرم",
+      "رمضان"
+    ]
+  },
+
+  "id": {
+    "question": "Pada bulan apakah Lailatul Qadr terjadi?",
+    "options": [
+      "Syawal",
+      "Syaban",
+      "Muharram",
+      "Ramadan"
+    ]
+  },
+
+  "tr": {
+    "question": "Kadir Gecesi hangi ayda bulunur?",
+    "options": [
+      "Şevval",
+      "Şaban",
+      "Muharrem",
+      "Ramazan"
+    ]
+  },
+
+  "fr": {
+    "question": "Durant quel mois a lieu Laylat al-Qadr ?",
+    "options": [
+      "Chawwal",
+      "Chaabane",
+      "Mouharram",
+      "Ramadan"
+    ]
+  }
+},
+
+{
+  "id": 34,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "ইসলামের শেষ নবীর জন্মস্থান কোন শহর?",
+    "options": [
+      "মক্কা",
+      "মদিনা",
+      "তায়েফ",
+      "কুফা"
+    ]
+  },
+
+  "en": {
+    "question": "In which city was the last Prophet born?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Kufa"
+    ]
+  },
+
+  "ur": {
+    "question": "آخری نبی کی پیدائش کس شہر میں ہوئی؟",
+    "options": [
+      "مکہ",
+      "مدینہ",
+      "طائف",
+      "کوفہ"
+    ]
+  },
+
+  "id": {
+    "question": "Di kota manakah Nabi terakhir dilahirkan?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Kufa"
+    ]
+  },
+
+  "tr": {
+    "question": "Son Peygamber hangi şehirde doğmuştur?",
+    "options": [
+      "Mekke",
+      "Medine",
+      "Taif",
+      "Kûfe"
+    ]
+  },
+
+  "fr": {
+    "question": "Dans quelle ville le dernier Prophète est-il né ?",
+    "options": [
+      "La Mecque",
+      "Médine",
+      "Taïf",
+      "Koufa"
+    ]
+  }
+},
+
+{
+  "id": 35,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "রাসুলুল্লাহ (সা.) কোথায় হিজরত করেন?",
+    "options": [
+      "তায়েফ",
+      "জেরুজালেম",
+      "মদিনা",
+      "কুফা"
+    ]
+  },
+
+  "en": {
+    "question": "Where did the Prophet Muhammad (PBUH) migrate to?",
+    "options": [
+      "Taif",
+      "Jerusalem",
+      "Madinah",
+      "Kufa"
+    ]
+  },
+
+  "ur": {
+    "question": "رسول اللہ ﷺ نے کہاں ہجرت فرمائی؟",
+    "options": [
+      "طائف",
+      "یروشلم",
+      "مدینہ",
+      "کوفہ"
+    ]
+  },
+
+  "id": {
+    "question": "Ke kota manakah Nabi Muhammad (SAW) berhijrah?",
+    "options": [
+      "Taif",
+      "Yerusalem",
+      "Madinah",
+      "Kufa"
+    ]
+  },
+
+  "tr": {
+    "question": "Peygamber Muhammed (SAV) nereye hicret etmiştir?",
+    "options": [
+      "Taif",
+      "Kudüs",
+      "Medine",
+      "Kûfe"
+    ]
+  },
+
+  "fr": {
+    "question": "Vers quelle ville le Prophète Muhammad (PSL) a-t-il émigré ?",
+    "options": [
+      "Taïf",
+      "Jérusalem",
+      "Médine",
+      "Koufa"
+    ]
+  }
+},
+
+{
+  "id": 36,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "হিজরি সনের সূচনা কোন ঘটনার সঙ্গে সম্পর্কিত?",
+    "options": [
+      "বদরের যুদ্ধ",
+      "হিজরত",
+      "মক্কা বিজয়",
+      "বিদায় হজ"
+    ]
+  },
+
+  "en": {
+    "question": "The beginning of the Islamic calendar is associated with which event?",
+    "options": [
+      "Battle of Badr",
+      "Hijrah",
+      "Conquest of Makkah",
+      "Farewell Hajj"
+    ]
+  },
+
+  "ur": {
+    "question": "اسلامی تقویم کا آغاز کس واقعے سے منسلک ہے؟",
+    "options": [
+      "جنگ بدر",
+      "ہجرت",
+      "فتح مکہ",
+      "حجۃ الوداع"
+    ]
+  },
+
+  "id": {
+    "question": "Awal kalender Islam berkaitan dengan peristiwa apa?",
+    "options": [
+      "Perang Badar",
+      "Hijrah",
+      "Penaklukan Makkah",
+      "Haji Wada"
+    ]
+  },
+
+  "tr": {
+    "question": "Hicri takvimin başlangıcı hangi olayla ilişkilidir?",
+    "options": [
+      "Bedir Savaşı",
+      "Hicret",
+      "Mekke'nin Fethi",
+      "Veda Haccı"
+    ]
+  },
+
+  "fr": {
+    "question": "À quel événement est associé le début du calendrier islamique ?",
+    "options": [
+      "La bataille de Badr",
+      "L'Hégire",
+      "La conquête de La Mecque",
+      "Le pèlerinage d'adieu"
+    ]
+  }
+},
+
+{
+  "id": 37,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "বদরের যুদ্ধ কত হিজরিতে সংঘটিত হয়?",
+    "options": [
+      "১ হিজরি",
+      "২ হিজরি",
+      "৩ হিজরি",
+      "৫ হিজরি"
+    ]
+  },
+
+  "en": {
+    "question": "In which Hijri year did the Battle of Badr take place?",
+    "options": [
+      "1 AH",
+      "2 AH",
+      "3 AH",
+      "5 AH"
+    ]
+  },
+
+  "ur": {
+    "question": "جنگ بدر کس ہجری سال میں ہوئی؟",
+    "options": [
+      "1 ہجری",
+      "2 ہجری",
+      "3 ہجری",
+      "5 ہجری"
+    ]
+  },
+
+  "id": {
+    "question": "Pada tahun Hijriah berapakah Perang Badar terjadi?",
+    "options": [
+      "1 H",
+      "2 H",
+      "3 H",
+      "5 H"
+    ]
+  },
+
+  "tr": {
+    "question": "Bedir Savaşı hicri kaçıncı yılda gerçekleşmiştir?",
+    "options": [
+      "1 H",
+      "2 H",
+      "3 H",
+      "5 H"
+    ]
+  },
+
+  "fr": {
+    "question": "En quelle année de l'Hégire a eu lieu la bataille de Badr ?",
+    "options": [
+      "1 AH",
+      "2 AH",
+      "3 AH",
+      "5 AH"
+    ]
+  }
+},
+
+{
+  "id": 38,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "রাসুলুল্লাহ (সা.)-এর ওপর প্রথম ওহি কে নিয়ে আসেন?",
+    "options": [
+      "জিবরাইল (আ.)",
+      "মিকাইল (আ.)",
+      "ইসরাফিল (আ.)",
+      "আজরাইল (আ.)"
+    ]
+  },
+
+  "en": {
+    "question": "Which angel brought the first revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Jibril (AS)",
+      "Mikail (AS)",
+      "Israfil (AS)",
+      "Azrael (AS)"
+    ]
+  },
+
+  "ur": {
+    "question": "رسول اللہ ﷺ کے پاس پہلی وحی کون سے فرشتے لائے؟",
+    "options": [
+      "جبریل علیہ السلام",
+      "میکائیل علیہ السلام",
+      "اسرافیل علیہ السلام",
+      "عزرائیل علیہ السلام"
+    ]
+  },
+
+  "id": {
+    "question": "Malaikat siapakah yang membawa wahyu pertama kepada Nabi Muhammad (SAW)?",
+    "options": [
+      "Jibril (AS)",
+      "Mikail (AS)",
+      "Israfil (AS)",
+      "Azrael (AS)"
+    ]
+  },
+
+  "tr": {
+    "question": "Peygamber Muhammed'e (SAV) ilk vahyi hangi melek getirmiştir?",
+    "options": [
+      "Cebrail (AS)",
+      "Mikail (AS)",
+      "İsrafil (AS)",
+      "Azrail (AS)"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel ange a apporté la première révélation au Prophète Muhammad (PSL) ?",
+    "options": [
+      "Jibril (AS)",
+      "Mikail (AS)",
+      "Israfil (AS)",
+      "Azraël (AS)"
+    ]
+  }
+},
+
+{
+  "id": 39,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "প্রথম ওহি কোথায় নাজিল হয়?",
+    "options": [
+      "মসজিদে নববীতে",
+      "মসজিদুল হারামে",
+      "হেরা গুহায়",
+      "মসজিদে কুবায়"
+    ]
+  },
+
+  "en": {
+    "question": "Where was the first revelation received?",
+    "options": [
+      "Al-Masjid an-Nabawi",
+      "Al-Masjid al-Haram",
+      "Cave Hira",
+      "Quba Mosque"
+    ]
+  },
+
+  "ur": {
+    "question": "پہلی وحی کہاں نازل ہوئی؟",
+    "options": [
+      "مسجد نبوی",
+      "مسجد الحرام",
+      "غار حرا",
+      "مسجد قباء"
+    ]
+  },
+
+  "id": {
+    "question": "Di manakah wahyu pertama diterima?",
+    "options": [
+      "Masjid Nabawi",
+      "Masjidil Haram",
+      "Gua Hira",
+      "Masjid Quba"
+    ]
+  },
+
+  "tr": {
+    "question": "İlk vahiy nerede gelmiştir?",
+    "options": [
+      "Mescid-i Nebevî",
+      "Mescid-i Harâm",
+      "Hira Mağarası",
+      "Kuba Mescidi"
+    ]
+  },
+
+  "fr": {
+    "question": "Où la première révélation a-t-elle été reçue ?",
+    "options": [
+      "La mosquée du Prophète",
+      "La Mosquée sacrée",
+      "La grotte de Hira",
+      "La mosquée de Quba"
+    ]
+  }
+},
+
+{
+  "id": 40,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "কুরআনের প্রথম সূরা কোনটি?",
+    "options": [
+      "সূরা ইখলাস",
+      "সূরা ফাতিহা",
+      "সূরা নাস",
+      "সূরা আলাক"
+    ]
+  },
+
+  "en": {
+    "question": "Which is the first Surah of the Quran?",
+    "options": [
+      "Surah Al-Ikhlas",
+      "Surah Al-Fatihah",
+      "Surah An-Nas",
+      "Surah Al-Alaq"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کی پہلی سورت کون سی ہے؟",
+    "options": [
+      "سورۃ الاخلاص",
+      "سورۃ الفاتحہ",
+      "سورۃ الناس",
+      "سورۃ العلق"
+    ]
+  },
+
+  "id": {
+    "question": "Surah apakah yang pertama dalam Al-Qur'an?",
+    "options": [
+      "Surah Al-Ikhlas",
+      "Surah Al-Fatihah",
+      "Surah An-Nas",
+      "Surah Al-Alaq"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'ın ilk suresi hangisidir?",
+    "options": [
+      "İhlas Suresi",
+      "Fatiha Suresi",
+      "Nas Suresi",
+      "Alak Suresi"
+    ]
+  },
+
+  "fr": {
+    "question": "Quelle est la première sourate du Coran ?",
+    "options": [
+      "Sourate Al-Ikhlas",
+      "Sourate Al-Fatiha",
+      "Sourate An-Nas",
+      "Sourate Al-Alaq"
+    ]
+  }
+},
+
+    
+
+  {
+    "id": 41,
+    "correctIndex": 1,
+
+    "bn": {
+      "question": "ইসলামের প্রথম খলিফা কে ছিলেন?",
+      "options": [
+        "উমর (রা.)",
+        "আবু বকর (রা.)",
+        "উসমান (রা.)",
+        "আলী (রা.)"
+      ]
+    },
+
+    "en": {
+      "question": "Who was the first Caliph of Islam?",
+      "options": [
+        "Umar (RA)",
+        "Abu Bakr (RA)",
+        "Uthman (RA)",
+        "Ali (RA)"
+      ]
+    },
+
+    "ur": {
+      "question": "اسلام کے پہلے خلیفہ کون تھے؟",
+      "options": [
+        "عمر رضی اللہ عنہ",
+        "ابوبکر رضی اللہ عنہ",
+        "عثمان رضی اللہ عنہ",
+        "علی رضی اللہ عنہ"
+      ]
+    },
+
+    "id": {
+      "question": "Siapakah khalifah pertama dalam Islam?",
+      "options": [
+        "Umar (RA)",
+        "Abu Bakr (RA)",
+        "Uthman (RA)",
+        "Ali (RA)"
+      ]
+    },
+
+    "tr": {
+      "question": "İslam'ın ilk halifesi kimdi?",
+      "options": [
+        "Ömer (RA)",
+        "Ebu Bekir (RA)",
+        "Osman (RA)",
+        "Ali (RA)"
+      ]
+    },
+
+    "fr": {
+      "question": "Qui fut le premier calife de l'Islam ?",
+      "options": [
+        "Umar (RA)",
+        "Abu Bakr (RA)",
+        "Uthman (RA)",
+        "Ali (RA)"
+      ]
+    }
+  },
+
+  {
+    "id": 42,
+    "correctIndex": 0,
+
+    "bn": {
+      "question": "কোন মাসে মুসলমানরা রোজা রাখে?",
+      "options": [
+        "রমজান",
+        "শাওয়াল",
+        "মুহাররম",
+        "রজব"
+      ]
+    },
+
+    "en": {
+      "question": "In which month do Muslims fast?",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Muharram",
+        "Rajab"
+      ]
+    },
+
+    "ur": {
+      "question": "مسلمان کس مہینے میں روزے رکھتے ہیں؟",
+      "options": [
+        "رمضان",
+        "شوال",
+        "محرم",
+        "رجب"
+      ]
+    },
+
+    "id": {
+      "question": "Pada bulan apakah umat Islam berpuasa?",
+      "options": [
+        "Ramadan",
+        "Syawal",
+        "Muharram",
+        "Rajab"
+      ]
+    },
+
+    "tr": {
+      "question": "Müslümanlar hangi ayda oruç tutar?",
+      "options": [
+        "Ramazan",
+        "Şevval",
+        "Muharrem",
+        "Recep"
+      ]
+    },
+
+    "fr": {
+      "question": "Pendant quel mois les musulmans jeûnent-ils ?",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Mouharram",
+        "Rajab"
+      ]
+    }
+  },
+
+  {
+    "id": 43,
+    "correctIndex": 2,
+
+    "bn": {
+      "question": "হজ কোন শহরে পালন করা হয়?",
+      "options": [
+        "মদিনা",
+        "জেরুজালেম",
+        "মক্কা",
+        "কায়রো"
+      ]
+    },
+
+    "en": {
+      "question": "In which city is Hajj performed?",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Makkah",
+        "Cairo"
+      ]
+    },
+
+    "ur": {
+      "question": "حج کس شہر میں ادا کیا جاتا ہے؟",
+      "options": [
+        "مدینہ",
+        "یروشلم",
+        "مکہ",
+        "قاہرہ"
+      ]
+    },
+
+    "id": {
+      "question": "Di kota manakah ibadah Haji dilaksanakan?",
+      "options": [
+        "Madinah",
+        "Yerusalem",
+        "Makkah",
+        "Kairo"
+      ]
+    },
+
+    "tr": {
+      "question": "Hac hangi şehirde yapılır?",
+      "options": [
+        "Medine",
+        "Kudüs",
+        "Mekke",
+        "Kahire"
+      ]
+    },
+
+    "fr": {
+      "question": "Dans quelle ville le Hajj est-il accompli ?",
+      "options": [
+        "Médine",
+        "Jérusalem",
+        "La Mecque",
+        "Le Caire"
+      ]
+    }
+  },
+
+  {
+    "id": 44,
+    "correctIndex": 3,
+
+    "bn": {
+      "question": "কাবা শরীফ কোথায় অবস্থিত?",
+      "options": [
+        "মদিনায়",
+        "তায়েফে",
+        "জেদ্দায়",
+        "মক্কায়"
+      ]
+    },
+
+    "en": {
+      "question": "Where is the Kaaba located?",
+      "options": [
+        "Madinah",
+        "Taif",
+        "Jeddah",
+        "Makkah"
+      ]
+    },
+
+    "ur": {
+      "question": "خانہ کعبہ کہاں واقع ہے؟",
+      "options": [
+        "مدینہ",
+        "طائف",
+        "جدہ",
+        "مکہ"
+      ]
+    },
+
+    "id": {
+      "question": "Di manakah Ka'bah berada?",
+      "options": [
+        "Madinah",
+        "Taif",
+        "Jeddah",
+        "Makkah"
+      ]
+    },
+
+    "tr": {
+      "question": "Kâbe nerede bulunmaktadır?",
+      "options": [
+        "Medine",
+        "Taif",
+        "Cidde",
+        "Mekke"
+      ]
+    },
+
+    "fr": {
+      "question": "Où se trouve la Kaaba ?",
+      "options": [
+        "Médine",
+        "Taïf",
+        "Djeddah",
+        "La Mecque"
+      ]
+    }
+  },
+
+  {
+    "id": 45,
+    "correctIndex": 0,
+
+    "bn": {
+      "question": "মুসলমানদের প্রধান ধর্মীয় উৎসব কোন দুটি?",
+      "options": [
+        "ঈদুল ফিতর ও ঈদুল আজহা",
+        "আশুরা ও শবে বরাত",
+        "মিলাদ ও আশুরা",
+        "জুমা ও ঈদ"
+      ]
+    },
+
+    "en": {
+      "question": "What are the two major Islamic festivals?",
+      "options": [
+        "Eid al-Fitr and Eid al-Adha",
+        "Ashura and Shab-e-Barat",
+        "Milad and Ashura",
+        "Jumu'ah and Eid"
+      ]
+    },
+
+    "ur": {
+      "question": "مسلمانوں کے دو بڑے مذہبی تہوار کون سے ہیں؟",
+      "options": [
+        "عید الفطر اور عید الاضحی",
+        "عاشوراء اور شب برات",
+        "میلاد اور عاشوراء",
+        "جمعہ اور عید"
+      ]
+    },
+
+    "id": {
+      "question": "Apa dua hari raya utama dalam Islam?",
+      "options": [
+        "Idul Fitri dan Idul Adha",
+        "Asyura dan Syab-e-Barat",
+        "Milad dan Asyura",
+        "Jumat dan Id"
+      ]
+    },
+
+    "tr": {
+      "question": "İslam'daki iki büyük dini bayram hangileridir?",
+      "options": [
+        "Ramazan Bayramı ve Kurban Bayramı",
+        "Aşure ve Berat Gecesi",
+        "Mevlid ve Aşure",
+        "Cuma ve Bayram"
+      ]
+    },
+
+    "fr": {
+      "question": "Quels sont les deux grands fêtes islamiques ?",
+      "options": [
+        "Aïd al-Fitr et Aïd al-Adha",
+        "Achoura et Chab-e-Barat",
+        "Mawlid et Achoura",
+        "Jumu'ah et Aïd"
+      ]
+    }
+  },
+
+  {
+    "id": 46,
+    "correctIndex": 1,
+
+    "bn": {
+      "question": "ঈদুল ফিতর কোন মাসের শেষে হয়?",
+      "options": [
+        "শাবান",
+        "রমজান",
+        "মুহাররম",
+        "রজব"
+      ]
+    },
+
+    "en": {
+      "question": "Eid al-Fitr comes at the end of which month?",
+      "options": [
+        "Sha'ban",
+        "Ramadan",
+        "Muharram",
+        "Rajab"
+      ]
+    },
+
+    "ur": {
+      "question": "عید الفطر کس مہینے کے آخر میں ہوتی ہے؟",
+      "options": [
+        "شعبان",
+        "رمضان",
+        "محرم",
+        "رجب"
+      ]
+    },
+
+    "id": {
+      "question": "Idul Fitri datang pada akhir bulan apa?",
+      "options": [
+        "Syaban",
+        "Ramadan",
+        "Muharram",
+        "Rajab"
+      ]
+    },
+
+    "tr": {
+      "question": "Ramazan Bayramı hangi ayın sonunda kutlanır?",
+      "options": [
+        "Şaban",
+        "Ramazan",
+        "Muharrem",
+        "Recep"
+      ]
+    },
+
+    "fr": {
+      "question": "L'Aïd al-Fitr a lieu à la fin de quel mois ?",
+      "options": [
+        "Chaabane",
+        "Ramadan",
+        "Mouharram",
+        "Rajab"
+      ]
+    }
+  },
+
+  {
+    "id": 47,
+    "correctIndex": 2,
+
+    "bn": {
+      "question": "ঈদুল আজহায় কোন ইবাদত করা হয়?",
+      "options": [
+        "ইতিকাফ",
+        "তারাবিহ",
+        "কুরবানি",
+        "উমরাহ"
+      ]
+    },
+
+    "en": {
+      "question": "Which act of worship is performed on Eid al-Adha?",
+      "options": [
+        "I'tikaf",
+        "Taraweeh",
+        "Sacrifice (Qurbani)",
+        "Umrah"
+      ]
+    },
+
+    "ur": {
+      "question": "عید الاضحیٰ پر کون سی عبادت کی جاتی ہے؟",
+      "options": [
+        "اعتکاف",
+        "تراویح",
+        "قربانی",
+        "عمرہ"
+      ]
+    },
+
+    "id": {
+      "question": "Ibadah apa yang dilakukan pada Idul Adha?",
+      "options": [
+        "I'tikaf",
+        "Tarawih",
+        "Kurban",
+        "Umrah"
+      ]
+    },
+
+    "tr": {
+      "question": "Kurban Bayramı'nda hangi ibadet yapılır?",
+      "options": [
+        "İtikâf",
+        "Teravih",
+        "Kurban",
+        "Umre"
+      ]
+    },
+
+    "fr": {
+      "question": "Quel acte de culte est accompli lors de l'Aïd al-Adha ?",
+      "options": [
+        "I'tikaf",
+        "Tarawih",
+        "Sacrifice (Qurbani)",
+        "Omra"
+      ]
+    }
+  },
+
+  {
+    "id": 48,
+    "correctIndex": 0,
+
+    "bn": {
+      "question": "যাকাত ইসলামের কত নম্বর স্তম্ভ?",
+      "options": [
+        "তৃতীয়",
+        "দ্বিতীয়",
+        "চতুর্থ",
+        "পঞ্চম"
+      ]
+    },
+
+    "en": {
+      "question": "Which pillar of Islam is Zakat?",
+      "options": [
+        "Third",
+        "Second",
+        "Fourth",
+        "Fifth"
+      ]
+    },
+
+    "ur": {
+      "question": "زکوٰۃ اسلام کا کون سا رکن ہے؟",
+      "options": [
+        "تیسرا",
+        "دوسرا",
+        "چوتھا",
+        "پانچواں"
+      ]
+    },
+
+    "id": {
+      "question": "Zakat adalah rukun Islam yang ke berapa?",
+      "options": [
+        "Ketiga",
+        "Kedua",
+        "Keempat",
+        "Kelima"
+      ]
+    },
+
+    "tr": {
+      "question": "Zekât İslam'ın kaçıncı şartıdır?",
+      "options": [
+        "Üçüncü",
+        "İkinci",
+        "Dördüncü",
+        "Beşinci"
+      ]
+    },
+
+    "fr": {
+      "question": "La Zakat est le combienième pilier de l'Islam ?",
+      "options": [
+        "Troisième",
+        "Deuxième",
+        "Quatrième",
+        "Cinquième"
+      ]
+    }
+  },
+
+  {
+    "id": 49,
+    "correctIndex": 3,
+
+    "bn": {
+      "question": "হজ ইসলামের কত নম্বর স্তম্ভ?",
+      "options": [
+        "দ্বিতীয়",
+        "তৃতীয়",
+        "চতুর্থ",
+        "পঞ্চম"
+      ]
+    },
+
+    "en": {
+      "question": "Which pillar of Islam is Hajj?",
+      "options": [
+        "Second",
+        "Third",
+        "Fourth",
+        "Fifth"
+      ]
+    },
+
+    "ur": {
+      "question": "حج اسلام کا کون سا رکن ہے؟",
+      "options": [
+        "دوسرا",
+        "تیسرا",
+        "چوتھا",
+        "پانچواں"
+      ]
+    },
+
+    "id": {
+      "question": "Haji adalah rukun Islam yang ke berapa?",
+      "options": [
+        "Kedua",
+        "Ketiga",
+        "Keempat",
+        "Kelima"
+      ]
+    },
+
+    "tr": {
+      "question": "Hac İslam'ın kaçıncı şartıdır?",
+      "options": [
+        "İkinci",
+        "Üçüncü",
+        "Dördüncü",
+        "Beşinci"
+      ]
+    },
+
+    "fr": {
+      "question": "Le Hajj est le combienième pilier de l'Islam ?",
+      "options": [
+        "Deuxième",
+        "Troisième",
+        "Quatrième",
+        "Cinquième"
+      ]
+    }
+  },
+
+  {
+    "id": 50,
+    "correctIndex": 1,
+
+    "bn": {
+      "question": "ইসলামের প্রথম স্তম্ভ কী?",
+      "options": [
+        "নামাজ",
+        "কালিমা শাহাদাত",
+        "রোজা",
+        "যাকাত"
+      ]
+    },
+
+    "en": {
+      "question": "What is the first pillar of Islam?",
+      "options": [
+        "Prayer",
+        "Shahadah",
+        "Fasting",
+        "Zakat"
+      ]
+    },
+
+    "ur": {
+      "question": "اسلام کا پہلا رکن کیا ہے؟",
+      "options": [
+        "نماز",
+        "شہادت",
+        "روزہ",
+        "زکوٰۃ"
+      ]
+    },
+
+    "id": {
+      "question": "Apa rukun Islam yang pertama?",
+      "options": [
+        "Salat",
+        "Syahadat",
+        "Puasa",
+        "Zakat"
+      ]
+    },
+
+    "tr": {
+      "question": "İslam'ın birinci şartı nedir?",
+      "options": [
+        "Namaz",
+        "Şehadet",
+        "Oruç",
+        "Zekât"
+      ]
+    },
+
+    "fr": {
+      "question": "Quel est le premier pilier de l'Islam ?",
+      "options": [
+        "Prière",
+        "Chahada",
+        "Jeûne",
+        "Zakat"
+      ]
+    }
+  },
+
+  {
+    "id": 51,
+    "correctIndex": 2,
+
+    "bn": {
+      "question": "ফজরের নামাজে কত রাকাত ফরজ?",
+      "options": [
+        "১",
+        "৩",
+        "২",
+        "৪"
+      ]
+    },
+
+    "en": {
+      "question": "How many obligatory rak'ahs are there in Fajr prayer?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ]
+    },
+
+    "ur": {
+      "question": "فجر کی نماز میں کتنی فرض رکعتیں ہیں؟",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ]
+    },
+
+    "id": {
+      "question": "Berapa rakaat wajib dalam salat Subuh?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ]
+    },
+
+    "tr": {
+      "question": "Sabah namazının kaç rekât farzı vardır?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ]
+    },
+
+    "fr": {
+      "question": "Combien de rak'ahs obligatoires y a-t-il dans la prière du Fajr ?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ]
+    }
+  },
+
+  {
+    "id": 52,
+    "correctIndex": 0,
+
+    "bn": {
+      "question": "যোহরের নামাজে কত রাকাত ফরজ?",
+      "options": [
+        "৪",
+        "২",
+        "৩",
+        "৫"
+      ]
+    },
+
+    "en": {
+      "question": "How many obligatory rak'ahs are there in Dhuhr prayer?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ]
+    },
+
+    "ur": {
+      "question": "ظہر کی نماز میں کتنی فرض رکعتیں ہیں؟",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ]
+    },
+
+    "id": {
+      "question": "Berapa rakaat wajib dalam salat Zuhur?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ]
+    },
+
+    "tr": {
+      "question": "Öğle namazının kaç rekât farzı vardır?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ]
+    },
+
+    "fr": {
+      "question": "Combien de rak'ahs obligatoires y a-t-il dans la prière du Dhuhr ?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ]
+    }
+  },
+
+  {
+    "id": 53,
+    "correctIndex": 2,
+
+    "bn": {
+      "question": "আসরের নামাজে কত রাকাত ফরজ?",
+      "options": [
+        "২",
+        "৩",
+        "৪",
+        "৫"
+      ]
+    },
+
+    "en": {
+      "question": "How many obligatory rak'ahs are there in Asr prayer?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "ur": {
+      "question": "عصر کی نماز میں کتنی فرض رکعتیں ہیں؟",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "id": {
+      "question": "Berapa rakaat wajib dalam salat Asar?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "tr": {
+      "question": "İkindi namazının kaç rekât farzı vardır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "fr": {
+      "question": "Combien de rak'ahs obligatoires y a-t-il dans la prière de l'Asr ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  },
+
+  {
+    "id": 54,
+    "correctIndex": 1,
+
+    "bn": {
+      "question": "মাগরিবের নামাজে কত রাকাত ফরজ?",
+      "options": [
+        "২",
+        "৩",
+        "৪",
+        "৫"
+      ]
+    },
+
+    "en": {
+      "question": "How many obligatory rak'ahs are there in Maghrib prayer?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "ur": {
+      "question": "مغرب کی نماز میں کتنی فرض رکعتیں ہیں؟",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "id": {
+      "question": "Berapa rakaat wajib dalam salat Magrib?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "tr": {
+      "question": "Akşam namazının kaç rekât farzı vardır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "fr": {
+      "question": "Combien de rak'ahs obligatoires y a-t-il dans la prière du Maghrib ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  },
+
+  {
+    "id": 55,
+    "correctIndex": 2,
+
+    "bn": {
+      "question": "এশার নামাজে কত রাকাত ফরজ?",
+      "options": [
+        "২",
+        "৩",
+        "৪",
+        "৫"
+      ]
+    },
+
+    "en": {
+      "question": "How many obligatory rak'ahs are there in Isha prayer?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "ur": {
+      "question": "عشاء کی نماز میں کتنی فرض رکعتیں ہیں؟",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "id": {
+      "question": "Berapa rakaat wajib dalam salat Isya?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "tr": {
+      "question": "Yatsı namazının kaç rekât farzı vardır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+
+    "fr": {
+      "question": "Combien de rak'ahs obligatoires y a-t-il dans la prière de l'Isha ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    }
+  },
+
+  {
+    "id": 56,
+    "correctIndex": 0,
+
+    "bn": {
+      "question": "আজানের প্রথম বাক্য কী?",
+      "options": [
+        "আল্লাহু আকবার",
+        "আশহাদু আল্লাহ ইলাহা ইল্লাল্লাহ",
+        "হাইয়া আলাস সালাহ",
+        "আসসালাতু খাইরুম মিনান নাউম"
+      ]
+    },
+
+    "en": {
+      "question": "What is the first phrase of the Adhan?",
+      "options": [
+        "Allahu Akbar",
+        "Ashhadu alla ilaha illallah",
+        "Hayya 'alas-Salah",
+        "As-salatu khayrun minan-nawm"
+      ]
+    },
+
+    "ur": {
+      "question": "اذان کا پہلا جملہ کیا ہے؟",
+      "options": [
+        "اللہ اکبر",
+        "اشہد ان لا الٰہ الا اللہ",
+        "حی علی الصلاۃ",
+        "الصلاۃ خیر من النوم"
+      ]
+    },
+
+    "id": {
+      "question": "Apa kalimat pertama dalam azan?",
+      "options": [
+        "Allahu Akbar",
+        "Asyhadu alla ilaha illallah",
+        "Hayya 'alash-shalah",
+        "Ash-shalatu khairum minan naum"
+      ]
+    },
+
+    "tr": {
+      "question": "Ezanın ilk cümlesi nedir?",
+      "options": [
+        "Allahu Ekber",
+        "Eşhedü en lâ ilâhe illallah",
+        "Hayye ale's-salâh",
+        "Es-salâtü hayrun mine'n-nevm"
+      ]
+    },
+
+    "fr": {
+      "question": "Quelle est la première phrase de l'Adhan ?",
+      "options": [
+        "Allahu Akbar",
+        "Ashhadu alla ilaha illallah",
+        "Hayya 'alas-Salah",
+        "As-salatu khayrun minan-nawm"
+      ]
+    }
+  },
+
+  {
+    "id": 57,
+    "correctIndex": 3,
+
+    "bn": {
+      "question": "নামাজের আগে পবিত্রতা অর্জনের জন্য কী করা হয়?",
+      "options": [
+        "তাওয়াফ",
+        "সাঈ",
+        "কুরবানি",
+        "ওযু"
+      ]
+    },
+
+    "en": {
+      "question": "What is performed to attain purification before prayer?",
+      "options": [
+        "Tawaf",
+        "Sa'i",
+        "Sacrifice",
+        "Wudu"
+      ]
+    },
+
+    "ur": {
+      "question": "نماز سے پہلے پاکیزگی حاصل کرنے کے لیے کیا کیا جاتا ہے؟",
+      "options": [
+        "طواف",
+        "سعی",
+        "قربانی",
+        "وضو"
+      ]
+    },
+
+    "id": {
+      "question": "Apa yang dilakukan untuk bersuci sebelum salat?",
+      "options": [
+        "Tawaf",
+        "Sa'i",
+        "Kurban",
+        "Wudu"
+      ]
+    },
+
+    "tr": {
+      "question": "Namazdan önce temizlenmek için ne yapılır?",
+      "options": [
+        "Tavaf",
+        "Sa'y",
+        "Kurban",
+        "Abdest"
+      ]
+    },
+
+    "fr": {
+      "question": "Que fait-on pour se purifier avant la prière ?",
+      "options": [
+        "Tawaf",
+        "Sa'i",
+        "Sacrifice",
+        "Wudu"
+      ]
+    }
+  },
+
+  {
+    "id": 58,
+    "correctIndex": 1,
+
+    "bn": {
+      "question": "ওযুর ফরজ কতটি?",
+      "options": [
+        "৩টি",
+        "৪টি",
+        "৫টি",
+        "৬টি"
+      ]
+    },
+
+    "en": {
+      "question": "How many obligatory acts are there in Wudu?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+
+    "ur": {
+      "question": "وضو کے کتنے فرض ہیں؟",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+
+    "id": {
+      "question": "Berapa jumlah fardu dalam wudu?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+
+    "tr": {
+      "question": "Abdestin kaç farzı vardır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+
+    "fr": {
+      "question": "Combien d'actes obligatoires y a-t-il dans les ablutions ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    }
+  },
+
+  {
+    "id": 59,
+    "correctIndex": 0,
+
+    "bn": {
+      "question": "নামাজে কিবলার দিকে মুখ করা কী?",
+      "options": [
+        "শর্ত",
+        "সুন্নত",
+        "মুস্তাহাব",
+        "নফল"
+      ]
+    },
+
+    "en": {
+      "question": "Facing the Qiblah during prayer is what?",
+      "options": [
+        "A condition",
+        "Sunnah",
+        "Recommended",
+        "Optional prayer"
+      ]
+    },
+
+    "ur": {
+      "question": "نماز میں قبلہ کی طرف منہ کرنا کیا ہے؟",
+      "options": [
+        "شرط",
+        "سنت",
+        "مستحب",
+        "نفل"
+      ]
+    },
+
+    "id": {
+      "question": "Menghadap kiblat dalam salat merupakan apa?",
+      "options": [
+        "Syarat",
+        "Sunnah",
+        "Dianjurkan",
+        "Salat sunah"
+      ]
+    },
+
+    "tr": {
+      "question": "Namazda kıbleye yönelmek nedir?",
+      "options": [
+        "Şart",
+        "Sünnet",
+        "Müstehap",
+        "Nafile"
+      ]
+    },
+
+    "fr": {
+      "question": "Se tourner vers la Qibla pendant la prière est quoi ?",
+      "options": [
+        "Une condition",
+        "Une Sunna",
+        "Recommandé",
+        "Une prière facultative"
+      ]
+    }
+  },
+
+  {
+    "id": 60,
+    "correctIndex": 2,
+
+    "bn": {
+      "question": "জুমার নামাজ কোন দিনে হয়?",
+      "options": [
+        "বৃহস্পতিবার",
+        "শনিবার",
+        "শুক্রবার",
+        "রবিবার"
+      ]
+    },
+
+    "en": {
+      "question": "On which day is the Friday prayer performed?",
+      "options": [
+        "Thursday",
+        "Saturday",
+        "Friday",
+        "Sunday"
+      ]
+    },
+
+    "ur": {
+      "question": "جمعہ کی نماز کس دن ادا کی جاتی ہے؟",
+      "options": [
+        "جمعرات",
+        "ہفتہ",
+        "جمعہ",
+        "اتوار"
+      ]
+    },
+
+    "id": {
+      "question": "Pada hari apakah salat Jumat dilaksanakan?",
+      "options": [
+        "Kamis",
+        "Sabtu",
+        "Jumat",
+        "Minggu"
+      ]
+    },
+
+    "tr": {
+      "question": "Cuma namazı hangi gün kılınır?",
+      "options": [
+        "Perşembe",
+        "Cumartesi",
+        "Cuma",
+        "Pazar"
+      ]
+    },
+
+    "fr": {
+      "question": "Quel jour la prière du vendredi est-elle accomplie ?",
+      "options": [
+        "Jeudi",
+        "Samedi",
+        "Vendredi",
+        "Dimanche"
+      ]
+    }
+  },
+
+  {
+    "id": 61,
+    "correctIndex": 3,
+
+    "bn": {
+      "question": "কুরআনের প্রথম সূরার নাম কী?",
+      "options": [
+        "সূরা বাকারাহ",
+        "সূরা ইখলাস",
+        "সূরা নাস",
+        "সূরা ফাতিহা"
+      ]
+    },
+
+    "en": {
+      "question": "What is the name of the first Surah of the Quran?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Ikhlas",
+        "Surah An-Nas",
+        "Surah Al-Fatihah"
+      ]
+    },
+
+    "ur": {
+      "question": "قرآن کی پہلی سورت کا نام کیا ہے؟",
+      "options": [
+        "سورۃ البقرہ",
+        "سورۃ الاخلاص",
+        "سورۃ الناس",
+        "سورۃ الفاتحہ"
+      ]
+    },
+
+    "id": {
+      "question": "Apa nama surah pertama dalam Al-Qur'an?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Ikhlas",
+        "Surah An-Nas",
+        "Surah Al-Fatihah"
+      ]
+    },
+
+    "tr": {
+      "question": "Kur'an'ın ilk suresinin adı nedir?",
+      "options": [
+        "Bakara Suresi",
+        "İhlas Suresi",
+        "Nas Suresi",
+        "Fatiha Suresi"
+      ]
+    },
+
+    "fr": {
+      "question": "Quel est le nom de la première sourate du Coran ?",
+      "options": [
+        "Sourate Al-Baqarah",
+        "Sourate Al-Ikhlas",
+        "Sourate An-Nas",
+        "Sourate Al-Fatihah"
+      ]
+    }
+  },
+
+  {
+    "id": 62,
+    "correctIndex": 0,
+
+    "bn": {
+      "question": "কুরআনের সবচেয়ে বড় সূরা কোনটি?",
+      "options": [
+        "সূরা বাকারাহ",
+        "সূরা ইয়াসিন",
+        "সূরা ফাতিহা",
+        "সূরা ইখলাস"
+      ]
+    },
+
+    "en": {
+      "question": "Which is the longest Surah in the Quran?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Yasin",
+        "Surah Al-Fatihah",
+        "Surah Al-Ikhlas"
+      ]
+    },
+
+    "ur": {
+      "question": "قرآن کی سب سے بڑی سورت کون سی ہے؟",
+      "options": [
+        "سورۃ البقرہ",
+        "سورۃ یٰسین",
+        "سورۃ الفاتحہ",
+        "سورۃ الاخلاص"
+      ]
+    },
+
+    "id": {
+      "question": "Surah manakah yang terpanjang dalam Al-Qur'an?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Yasin",
+        "Surah Al-Fatihah",
+        "Surah Al-Ikhlas"
+      ]
+    },
+
+    "tr": {
+      "question": "Kur'an'ın en uzun suresi hangisidir?",
+      "options": [
+        "Bakara Suresi",
+        "Yasin Suresi",
+        "Fatiha Suresi",
+        "İhlas Suresi"
+      ]
+    },
+
+    "fr": {
+      "question": "Quelle est la plus longue sourate du Coran ?",
+      "options": [
+        "Sourate Al-Baqarah",
+        "Sourate Yasin",
+        "Sourate Al-Fatihah",
+        "Sourate Al-Ikhlas"
+      ]
+    }
+  },
+
+  {
+    "id": 63,
+    "correctIndex": 3,
+
+    "bn": {
+      "question": "কুরআনের সবচেয়ে ছোট সূরা কোনটি?",
+      "options": [
+        "সূরা নাস",
+        "সূরা ফালাক",
+        "সূরা ইখলাস",
+        "সূরা কাওসার"
+      ]
+    },
+
+    "en": {
+      "question": "Which is the shortest Surah in the Quran?",
+      "options": [
+        "Surah An-Nas",
+        "Surah Al-Falaq",
+        "Surah Al-Ikhlas",
+        "Surah Al-Kawthar"
+      ]
+    },
+
+    "ur": {
+      "question": "قرآن کی سب سے چھوٹی سورت کون سی ہے؟",
+      "options": [
+        "سورۃ الناس",
+        "سورۃ الفلق",
+        "سورۃ الاخلاص",
+        "سورۃ الکوثر"
+      ]
+    },
+
+    "id": {
+      "question": "Surah manakah yang terpendek dalam Al-Qur'an?",
+      "options": [
+        "Surah An-Nas",
+        "Surah Al-Falaq",
+        "Surah Al-Ikhlas",
+        "Surah Al-Kawthar"
+      ]
+    },
+
+    "tr": {
+      "question": "Kur'an'ın en kısa suresi hangisidir?",
+      "options": [
+        "Nas Suresi",
+        "Felak Suresi",
+        "İhlas Suresi",
+        "Kevser Suresi"
+      ]
+    },
+
+    "fr": {
+      "question": "Quelle est la plus courte sourate du Coran ?",
+      "options": [
+        "Sourate An-Nas",
+        "Sourate Al-Falaq",
+        "Sourate Al-Ikhlas",
+        "Sourate Al-Kawthar"
+      ]
+    }
+  },
+
+  {
+    "id": 64,
+    "correctIndex": 1,
+
+    "bn": {
+      "question": "কুরআনে মোট কতটি সূরা আছে?",
+      "options": [
+        "১১০",
+        "১১৪",
+        "১২০",
+        "১২৪"
+      ]
+    },
+
+    "en": {
+      "question": "How many Surahs are there in the Quran?",
+      "options": [
+        "110",
+        "114",
+        "120",
+        "124"
+      ]
+    },
+
+    "ur": {
+      "question": "قرآن میں کل کتنی سورتیں ہیں؟",
+      "options": [
+        "110",
+        "114",
+        "120",
+        "124"
+      ]
+    },
+
+    "id": {
+      "question": "Berapa jumlah surah dalam Al-Qur'an?",
+      "options": [
+        "110",
+        "114",
+        "120",
+        "124"
+      ]
+    },
+
+    "tr": {
+      "question": "Kur'an'da toplam kaç sure vardır?",
+      "options": [
+        "110",
+        "114",
+        "120",
+        "124"
+      ]
+    },
+
+    "fr": {
+      "question": "Combien de sourates y a-t-il dans le Coran ?",
+      "options": [
+        "110",
+        "114",
+        "120",
+        "124"
+      ]
+    }
+  },
+
+  {
+    "id": 65,
+    "correctIndex": 2,
+
+    "bn": {
+      "question": "কুরআনের প্রথম নাজিল হওয়া শব্দ কোনটি?",
+      "options": [
+        "আল্লাহ",
+        "বিসমিল্লাহ",
+        "ইকরা",
+        "সালাত"
+      ]
+    },
+
+    "en": {
+      "question": "What was the first word revealed from the Quran?",
+      "options": [
+        "Allah",
+        "Bismillah",
+        "Iqra",
+        "Salah"
+      ]
+    },
+
+    "ur": {
+      "question": "قرآن میں سب سے پہلے نازل ہونے والا لفظ کون سا تھا؟",
+      "options": [
+        "اللہ",
+        "بسم اللہ",
+        "اقرأ",
+        "صلاۃ"
+      ]
+    },
+
+    "id": {
+      "question": "Apa kata pertama yang diturunkan dari Al-Qur'an?",
+      "options": [
+        "Allah",
+        "Bismillah",
+        "Iqra",
+        "Salat"
+      ]
+    },
+
+    "tr": {
+      "question": "Kur'an'da ilk indirilen kelime hangisidir?",
+      "options": [
+        "Allah",
+        "Bismillah",
+        "İkra",
+        "Salat"
+      ]
+    },
+
+    "fr": {
+      "question": "Quel fut le premier mot révélé du Coran ?",
+      "options": [
+        "Allah",
+        "Bismillah",
+        "Iqra",
+        "Salat"
+      ]
+    }
+  },
+
+  {
+    "id": 66,
+    "correctIndex": 0,
+
+    "bn": {
+      "question": "কুরআন কার ওপর নাজিল হয়েছে?",
+      "options": [
+        "মুহাম্মদ (সা.)",
+        "মুসা (আ.)",
+        "ঈসা (আ.)",
+        "ইব্রাহিম (আ.)"
+      ]
+    },
+
+    "en": {
+      "question": "Upon whom was the Quran revealed?",
+      "options": [
+        "Muhammad (PBUH)",
+        "Musa (AS)",
+        "Isa (AS)",
+        "Ibrahim (AS)"
+      ]
+    },
+
+    "ur": {
+      "question": "قرآن کس پر نازل ہوا؟",
+      "options": [
+        "محمد ﷺ",
+        "موسیٰ علیہ السلام",
+        "عیسیٰ علیہ السلام",
+        "ابراہیم علیہ السلام"
+      ]
+    },
+
+    "id": {
+      "question": "Kepada siapakah Al-Qur'an diturunkan?",
+      "options": [
+        "Muhammad (SAW)",
+        "Musa (AS)",
+        "Isa (AS)",
+        "Ibrahim (AS)"
+      ]
+    },
+
+    "tr": {
+      "question": "Kur'an kime indirilmiştir?",
+      "options": [
+        "Muhammed (SAV)",
+        "Musa (AS)",
+        "İsa (AS)",
+        "İbrahim (AS)"
+      ]
+    },
+
+    "fr": {
+      "question": "À qui le Coran a-t-il été révélé ?",
+      "options": [
+        "Muhammad (PSL)",
+        "Moussa (AS)",
+        "Issa (AS)",
+        "Ibrahim (AS)"
+      ]
+    }
+  },
+
+  {
+    "id": 67,
+    "correctIndex": 3,
+
+    "bn": {
+      "question": "ওহি নিয়ে কোন ফেরেশতা নবী (সা.)-এর কাছে আসতেন?",
+      "options": [
+        "মিকাইল (আ.)",
+        "ইসরাফিল (আ.)",
+        "আজরাইল (আ.)",
+        "জিবরাইল (আ.)"
+      ]
+    },
+
+    "en": {
+      "question": "Which angel brought revelation to the Prophet (PBUH)?",
+      "options": [
+        "Mikail (AS)",
+        "Israfil (AS)",
+        "Azrael (AS)",
+        "Jibril (AS)"
+      ]
+    },
+
+    "ur": {
+      "question": "کون سے فرشتے نبی ﷺ کے پاس وحی لے کر آتے تھے؟",
+      "options": [
+        "میکائیل علیہ السلام",
+        "اسرافیل علیہ السلام",
+        "عزرائیل علیہ السلام",
+        "جبرائیل علیہ السلام"
+      ]
+    },
+
+    "id": {
+      "question": "Malaikat manakah yang membawa wahyu kepada Nabi (SAW)?",
+      "options": [
+        "Mikail (AS)",
+        "Israfil (AS)",
+        "Azrail (AS)",
+        "Jibril (AS)"
+      ]
+    },
+
+    "tr": {
+      "question": "Peygamber'e (SAV) vahyi hangi melek getirirdi?",
+      "options": [
+        "Mikail (AS)",
+        "İsrafil (AS)",
+        "Azrail (AS)",
+        "Cebrail (AS)"
+      ]
+    },
+
+    "fr": {
+      "question": "Quel ange apportait la révélation au Prophète (PSL) ?",
+      "options": [
+        "Mika'il (AS)",
+        "Israfil (AS)",
+        "Azraël (AS)",
+        "Jibril (AS)"
+      ]
+    }
+  },
+
+  {
+    "id": 68,
+    "correctIndex": 1,
+
+    "bn": {
+      "question": "নবী মুহাম্মদ (সা.) কোথায় জন্মগ্রহণ করেন?",
+      "options": [
+        "মদিনা",
+        "মক্কা",
+        "তায়েফ",
+        "জেরুজালেম"
+      ]
+    },
+
+    "en": {
+      "question": "Where was Prophet Muhammad (PBUH) born?",
+      "options": [
+        "Madinah",
+        "Makkah",
+        "Taif",
+        "Jerusalem"
+      ]
+    },
+
+    "ur": {
+      "question": "نبی محمد ﷺ کہاں پیدا ہوئے؟",
+      "options": [
+        "مدینہ",
+        "مکہ",
+        "طائف",
+        "یروشلم"
+      ]
+    },
+
+    "id": {
+      "question": "Di manakah Nabi Muhammad (SAW) lahir?",
+      "options": [
+        "Madinah",
+        "Makkah",
+        "Taif",
+        "Yerusalem"
+      ]
+    },
+
+    "tr": {
+      "question": "Peygamber Muhammed (SAV) nerede doğdu?",
+      "options": [
+        "Medine",
+        "Mekke",
+        "Taif",
+        "Kudüs"
+      ]
+    },
+
+    "fr": {
+      "question": "Où le prophète Muhammad (PSL) est-il né ?",
+      "options": [
+        "Médine",
+        "La Mecque",
+        "Taïf",
+        "Jérusalem"
+      ]
+    }
+  },
+
+  {
+    "id": 69,
+    "correctIndex": 0,
+
+    "bn": {
+      "question": "নবী মুহাম্মদ (সা.)-এর পিতার নাম কী?",
+      "options": [
+        "আবদুল্লাহ",
+        "আবু তালিব",
+        "আবদুল মুত্তালিব",
+        "হামজা"
+      ]
+    },
+
+    "en": {
+      "question": "What was the name of Prophet Muhammad's (PBUH) father?",
+      "options": [
+        "Abdullah",
+        "Abu Talib",
+        "Abdul-Muttalib",
+        "Hamzah"
+      ]
+    },
+
+    "ur": {
+      "question": "نبی محمد ﷺ کے والد کا نام کیا تھا؟",
+      "options": [
+        "عبداللہ",
+        "ابوطالب",
+        "عبدالمطلب",
+        "حمزہ"
+      ]
+    },
+
+    "id": {
+      "question": "Siapakah nama ayah Nabi Muhammad (SAW)?",
+      "options": [
+        "Abdullah",
+        "Abu Talib",
+        "Abdul-Muttalib",
+        "Hamzah"
+      ]
+    },
+
+    "tr": {
+      "question": "Peygamber Muhammed'in (SAV) babasının adı neydi?",
+      "options": [
+        "Abdullah",
+        "Ebu Talib",
+        "Abdülmuttalib",
+        "Hamza"
+      ]
+    },
+
+    "fr": {
+      "question": "Quel était le nom du père du prophète Muhammad (PSL) ?",
+      "options": [
+        "Abdullah",
+        "Abu Talib",
+        "Abdul-Muttalib",
+        "Hamza"
+      ]
+    }
+  },
+
+  {
+    "id": 70,
+    "correctIndex": 2,
+
+    "bn": {
+      "question": "নবী মুহাম্মদ (সা.)-এর মায়ের নাম কী?",
+      "options": [
+        "খাদিজা (রা.)",
+        "আয়েশা (রা.)",
+        "আমিনা (রা.)",
+        "ফাতিমা (রা.)"
+      ]
+    },
+
+    "en": {
+      "question": "What was the name of Prophet Muhammad's (PBUH) mother?",
+      "options": [
+        "Khadijah (RA)",
+        "Aisha (RA)",
+        "Aminah (RA)",
+        "Fatimah (RA)"
+      ]
+    },
+
+    "ur": {
+      "question": "نبی محمد ﷺ کی والدہ کا نام کیا تھا؟",
+      "options": [
+        "خدیجہ رضی اللہ عنہا",
+        "عائشہ رضی اللہ عنہا",
+        "آمنہ رضی اللہ عنہا",
+        "فاطمہ رضی اللہ عنہا"
+      ]
+    },
+
+    "id": {
+      "question": "Siapakah nama ibu Nabi Muhammad (SAW)?",
+      "options": [
+        "Khadijah (RA)",
+        "Aisyah (RA)",
+        "Aminah (RA)",
+        "Fatimah (RA)"
+      ]
+    },
+
+    "tr": {
+      "question": "Peygamber Muhammed'in (SAV) annesinin adı neydi?",
+      "options": [
+        "Hatice (RA)",
+        "Aişe (RA)",
+        "Amine (RA)",
+        "Fatma (RA)"
+      ]
+    },
+
+    "fr": {
+      "question": "Quel était le nom de la mère du prophète Muhammad (PSL) ?",
+      "options": [
+        "Khadijah (RA)",
+        "Aisha (RA)",
+        "Aminah (RA)",
+        "Fatimah (RA)"
+      ]
+    }
+  },
+
+    {
+  "id": 71,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "কুরআনে মোট কতটি সূরা রয়েছে?",
+    "options": [
+      "১১৪টি",
+      "১১০টি",
+      "১২০টি",
+      "১০৪টি"
+    ]
+  },
+
+  "en": {
+    "question": "How many surahs are there in the Quran?",
+    "options": [
+      "114",
+      "110",
+      "120",
+      "104"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن مجید میں کل کتنی سورتیں ہیں؟",
+    "options": [
+      "114",
+      "110",
+      "120",
+      "104"
+    ]
+  },
+
+  "id": {
+    "question": "Berapa jumlah surah dalam Al-Qur'an?",
+    "options": [
+      "114",
+      "110",
+      "120",
+      "104"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'da toplam kaç sure vardır?",
+    "options": [
+      "114",
+      "110",
+      "120",
+      "104"
+    ]
+  },
+
+  "fr": {
+    "question": "Combien de sourates contient le Coran ?",
+    "options": [
+      "114",
+      "110",
+      "120",
+      "104"
+    ]
+  }
+},
+
+{
+  "id": 72,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "কুরআনের প্রথম সূরার নাম কী?",
+    "options": [
+      "আল-বাকারা",
+      "আল-ফাতিহা",
+      "আল-ইখলাস",
+      "আন-নাস"
+    ]
+  },
+
+  "en": {
+    "question": "What is the name of the first surah of the Quran?",
+    "options": [
+      "Al-Baqarah",
+      "Al-Fatihah",
+      "Al-Ikhlas",
+      "An-Nas"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کی پہلی سورت کا نام کیا ہے؟",
+    "options": [
+      "البقرہ",
+      "الفاتحہ",
+      "الاخلاص",
+      "الناس"
+    ]
+  },
+
+  "id": {
+    "question": "Apa nama surah pertama dalam Al-Qur'an?",
+    "options": [
+      "Al-Baqarah",
+      "Al-Fatihah",
+      "Al-Ikhlas",
+      "An-Nas"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'ın ilk suresinin adı nedir?",
+    "options": [
+      "Bakara",
+      "Fatiha",
+      "İhlas",
+      "Nas"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le nom de la première sourate du Coran ?",
+    "options": [
+      "Al-Baqarah",
+      "Al-Fatihah",
+      "Al-Ikhlas",
+      "An-Nas"
+    ]
+  }
+},
+
+{
+  "id": 73,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "কুরআনের সবচেয়ে বড় সূরা কোনটি?",
+    "options": [
+      "আল-বাকারা",
+      "আলে ইমরান",
+      "আন-নিসা",
+      "আল-মায়িদাহ"
+    ]
+  },
+
+  "en": {
+    "question": "Which is the longest surah in the Quran?",
+    "options": [
+      "Al-Baqarah",
+      "Aal-Imran",
+      "An-Nisa",
+      "Al-Ma'idah"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن مجید کی سب سے بڑی سورت کون سی ہے؟",
+    "options": [
+      "البقرہ",
+      "آل عمران",
+      "النساء",
+      "المائدہ"
+    ]
+  },
+
+  "id": {
+    "question": "Surah manakah yang paling panjang dalam Al-Qur'an?",
+    "options": [
+      "Al-Baqarah",
+      "Ali Imran",
+      "An-Nisa",
+      "Al-Ma'idah"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'daki en uzun sure hangisidir?",
+    "options": [
+      "Bakara",
+      "Âl-i İmrân",
+      "Nisâ",
+      "Mâide"
+    ]
+  },
+
+  "fr": {
+    "question": "Quelle est la plus longue sourate du Coran ?",
+    "options": [
+      "Al-Baqarah",
+      "Aal-Imran",
+      "An-Nisa",
+      "Al-Ma'idah"
+    ]
+  }
+},
+
+{
+  "id": 74,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "কুরআনের সবচেয়ে ছোট সূরা কোনটি?",
+    "options": [
+      "আল-আসর",
+      "আন-নাসর",
+      "আল-ফালাক",
+      "আল-কাওসার"
+    ]
+  },
+
+  "en": {
+    "question": "Which is the shortest surah in the Quran?",
+    "options": [
+      "Al-Asr",
+      "An-Nasr",
+      "Al-Falaq",
+      "Al-Kawthar"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن مجید کی سب سے چھوٹی سورت کون سی ہے؟",
+    "options": [
+      "العصر",
+      "النصر",
+      "الفلق",
+      "الکوثر"
+    ]
+  },
+
+  "id": {
+    "question": "Surah manakah yang paling pendek dalam Al-Qur'an?",
+    "options": [
+      "Al-Asr",
+      "An-Nasr",
+      "Al-Falaq",
+      "Al-Kawthar"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'daki en kısa sure hangisidir?",
+    "options": [
+      "Asr",
+      "Nasr",
+      "Felak",
+      "Kevser"
+    ]
+  },
+
+  "fr": {
+    "question": "Quelle est la plus courte sourate du Coran ?",
+    "options": [
+      "Al-Asr",
+      "An-Nasr",
+      "Al-Falaq",
+      "Al-Kawthar"
+    ]
+  }
+},
+
+{
+  "id": 75,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "কুরআনের কোন সূরার শুরুতে বিসমিল্লাহ নেই?",
+    "options": [
+      "আল-ফাতিহা",
+      "আল-বাকারা",
+      "আত-তাওবাহ",
+      "আন-নাস"
+    ]
+  },
+
+  "en": {
+    "question": "Which surah of the Quran does not begin with Bismillah?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Baqarah",
+      "At-Tawbah",
+      "An-Nas"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کی کون سی سورت بسم اللہ سے شروع نہیں ہوتی؟",
+    "options": [
+      "الفاتحہ",
+      "البقرہ",
+      "التوبہ",
+      "الناس"
+    ]
+  },
+
+  "id": {
+    "question": "Surah manakah dalam Al-Qur'an yang tidak diawali dengan Bismillah?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Baqarah",
+      "At-Tawbah",
+      "An-Nas"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'da hangi sure Besmele ile başlamaz?",
+    "options": [
+      "Fatiha",
+      "Bakara",
+      "Tevbe",
+      "Nas"
+    ]
+  },
+
+  "fr": {
+    "question": "Quelle sourate du Coran ne commence pas par la Basmala ?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Baqarah",
+      "At-Tawbah",
+      "An-Nas"
+    ]
+  }
+},
+
+{
+  "id": 76,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "কুরআনের শেষ সূরার নাম কী?",
+    "options": [
+      "আন-নাস",
+      "আল-ফালাক",
+      "আন-নাসর",
+      "আল-ইখলাস"
+    ]
+  },
+
+  "en": {
+    "question": "What is the name of the last surah of the Quran?",
+    "options": [
+      "An-Nas",
+      "Al-Falaq",
+      "An-Nasr",
+      "Al-Ikhlas"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کی آخری سورت کا نام کیا ہے؟",
+    "options": [
+      "الناس",
+      "الفلق",
+      "النصر",
+      "الاخلاص"
+    ]
+  },
+
+  "id": {
+    "question": "Apa nama surah terakhir dalam Al-Qur'an?",
+    "options": [
+      "An-Nas",
+      "Al-Falaq",
+      "An-Nasr",
+      "Al-Ikhlas"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'ın son suresinin adı nedir?",
+    "options": [
+      "Nas",
+      "Felak",
+      "Nasr",
+      "İhlas"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le nom de la dernière sourate du Coran ?",
+    "options": [
+      "An-Nas",
+      "Al-Falaq",
+      "An-Nasr",
+      "Al-Ikhlas"
+    ]
+  }
+},
+
+{
+  "id": 77,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "কুরআন কোন ভাষায় নাজিল হয়েছে?",
+    "options": [
+      "ফারসি",
+      "আরবি",
+      "উর্দু",
+      "হিব্রু"
+    ]
+  },
+
+  "en": {
+    "question": "In which language was the Quran revealed?",
+    "options": [
+      "Persian",
+      "Arabic",
+      "Urdu",
+      "Hebrew"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کس زبان میں نازل ہوا؟",
+    "options": [
+      "فارسی",
+      "عربی",
+      "اردو",
+      "عبرانی"
+    ]
+  },
+
+  "id": {
+    "question": "Dalam bahasa apakah Al-Qur'an diturunkan?",
+    "options": [
+      "Persia",
+      "Arab",
+      "Urdu",
+      "Ibrani"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an hangi dilde indirilmiştir?",
+    "options": [
+      "Farsça",
+      "Arapça",
+      "Urduca",
+      "İbranice"
+    ]
+  },
+
+  "fr": {
+    "question": "Dans quelle langue le Coran a-t-il été révélé ?",
+    "options": [
+      "Persan",
+      "Arabe",
+      "Ourdou",
+      "Hébreu"
+    ]
+  }
+},
+
+{
+  "id": 78,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "কুরআন নাজিলের সূচনা কোন মাসে হয়েছিল?",
+    "options": [
+      "শাওয়াল",
+      "শাবান",
+      "রমজান",
+      "মুহাররম"
+    ]
+  },
+
+  "en": {
+    "question": "In which month did the revelation of the Quran begin?",
+    "options": [
+      "Shawwal",
+      "Sha'ban",
+      "Ramadan",
+      "Muharram"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کے نزول کا آغاز کس مہینے میں ہوا؟",
+    "options": [
+      "شوال",
+      "شعبان",
+      "رمضان",
+      "محرم"
+    ]
+  },
+
+  "id": {
+    "question": "Pada bulan apakah wahyu Al-Qur'an mulai diturunkan?",
+    "options": [
+      "Syawal",
+      "Syaban",
+      "Ramadan",
+      "Muharram"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'ın vahyi hangi ayda başlamıştır?",
+    "options": [
+      "Şevval",
+      "Şaban",
+      "Ramazan",
+      "Muharrem"
+    ]
+  },
+
+  "fr": {
+    "question": "Au cours de quel mois la révélation du Coran a-t-elle commencé ?",
+    "options": [
+      "Shawwal",
+      "Sha'ban",
+      "Ramadan",
+      "Muharram"
+    ]
+  }
+},
+
+{
+  "id": 79,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "প্রথম ওহি কোন গুহায় নাজিল হয়েছিল?",
+    "options": [
+      "হেরা গুহা",
+      "সওর গুহা",
+      "উহুদ গুহা",
+      "মিনা গুহা"
+    ]
+  },
+
+  "en": {
+    "question": "In which cave was the first revelation received?",
+    "options": [
+      "Cave Hira",
+      "Cave Thawr",
+      "Cave Uhud",
+      "Cave Mina"
+    ]
+  },
+
+  "ur": {
+    "question": "پہلی وحی کس غار میں نازل ہوئی؟",
+    "options": [
+      "غار حرا",
+      "غار ثور",
+      "غار احد",
+      "غار منیٰ"
+    ]
+  },
+
+  "id": {
+    "question": "Di gua manakah wahyu pertama diturunkan?",
+    "options": [
+      "Gua Hira",
+      "Gua Tsur",
+      "Gua Uhud",
+      "Gua Mina"
+    ]
+  },
+
+  "tr": {
+    "question": "İlk vahiy hangi mağarada gelmiştir?",
+    "options": [
+      "Hira Mağarası",
+      "Sevr Mağarası",
+      "Uhud Mağarası",
+      "Mina Mağarası"
+    ]
+  },
+
+  "fr": {
+    "question": "Dans quelle grotte la première révélation a-t-elle été reçue ?",
+    "options": [
+      "Grotte de Hira",
+      "Grotte de Thawr",
+      "Grotte d'Uhud",
+      "Grotte de Mina"
+    ]
+  }
+},
+
+{
+  "id": 80,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "প্রথম ওহির শুরুতে কোন শব্দ নাজিল হয়েছিল?",
+    "options": [
+      "আল্লাহ",
+      "ইকরা",
+      "রহমান",
+      "বিসমিল্লাহ"
+    ]
+  },
+
+  "en": {
+    "question": "What word began the first revelation?",
+    "options": [
+      "Allah",
+      "Iqra",
+      "Ar-Rahman",
+      "Bismillah"
+    ]
+  },
+
+  "ur": {
+    "question": "پہلی وحی کے آغاز میں کون سا لفظ نازل ہوا؟",
+    "options": [
+      "اللہ",
+      "اقرأ",
+      "الرحمن",
+      "بسم اللہ"
+    ]
+  },
+
+  "id": {
+    "question": "Kata apa yang mengawali wahyu pertama?",
+    "options": [
+      "Allah",
+      "Iqra",
+      "Ar-Rahman",
+      "Bismillah"
+    ]
+  },
+
+  "tr": {
+    "question": "İlk vahyin başlangıcında hangi kelime indirilmiştir?",
+    "options": [
+      "Allah",
+      "İkra",
+      "Rahman",
+      "Bismillah"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel mot a commencé la première révélation ?",
+    "options": [
+      "Allah",
+      "Iqra",
+      "Ar-Rahman",
+      "Bismillah"
+    ]
+  }
+},
+
+{
+  "id": 81,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "প্রথম ওহির আয়াতগুলো কোন সূরায় রয়েছে?",
+    "options": [
+      "আল-ফাতিহা",
+      "আল-আলাক",
+      "আল-মুদ্দাসসির",
+      "আল-মুযযাম্মিল"
+    ]
+  },
+
+  "en": {
+    "question": "In which surah are the verses of the first revelation found?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Alaq",
+      "Al-Muddaththir",
+      "Al-Muzzammil"
+    ]
+  },
+
+  "ur": {
+    "question": "پہلی وحی کی آیات کس سورت میں ہیں؟",
+    "options": [
+      "الفاتحہ",
+      "العلق",
+      "المدثر",
+      "المزمل"
+    ]
+  },
+
+  "id": {
+    "question": "Dalam surah manakah ayat-ayat wahyu pertama terdapat?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Alaq",
+      "Al-Muddaththir",
+      "Al-Muzzammil"
+    ]
+  },
+
+  "tr": {
+    "question": "İlk vahyin ayetleri hangi surede yer alır?",
+    "options": [
+      "Fatiha",
+      "Alak",
+      "Müddessir",
+      "Müzzemmil"
+    ]
+  },
+
+  "fr": {
+    "question": "Dans quelle sourate se trouvent les versets de la première révélation ?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Alaq",
+      "Al-Muddaththir",
+      "Al-Muzzammil"
+    ]
+  }
+},
+
+{
+  "id": 82,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "কুরআন নাজিলের দায়িত্বে কোন ফেরেশতা ছিলেন?",
+    "options": [
+      "জিবরাইল (আ.)",
+      "মিকাইল (আ.)",
+      "ইসরাফিল (আ.)",
+      "আজরাইল (আ.)"
+    ]
+  },
+
+  "en": {
+    "question": "Which angel was responsible for bringing the Quranic revelation?",
+    "options": [
+      "Jibril (AS)",
+      "Mikail (AS)",
+      "Israfil (AS)",
+      "Azrael (AS)"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کی وحی پہنچانے کی ذمہ داری کس فرشتے کی تھی؟",
+    "options": [
+      "جبرائیل علیہ السلام",
+      "میکائیل علیہ السلام",
+      "اسرافیل علیہ السلام",
+      "عزرائیل علیہ السلام"
+    ]
+  },
+
+  "id": {
+    "question": "Malaikat manakah yang membawa wahyu Al-Qur'an?",
+    "options": [
+      "Jibril (AS)",
+      "Mikail (AS)",
+      "Israfil (AS)",
+      "Azrael (AS)"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an vahyini getiren melek hangisidir?",
+    "options": [
+      "Cebrail (AS)",
+      "Mikail (AS)",
+      "İsrafil (AS)",
+      "Azrail (AS)"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel ange était chargé de transmettre la révélation du Coran ?",
+    "options": [
+      "Jibril (AS)",
+      "Mikail (AS)",
+      "Israfil (AS)",
+      "Azrael (AS)"
+    ]
+  }
+},
+
+{
+  "id": 83,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "কুরআন কোন নবীর ওপর নাজিল হয়েছে?",
+    "options": [
+      "মুসা (আ.)",
+      "ঈসা (আ.)",
+      "মুহাম্মদ (সা.)",
+      "ইব্রাহিম (আ.)"
+    ]
+  },
+
+  "en": {
+    "question": "Upon which prophet was the Quran revealed?",
+    "options": [
+      "Musa (AS)",
+      "Isa (AS)",
+      "Muhammad (PBUH)",
+      "Ibrahim (AS)"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کس نبی پر نازل ہوا؟",
+    "options": [
+      "موسیٰ علیہ السلام",
+      "عیسیٰ علیہ السلام",
+      "محمد ﷺ",
+      "ابراہیم علیہ السلام"
+    ]
+  },
+
+  "id": {
+    "question": "Kepada nabi manakah Al-Qur'an diturunkan?",
+    "options": [
+      "Musa (AS)",
+      "Isa (AS)",
+      "Muhammad (SAW)",
+      "Ibrahim (AS)"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an hangi peygambere indirilmiştir?",
+    "options": [
+      "Musa (AS)",
+      "İsa (AS)",
+      "Muhammed (SAV)",
+      "İbrahim (AS)"
+    ]
+  },
+
+  "fr": {
+    "question": "À quel prophète le Coran a-t-il été révélé ?",
+    "options": [
+      "Musa (AS)",
+      "Isa (AS)",
+      "Muhammad (PSL)",
+      "Ibrahim (AS)"
+    ]
+  }
+},
+
+{
+  "id": 84,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "কুরআন সংরক্ষণের একটি গুরুত্বপূর্ণ পদ্ধতি কী ছিল?",
+    "options": [
+      "শুধু পাথরে লেখা",
+      "শুধু কাগজে লেখা",
+      "শুধু মুখস্থ করা",
+      "মুখস্থ ও লিখিত উভয়ভাবে সংরক্ষণ"
+    ]
+  },
+
+  "en": {
+    "question": "What was an important method of preserving the Quran?",
+    "options": [
+      "Writing only on stones",
+      "Writing only on paper",
+      "Memorizing only",
+      "Preserving it both orally and in writing"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کو محفوظ رکھنے کا ایک اہم طریقہ کیا تھا؟",
+    "options": [
+      "صرف پتھروں پر لکھنا",
+      "صرف کاغذ پر لکھنا",
+      "صرف حفظ کرنا",
+      "حفظ اور تحریری دونوں طریقوں سے محفوظ کرنا"
+    ]
+  },
+
+  "id": {
+    "question": "Apa salah satu metode penting dalam menjaga Al-Qur'an?",
+    "options": [
+      "Hanya ditulis di batu",
+      "Hanya ditulis di kertas",
+      "Hanya dihafalkan",
+      "Dijaga melalui hafalan dan tulisan"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'ın korunmasında önemli yöntemlerden biri nedir?",
+    "options": [
+      "Sadece taşlara yazmak",
+      "Sadece kağıda yazmak",
+      "Sadece ezberlemek",
+      "Hem ezberleyerek hem yazarak korumak"
+    ]
+  },
+
+  "fr": {
+    "question": "Quelle était une méthode importante pour préserver le Coran ?",
+    "options": [
+      "L'écrire uniquement sur des pierres",
+      "L'écrire uniquement sur du papier",
+      "Le mémoriser uniquement",
+      "Le préserver par mémorisation et par écrit"
+    ]
+  }
+},
+
+{
+  "id": 85,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "কুরআনের প্রথম নাজিল হওয়া আয়াত কোন সূরার অন্তর্ভুক্ত?",
+    "options": [
+      "সূরা ফাতিহা",
+      "সূরা আলাক",
+      "সূরা বাকারাহ",
+      "সূরা নাস"
+    ]
+  },
+
+  "en": {
+    "question": "The first revealed verses belong to which surah?",
+    "options": [
+      "Surah Al-Fatihah",
+      "Surah Al-Alaq",
+      "Surah Al-Baqarah",
+      "Surah An-Nas"
+    ]
+  },
+
+  "ur": {
+    "question": "سب سے پہلے نازل ہونے والی آیات کس سورت کا حصہ ہیں؟",
+    "options": [
+      "سورۃ الفاتحہ",
+      "سورۃ العلق",
+      "سورۃ البقرہ",
+      "سورۃ الناس"
+    ]
+  },
+
+  "id": {
+    "question": "Ayat yang pertama kali diturunkan termasuk dalam surah apa?",
+    "options": [
+      "Surah Al-Fatihah",
+      "Surah Al-Alaq",
+      "Surah Al-Baqarah",
+      "Surah An-Nas"
+    ]
+  },
+
+  "tr": {
+    "question": "İlk indirilen ayetler hangi surenin bir parçasıdır?",
+    "options": [
+      "Fatiha Suresi",
+      "Alak Suresi",
+      "Bakara Suresi",
+      "Nas Suresi"
+    ]
+  },
+
+  "fr": {
+    "question": "Les premiers versets révélés appartiennent à quelle sourate ?",
+    "options": [
+      "Sourate Al-Fatihah",
+      "Sourate Al-Alaq",
+      "Sourate Al-Baqarah",
+      "Sourate An-Nas"
+    ]
+  }
+},
+
+{
+  "id": 86,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "কুরআনের কোন সূরাকে ‘উম্মুল কুরআন’ বলা হয়?",
+    "options": [
+      "আল-ফাতিহা",
+      "আল-বাকারা",
+      "আল-ইখলাস",
+      "আন-নাস"
+    ]
+  },
+
+  "en": {
+    "question": "Which surah is known as 'Ummul Quran'?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Baqarah",
+      "Al-Ikhlas",
+      "An-Nas"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کی کس سورت کو ’ام القرآن‘ کہا جاتا ہے؟",
+    "options": [
+      "الفاتحہ",
+      "البقرہ",
+      "الاخلاص",
+      "الناس"
+    ]
+  },
+
+  "id": {
+    "question": "Surah manakah yang dikenal sebagai 'Ummul Quran'?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Baqarah",
+      "Al-Ikhlas",
+      "An-Nas"
+    ]
+  },
+
+  "tr": {
+    "question": "'Ümmü'l-Kur'an' olarak bilinen sure hangisidir?",
+    "options": [
+      "Fatiha",
+      "Bakara",
+      "İhlas",
+      "Nas"
+    ]
+  },
+
+  "fr": {
+    "question": "Quelle sourate est connue sous le nom d'« Ummul Quran » ?",
+    "options": [
+      "Al-Fatihah",
+      "Al-Baqarah",
+      "Al-Ikhlas",
+      "An-Nas"
+    ]
+  }
+},
+
+{
+  "id": 87,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "কুরআনে আয়াতুল কুরসি কোন সূরায় রয়েছে?",
+    "options": [
+      "আল-ফাতিহা",
+      "আলে ইমরান",
+      "আন-নিসা",
+      "আল-বাকারা"
+    ]
+  },
+
+  "en": {
+    "question": "In which surah is Ayat al-Kursi found?",
+    "options": [
+      "Al-Fatihah",
+      "Aal-Imran",
+      "An-Nisa",
+      "Al-Baqarah"
+    ]
+  },
+
+  "ur": {
+    "question": "آیت الکرسی قرآن کی کس سورت میں ہے؟",
+    "options": [
+      "الفاتحہ",
+      "آل عمران",
+      "النساء",
+      "البقرہ"
+    ]
+  },
+
+  "id": {
+    "question": "Dalam surah manakah Ayat Kursi terdapat?",
+    "options": [
+      "Al-Fatihah",
+      "Ali Imran",
+      "An-Nisa",
+      "Al-Baqarah"
+    ]
+  },
+
+  "tr": {
+    "question": "Ayetel Kürsi hangi surede bulunur?",
+    "options": [
+      "Fatiha",
+      "Âl-i İmrân",
+      "Nisâ",
+      "Bakara"
+    ]
+  },
+
+  "fr": {
+    "question": "Dans quelle sourate se trouve Ayat al-Kursi ?",
+    "options": [
+      "Al-Fatihah",
+      "Aal-Imran",
+      "An-Nisa",
+      "Al-Baqarah"
+    ]
+  }
+},
+
+{
+  "id": 88,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "আয়াতুল কুরসি কোন আয়াত নম্বর?",
+    "options": [
+      "২৫৫",
+      "২৫৬",
+      "২৫৪",
+      "২৫৭"
+    ]
+  },
+
+  "en": {
+    "question": "What is the verse number of Ayat al-Kursi?",
+    "options": [
+      "255",
+      "256",
+      "254",
+      "257"
+    ]
+  },
+
+  "ur": {
+    "question": "آیت الکرسی کس آیت نمبر پر ہے؟",
+    "options": [
+      "255",
+      "256",
+      "254",
+      "257"
+    ]
+  },
+
+  "id": {
+    "question": "Ayat Kursi adalah ayat nomor berapa?",
+    "options": [
+      "255",
+      "256",
+      "254",
+      "257"
+    ]
+  },
+
+  "tr": {
+    "question": "Ayetel Kürsi kaçıncı ayettir?",
+    "options": [
+      "255",
+      "256",
+      "254",
+      "257"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le numéro du verset d'Ayat al-Kursi ?",
+    "options": [
+      "255",
+      "256",
+      "254",
+      "257"
+    ]
+  }
+},
+
+{
+  "id": 89,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "‘কুল হুয়াল্লাহু আহাদ’ কোন সূরার আয়াত?",
+    "options": [
+      "আল-ইখলাস",
+      "আল-ফালাক",
+      "আন-নাস",
+      "আল-কাফিরুন"
+    ]
+  },
+
+  "en": {
+    "question": "“Qul Huwa Allahu Ahad” is from which surah?",
+    "options": [
+      "Al-Ikhlas",
+      "Al-Falaq",
+      "An-Nas",
+      "Al-Kafirun"
+    ]
+  },
+
+  "ur": {
+    "question": "’قُلْ هُوَ اللّٰهُ أَحَدٌ‘ کس سورت کی آیت ہے؟",
+    "options": [
+      "الاخلاص",
+      "الفلق",
+      "الناس",
+      "الکافرون"
+    ]
+  },
+
+  "id": {
+    "question": "“Qul Huwa Allahu Ahad” terdapat dalam surah apa?",
+    "options": [
+      "Al-Ikhlas",
+      "Al-Falaq",
+      "An-Nas",
+      "Al-Kafirun"
+    ]
+  },
+
+  "tr": {
+    "question": "“Kul hüvallahu ehad” hangi suredendir?",
+    "options": [
+      "İhlas",
+      "Felak",
+      "Nas",
+      "Kafirun"
+    ]
+  },
+
+  "fr": {
+    "question": "« Qul Huwa Allahu Ahad » se trouve dans quelle sourate ?",
+    "options": [
+      "Al-Ikhlas",
+      "Al-Falaq",
+      "An-Nas",
+      "Al-Kafirun"
+    ]
+  }
+},
+
+{
+  "id": 90,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "সূরা ইখলাসে কয়টি আয়াত রয়েছে?",
+    "options": [
+      "৩টি",
+      "৪টি",
+      "৫টি",
+      "৬টি"
+    ]
+  },
+
+  "en": {
+    "question": "How many verses are there in Surah Al-Ikhlas?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+
+  "ur": {
+    "question": "سورۃ الاخلاص میں کتنی آیات ہیں؟",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+
+  "id": {
+    "question": "Berapa ayat yang terdapat dalam Surah Al-Ikhlas?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+
+  "tr": {
+    "question": "İhlas Suresi kaç ayetten oluşur?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+
+  "fr": {
+    "question": "Combien de versets contient la sourate Al-Ikhlas ?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  }
+},
+
+{
+  "id": 91,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "কুরআনের শেষ দুই সূরাকে একসঙ্গে কী বলা হয়?",
+    "options": [
+      "মুআওয়িযাত",
+      "সাবউল মাসানি",
+      "মুআওয়িযাতাইন",
+      "হাওয়ামিম"
+    ]
+  },
+
+  "en": {
+    "question": "What are the last two surahs of the Quran collectively called?",
+    "options": [
+      "Mu'awwidhat",
+      "Sab'ul Mathani",
+      "Mu'awwidhatayn",
+      "Hawamim"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کی آخری دو سورتوں کو مجموعی طور پر کیا کہا جاتا ہے؟",
+    "options": [
+      "معوذات",
+      "سبع المثانی",
+      "معوذتین",
+      "حوامیم"
+    ]
+  },
+
+  "id": {
+    "question": "Apa sebutan untuk dua surah terakhir Al-Qur'an secara bersama-sama?",
+    "options": [
+      "Mu'awwidhat",
+      "Sab'ul Mathani",
+      "Mu'awwidhatayn",
+      "Hawamim"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'ın son iki suresine birlikte ne ad verilir?",
+    "options": [
+      "Muavvizat",
+      "Seb'ul Mesani",
+      "Muavvizeteyn",
+      "Havamim"
+    ]
+  },
+
+  "fr": {
+    "question": "Comment appelle-t-on collectivement les deux dernières sourates du Coran ?",
+    "options": [
+      "Mu'awwidhat",
+      "Sab'ul Mathani",
+      "Mu'awwidhatayn",
+      "Hawamim"
+    ]
+  }
+},
+
+{
+  "id": 92,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "সূরা ফাতিহার আয়াত সংখ্যা কত?",
+    "options": [
+      "৫",
+      "৭",
+      "৮",
+      "৬"
+    ]
+  },
+
+  "en": {
+    "question": "How many verses are in Surah Al-Fatihah?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ]
+  },
+
+  "ur": {
+    "question": "سورۃ الفاتحہ میں کتنی آیات ہیں؟",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ]
+  },
+
+  "id": {
+    "question": "Berapa jumlah ayat dalam Surah Al-Fatihah?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ]
+  },
+
+  "tr": {
+    "question": "Fatiha Suresi kaç ayettir?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ]
+  },
+
+  "fr": {
+    "question": "Combien de versets contient la sourate Al-Fatihah ?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ]
+  }
+},
+
+{
+  "id": 93,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "সূরা ফাতিহার আরেকটি প্রসিদ্ধ নাম কী?",
+    "options": [
+      "আল-হুদা",
+      "আল-ফুরকান",
+      "আল-কিতাব",
+      "উম্মুল কিতাব"
+    ]
+  },
+
+  "en": {
+    "question": "What is another well-known name of Surah Al-Fatihah?",
+    "options": [
+      "Al-Huda",
+      "Al-Furqan",
+      "Al-Kitab",
+      "Ummul Kitab"
+    ]
+  },
+
+  "ur": {
+    "question": "سورۃ الفاتحہ کا ایک اور مشہور نام کیا ہے؟",
+    "options": [
+      "الہدیٰ",
+      "الفرقان",
+      "الکتاب",
+      "ام الکتاب"
+    ]
+  },
+
+  "id": {
+    "question": "Apa nama lain yang terkenal dari Surah Al-Fatihah?",
+    "options": [
+      "Al-Huda",
+      "Al-Furqan",
+      "Al-Kitab",
+      "Ummul Kitab"
+    ]
+  },
+
+  "tr": {
+    "question": "Fatiha Suresi'nin diğer meşhur adı nedir?",
+    "options": [
+      "Hüda",
+      "Furkan",
+      "Kitap",
+      "Ümmü'l-Kitab"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est un autre nom bien connu de la sourate Al-Fatihah ?",
+    "options": [
+      "Al-Huda",
+      "Al-Furqan",
+      "Al-Kitab",
+      "Ummul Kitab"
+    ]
+  }
+},
+
+{
+  "id": 94,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "সূরা বাকারাহ কুরআনের কত নম্বর সূরা?",
+    "options": [
+      "২",
+      "১",
+      "৩",
+      "৪"
+    ]
+  },
+
+  "en": {
+    "question": "What is the number of Surah Al-Baqarah in the Quran?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ]
+  },
+
+  "ur": {
+    "question": "سورۃ البقرہ قرآن کی کون سی سورت ہے؟",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ]
+  },
+
+  "id": {
+    "question": "Surah Al-Baqarah adalah surah nomor berapa dalam Al-Qur'an?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ]
+  },
+
+  "tr": {
+    "question": "Bakara Suresi Kur'an'da kaçıncı suredir?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le numéro de la sourate Al-Baqarah dans le Coran ?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ]
+  }
+},
+
+{
+  "id": 95,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "সূরা বাকারাহতে আয়াতুল কুরসি কোন আয়াত?",
+    "options": [
+      "২৫৪",
+      "২৫৬",
+      "২৫৫",
+      "২৫৭"
+    ]
+  },
+
+  "en": {
+    "question": "Which verse in Surah Al-Baqarah is Ayat al-Kursi?",
+    "options": [
+      "254",
+      "256",
+      "255",
+      "257"
+    ]
+  },
+
+  "ur": {
+    "question": "سورۃ البقرہ میں آیت الکرسی کون سی آیت ہے؟",
+    "options": [
+      "254",
+      "256",
+      "255",
+      "257"
+    ]
+  },
+
+  "id": {
+    "question": "Ayat Kursi adalah ayat ke berapa dalam Surah Al-Baqarah?",
+    "options": [
+      "254",
+      "256",
+      "255",
+      "257"
+    ]
+  },
+
+  "tr": {
+    "question": "Bakara Suresi'nde Ayetel Kürsi kaçıncı ayettir?",
+    "options": [
+      "254",
+      "256",
+      "255",
+      "257"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel verset de la sourate Al-Baqarah est Ayat al-Kursi ?",
+    "options": [
+      "254",
+      "256",
+      "255",
+      "257"
+    ]
+  }
+},
+
+{
+  "id": 96,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "কুরআনের কোন সূরার নাম একটি প্রাণীর নামে?",
+    "options": [
+      "আল-আসর",
+      "আল-ফীল",
+      "আল-কদর",
+      "আল-মাউন"
+    ]
+  },
+
+  "en": {
+    "question": "Which Quranic surah is named after an animal?",
+    "options": [
+      "Al-Asr",
+      "Al-Fil",
+      "Al-Qadr",
+      "Al-Ma'un"
+    ]
+  },
+
+  "ur": {
+    "question": "قرآن کی کون سی سورت کا نام ایک جانور کے نام پر ہے؟",
+    "options": [
+      "العصر",
+      "الفیل",
+      "القدر",
+      "الماعون"
+    ]
+  },
+
+  "id": {
+    "question": "Surah Al-Qur'an manakah yang dinamai berdasarkan nama hewan?",
+    "options": [
+      "Al-Asr",
+      "Al-Fil",
+      "Al-Qadr",
+      "Al-Ma'un"
+    ]
+  },
+
+  "tr": {
+    "question": "Kur'an'da hangi sure bir hayvanın adıyla anılır?",
+    "options": [
+      "Asr",
+      "Fil",
+      "Kadr",
+      "Maun"
+    ]
+  },
+
+  "fr": {
+    "question": "Quelle sourate du Coran porte le nom d'un animal ?",
+    "options": [
+      "Al-Asr",
+      "Al-Fil",
+      "Al-Qadr",
+      "Al-Ma'un"
+    ]
+  }
+},
+
+{
+  "id": 97,
+  "correctIndex": 0,
+
+  "bn": {
+    "question": "‘আল-ফীল’ শব্দের অর্থ কী?",
+    "options": [
+      "হাতি",
+      "ঘোড়া",
+      "উট",
+      "পাখি"
+    ]
+  },
+
+  "en": {
+    "question": "What does the word 'Al-Fil' mean?",
+    "options": [
+      "Elephant",
+      "Horse",
+      "Camel",
+      "Bird"
+    ]
+  },
+
+  "ur": {
+    "question": "’الفیل‘ کا کیا مطلب ہے؟",
+    "options": [
+      "ہاتھی",
+      "گھوڑا",
+      "اونٹ",
+      "پرندہ"
+    ]
+  },
+
+  "id": {
+    "question": "Apa arti kata 'Al-Fil'?",
+    "options": [
+      "Gajah",
+      "Kuda",
+      "Unta",
+      "Burung"
+    ]
+  },
+
+  "tr": {
+    "question": "'Fil' kelimesinin anlamı nedir?",
+    "options": [
+      "Fil",
+      "At",
+      "Deve",
+      "Kuş"
+    ]
+  },
+
+  "fr": {
+    "question": "Que signifie le mot « Al-Fil » ?",
+    "options": [
+      "Éléphant",
+      "Cheval",
+      "Chameau",
+      "Oiseau"
+    ]
+  }
+},
+
+{
+  "id": 98,
+  "correctIndex": 3,
+
+  "bn": {
+    "question": "সূরা আল-ফীলের প্রধান বিষয় কী?",
+    "options": [
+      "হজ",
+      "রোজা",
+      "যাকাত",
+      "হাতির বাহিনীর ঘটনা"
+    ]
+  },
+
+  "en": {
+    "question": "What is the main subject of Surah Al-Fil?",
+    "options": [
+      "Hajj",
+      "Fasting",
+      "Zakat",
+      "The event of the army of the elephant"
+    ]
+  },
+
+  "ur": {
+    "question": "سورۃ الفیل کا مرکزی موضوع کیا ہے؟",
+    "options": [
+      "حج",
+      "روزہ",
+      "زکوٰۃ",
+      "ہاتھیوں والے لشکر کا واقعہ"
+    ]
+  },
+
+  "id": {
+    "question": "Apa tema utama Surah Al-Fil?",
+    "options": [
+      "Haji",
+      "Puasa",
+      "Zakat",
+      "Peristiwa pasukan bergajah"
+    ]
+  },
+
+  "tr": {
+    "question": "Fil Suresi'nin ana konusu nedir?",
+    "options": [
+      "Hac",
+      "Oruç",
+      "Zekât",
+      "Fil ordusu olayı"
+    ]
+  },
+
+  "fr": {
+    "question": "Quel est le sujet principal de la sourate Al-Fil ?",
+    "options": [
+      "Hajj",
+      "Jeûne",
+      "Zakat",
+      "L'événement de l'armée de l'éléphant"
+    ]
+  }
+},
+
+{
+  "id": 99,
+  "correctIndex": 2,
+
+  "bn": {
+    "question": "‘আল-কাওসার’ শব্দের অর্থ কী?",
+    "options": [
+      "ক্ষমা",
+      "আলো",
+      "প্রাচুর্য",
+      "সাহায্য"
+    ]
+  },
+
+  "en": {
+    "question": "What does the word 'Al-Kawthar' mean?",
+    "options": [
+      "Forgiveness",
+      "Light",
+      "Abundance",
+      "Help"
+    ]
+  },
+
+  "ur": {
+    "question": "’الکوثر‘ کا کیا مطلب ہے؟",
+    "options": [
+      "مغفرت",
+      "روشنی",
+      "کثرت",
+      "مدد"
+    ]
+  },
+
+  "id": {
+    "question": "Apa arti kata 'Al-Kawthar'?",
+    "options": [
+      "Pengampunan",
+      "Cahaya",
+      "Kelimpahan",
+      "Pertolongan"
+    ]
+  },
+
+  "tr": {
+    "question": "'Kevser' kelimesinin anlamı nedir?",
+    "options": [
+      "Bağışlanma",
+      "Işık",
+      "Bolluk",
+      "Yardım"
+    ]
+  },
+
+  "fr": {
+    "question": "Que signifie le mot « Al-Kawthar » ?",
+    "options": [
+      "Pardon",
+      "Lumière",
+      "Abondance",
+      "Aide"
+    ]
+  }
+},
+
+{
+  "id": 100,
+  "correctIndex": 1,
+
+  "bn": {
+    "question": "সূরা আল-কাওসারে কয়টি আয়াত রয়েছে?",
+    "options": [
+      "২টি",
+      "৩টি",
+      "৪টি",
+      "৫টি"
+    ]
+  },
+
+  "en": {
+    "question": "How many verses are in Surah Al-Kawthar?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+
+  "ur": {
+    "question": "سورۃ الکوثر میں کتنی آیات ہیں؟",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+
+  "id": {
+    "question": "Berapa ayat yang terdapat dalam Surah Al-Kawthar?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+
+  "tr": {
+    "question": "Kevser Suresi kaç ayettir?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+
+  "fr": {
+    "question": "Combien de versets contient la sourate Al-Kawthar ?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  }
 }
 
 
