@@ -188,5 +188,391 @@
       "tr": "Bakara Suresi 2:127",
       "fr": "Sourate Al-Baqara 2:127"
     }
+  },
+
+  {
+    "arabic": "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+    "translations": {
+      "bn": "হে আমাদের রব! আমরা নিজেদের প্রতি জুলুম করেছি। আপনি আমাদের ক্ষমা না করলে এবং দয়া না করলে আমরা অবশ্যই ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব।",
+      "en": "Our Lord, we have wronged ourselves. If You do not forgive us and have mercy on us, we will surely be among the losers.",
+      "ur": "اے ہمارے رب! ہم نے اپنی جانوں پر ظلم کیا۔ اگر تو ہمیں معاف نہ کرے اور ہم پر رحم نہ فرمائے تو ہم خسارہ پانے والوں میں ہوں گے۔",
+      "id": "Ya Tuhan kami, kami telah menzalimi diri sendiri. Jika Engkau tidak mengampuni dan merahmati kami, pasti kami termasuk orang yang rugi.",
+      "tr": "Rabbimiz! Biz kendimize zulmettik. Bizi bağışlamaz ve bize merhamet etmezsen mutlaka ziyana uğrayanlardan oluruz.",
+      "fr": "Seigneur, nous nous sommes fait du tort. Si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous serons parmi les perdants."
+    },
+    "reference": {
+      "bn": "সূরা আল-আরাফ ৭:২৩",
+      "en": "Surah Al-A'raf 7:23",
+      "ur": "سورۃ الاعراف 7:23",
+      "id": "Surah Al-A'raf 7:23",
+      "tr": "A'râf Suresi 7:23",
+      "fr": "Sourate Al-A'raf 7:23"
+    }
+  },
+  {
+    "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+    "translations": {
+      "bn": "হে আমার রব! আমার বক্ষ প্রশস্ত করে দিন এবং আমার কাজ সহজ করে দিন।",
+      "en": "My Lord, expand my chest and make my task easy for me.",
+      "ur": "اے میرے رب! میرا سینہ کھول دے اور میرا کام آسان فرما۔",
+      "id": "Ya Tuhanku, lapangkanlah dadaku dan mudahkanlah urusanku.",
+      "tr": "Rabbim! Göğsüme ferahlık ver ve işimi kolaylaştır.",
+      "fr": "Seigneur, ouvre ma poitrine et facilite ma tâche."
+    },
+    "reference": {
+      "bn": "সূরা ত্ব-হা ২০:২৫-২৬",
+      "en": "Surah Taha 20:25-26",
+      "ur": "سورۃ طہٰ 20:25-26",
+      "id": "Surah Taha 20:25-26",
+      "tr": "Tâhâ Suresi 20:25-26",
+      "fr": "Sourate Ta-Ha 20:25-26"
+    }
+  },
+  {
+    "arabic": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ",
+    "translations": {
+      "bn": "হে আমার রব! আমাকে নিঃসন্তান অবস্থায় একা রাখবেন না। আপনি তো সর্বোত্তম উত্তরাধিকারী।",
+      "en": "My Lord, do not leave me alone without offspring, though You are the best of inheritors.",
+      "ur": "اے میرے رب! مجھے اکیلا بے اولاد نہ چھوڑ، اور تو سب سے بہتر وارث ہے۔",
+      "id": "Ya Tuhanku, janganlah Engkau membiarkan aku hidup seorang diri tanpa keturunan, dan Engkaulah ahli waris yang terbaik.",
+      "tr": "Rabbim! Beni çocuksuz ve yalnız bırakma. Sen varislerin en hayırlısısın.",
+      "fr": "Seigneur, ne me laisse pas seul sans descendance, alors que Tu es le meilleur des héritiers."
+    },
+    "reference": {
+      "bn": "সূরা আল-আম্বিয়া ২১:৮৯",
+      "en": "Surah Al-Anbiya 21:89",
+      "ur": "سورۃ الانبیاء 21:89",
+      "id": "Surah Al-Anbiya 21:89",
+      "tr": "Enbiyâ Suresi 21:89",
+      "fr": "Sourate Al-Anbiya 21:89"
+    }
+  },
+  {
+    "arabic": "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+    "translations": {
+      "bn": "হে আমার রব! আমাকে সৎকর্মশীল সন্তান দান করুন।",
+      "en": "My Lord, grant me righteous offspring.",
+      "ur": "اے میرے رب! مجھے نیک اولاد عطا فرما۔",
+      "id": "Ya Tuhanku, anugerahkanlah kepadaku keturunan yang saleh.",
+      "tr": "Rabbim! Bana salihlerden olacak bir evlat bağışla.",
+      "fr": "Seigneur, accorde-moi une descendance vertueuse."
+    },
+    "reference": {
+      "bn": "সূরা আস-সাফফাত ৩৭:১০০",
+      "en": "Surah As-Saffat 37:100",
+      "ur": "سورۃ الصافات 37:100",
+      "id": "Surah As-Saffat 37:100",
+      "tr": "Sâffât Suresi 37:100",
+      "fr": "Sourate As-Saffat 37:100"
+    }
+  },
+  {
+    "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+    "translations": {
+      "bn": "হে আমার রব! আমাকে এবং আমার বংশধরদের সালাত প্রতিষ্ঠাকারী করুন। হে আমাদের রব! আমার দোয়া কবুল করুন।",
+      "en": "My Lord, make me and my descendants steadfast in prayer. Our Lord, accept my supplication.",
+      "ur": "اے میرے رب! مجھے اور میری اولاد کو نماز قائم کرنے والا بنا، اور میری دعا قبول فرما۔",
+      "id": "Ya Tuhanku, jadikanlah aku dan keturunanku orang yang tetap melaksanakan salat. Ya Tuhan kami, kabulkanlah doaku.",
+      "tr": "Rabbim! Beni ve soyumdan gelenleri namazı dosdoğru kılanlardan eyle. Rabbimiz, duamı kabul et.",
+      "fr": "Seigneur, fais que moi et mes descendants accomplissions la prière. Notre Seigneur, accepte mon invocation."
+    },
+    "reference": {
+      "bn": "সূরা ইবরাহীম ১৪:৪০",
+      "en": "Surah Ibrahim 14:40",
+      "ur": "سورۃ ابراہیم 14:40",
+      "id": "Surah Ibrahim 14:40",
+      "tr": "İbrâhîm Suresi 14:40",
+      "fr": "Sourate Ibrahim 14:40"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+    "translations": {
+      "bn": "হে আমাদের রব! হিসাবের দিন আমাকে, আমার পিতা-মাতাকে এবং সকল মুমিনকে ক্ষমা করুন।",
+      "en": "Our Lord, forgive me, my parents, and the believers on the Day the reckoning is established.",
+      "ur": "اے ہمارے رب! حساب کے دن مجھے، میرے والدین اور تمام مومنوں کو بخش دے۔",
+      "id": "Ya Tuhan kami, ampunilah aku, kedua orang tuaku, dan orang-orang beriman pada hari perhitungan.",
+      "tr": "Rabbimiz! Hesap gününde beni, anne babamı ve müminleri bağışla.",
+      "fr": "Seigneur, pardonne-moi, à mes parents et aux croyants le Jour du Jugement."
+    },
+    "reference": {
+      "bn": "সূরা ইবরাহীম ১৪:৪১",
+      "en": "Surah Ibrahim 14:41",
+      "ur": "سورۃ ابراہیم 14:41",
+      "id": "Surah Ibrahim 14:41",
+      "tr": "İbrâhîm Suresi 14:41",
+      "fr": "Sourate Ibrahim 14:41"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ",
+    "translations": {
+      "bn": "হে আমাদের রব! আমাদের হেদায়েত দেওয়ার পর আমাদের অন্তরকে বিপথগামী করবেন না এবং আপনার পক্ষ থেকে রহমত দান করুন। নিশ্চয়ই আপনি মহাদাতা।",
+      "en": "Our Lord, do not let our hearts deviate after You have guided us, and grant us mercy from Yourself. Indeed, You are the Bestower.",
+      "ur": "اے ہمارے رب! ہدایت دینے کے بعد ہمارے دلوں کو ٹیڑھا نہ کر اور اپنی رحمت عطا فرما۔ بے شک تو بہت عطا کرنے والا ہے۔",
+      "id": "Ya Tuhan kami, janganlah Engkau condongkan hati kami kepada kesesatan setelah Engkau memberi petunjuk, dan karuniakanlah rahmat kepada kami.",
+      "tr": "Rabbimiz! Bize hidayet verdikten sonra kalplerimizi saptırma ve katından bize rahmet bağışla. Şüphesiz Sen çok bağışlayansın.",
+      "fr": "Seigneur, ne laisse pas dévier nos cœurs après nous avoir guidés et accorde-nous Ta miséricorde. Tu es le Grand Donateur."
+    },
+    "reference": {
+      "bn": "সূরা আলে ইমরান ৩:৮",
+      "en": "Surah Aal-Imran 3:8",
+      "ur": "سورۃ آل عمران 3:8",
+      "id": "Surah Ali 'Imran 3:8",
+      "tr": "Âl-i İmrân Suresi 3:8",
+      "fr": "Sourate Al-Imran 3:8"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ",
+    "translations": {
+      "bn": "হে আমাদের রব! আমরা ঈমান এনেছি। তাই আমাদের পাপসমূহ ক্ষমা করুন এবং আগুনের শাস্তি থেকে রক্ষা করুন।",
+      "en": "Our Lord, indeed we have believed, so forgive our sins and protect us from the punishment of the Fire.",
+      "ur": "اے ہمارے رب! ہم ایمان لائے، پس ہمارے گناہ معاف فرما اور ہمیں آگ کے عذاب سے بچا۔",
+      "id": "Ya Tuhan kami, sesungguhnya kami telah beriman, maka ampunilah dosa-dosa kami dan lindungilah kami dari azab neraka.",
+      "tr": "Rabbimiz! Biz iman ettik. Günahlarımızı bağışla ve bizi ateş azabından koru.",
+      "fr": "Seigneur, nous avons cru. Pardonne nos péchés et protège-nous du châtiment du Feu."
+    },
+    "reference": {
+      "bn": "সূরা আলে ইমরান ৩:১৬",
+      "en": "Surah Aal-Imran 3:16",
+      "ur": "سورۃ آل عمران 3:16",
+      "id": "Surah Ali 'Imran 3:16",
+      "tr": "Âl-i İmrân Suresi 3:16",
+      "fr": "Sourate Al-Imran 3:16"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا آمَنَّا بِمَا أَنْزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+    "translations": {
+      "bn": "হে আমাদের রব! আপনি যা অবতীর্ণ করেছেন আমরা তাতে ঈমান এনেছি এবং রাসূলের অনুসরণ করেছি। তাই আমাদের সাক্ষ্যদানকারীদের অন্তর্ভুক্ত করুন।",
+      "en": "Our Lord, we believe in what You have revealed and follow the messenger, so record us among the witnesses.",
+      "ur": "اے ہمارے رب! ہم تیری نازل کردہ وحی پر ایمان لائے اور رسول کی پیروی کی، پس ہمیں گواہوں میں لکھ لے۔",
+      "id": "Ya Tuhan kami, kami beriman kepada apa yang Engkau turunkan dan mengikuti rasul. Maka catatlah kami bersama para saksi.",
+      "tr": "Rabbimiz! İndirdiğine iman ettik ve peygambere uyduk. Bizi şahitlerle birlikte yaz.",
+      "fr": "Seigneur, nous croyons en ce que Tu as révélé et nous suivons le messager. Inscris-nous parmi les témoins."
+    },
+    "reference": {
+      "bn": "সূরা আলে ইমরান ৩:৫৩",
+      "en": "Surah Aal-Imran 3:53",
+      "ur": "سورۃ آل عمران 3:53",
+      "id": "Surah Ali 'Imran 3:53",
+      "tr": "Âl-i İmrân Suresi 3:53",
+      "fr": "Sourate Al-Imran 3:53"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+    "translations": {
+      "bn": "হে আমাদের রব! আমাদের পাপ ও কাজে সীমালঙ্ঘন ক্ষমা করুন, আমাদের পা দৃঢ় রাখুন এবং অবিশ্বাসীদের বিরুদ্ধে সাহায্য করুন।",
+      "en": "Our Lord, forgive our sins and our excesses, make our feet firm, and grant us victory over the disbelieving people.",
+      "ur": "اے ہمارے رب! ہمارے گناہ اور زیادتیاں معاف فرما، ہمارے قدم ثابت رکھ اور کافروں کے مقابلے میں ہماری مدد فرما۔",
+      "id": "Ya Tuhan kami, ampunilah dosa dan tindakan berlebihan kami, teguhkanlah pendirian kami, dan tolonglah kami menghadapi kaum kafir.",
+      "tr": "Rabbimiz! Günahlarımızı ve aşırılıklarımızı bağışla, ayaklarımızı sabit kıl ve inkârcı topluluğa karşı bize yardım et.",
+      "fr": "Seigneur, pardonne nos péchés et nos excès, affermis nos pas et donne-nous la victoire sur les mécréants."
+    },
+    "reference": {
+      "bn": "সূরা আলে ইমরান ৩:১৪৭",
+      "en": "Surah Aal-Imran 3:147",
+      "ur": "سورۃ آل عمران 3:147",
+      "id": "Surah Ali 'Imran 3:147",
+      "tr": "Âl-i İmrân Suresi 3:147",
+      "fr": "Sourate Al-Imran 3:147"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
+    "translations": {
+      "bn": "হে আমাদের রব! আপনি এসব অনর্থক সৃষ্টি করেননি। আপনি পবিত্র। তাই আমাদের আগুনের শাস্তি থেকে রক্ষা করুন।",
+      "en": "Our Lord, You did not create this without purpose. Glory be to You, so protect us from the punishment of the Fire.",
+      "ur": "اے ہمارے رب! تو نے یہ سب بے مقصد پیدا نہیں کیا۔ تو پاک ہے، ہمیں آگ کے عذاب سے بچا۔",
+      "id": "Ya Tuhan kami, tidaklah Engkau menciptakan semua ini sia-sia. Mahasuci Engkau, lindungilah kami dari azab neraka.",
+      "tr": "Rabbimiz! Sen bunları boş yere yaratmadın. Seni tenzih ederiz. Bizi ateş azabından koru.",
+      "fr": "Seigneur, Tu n'as pas créé tout cela en vain. Gloire à Toi, protège-nous du châtiment du Feu."
+    },
+    "reference": {
+      "bn": "সূরা আলে ইমরান ৩:১৯১",
+      "en": "Surah Aal-Imran 3:191",
+      "ur": "سورۃ آل عمران 3:191",
+      "id": "Surah Ali 'Imran 3:191",
+      "tr": "Âl-i İmrân Suresi 3:191",
+      "fr": "Sourate Al-Imran 3:191"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا إِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+    "translations": {
+      "bn": "হে আমাদের রব! আপনি যাকে জাহান্নামে প্রবেশ করাবেন, তাকে অবশ্যই লাঞ্ছিত করবেন। আর জালিমদের কোনো সাহায্যকারী নেই।",
+      "en": "Our Lord, whoever You admit to the Fire, You have disgraced, and the wrongdoers will have no helpers.",
+      "ur": "اے ہمارے رب! جسے تو آگ میں داخل کرے گا اسے رسوا کر دے گا، اور ظالموں کا کوئی مددگار نہیں ہوگا۔",
+      "id": "Ya Tuhan kami, siapa pun yang Engkau masukkan ke neraka sungguh telah Engkau hinakan, dan orang zalim tidak memiliki penolong.",
+      "tr": "Rabbimiz! Sen kimi ateşe sokarsan onu rezil etmiş olursun. Zalimlerin hiçbir yardımcısı yoktur.",
+      "fr": "Seigneur, quiconque Tu fais entrer dans le Feu est humilié, et les injustes n'auront aucun secours."
+    },
+    "reference": {
+      "bn": "সূরা আলে ইমরান ৩:১৯২",
+      "en": "Surah Aal-Imran 3:192",
+      "ur": "سورۃ آل عمران 3:192",
+      "id": "Surah Ali 'Imran 3:192",
+      "tr": "Âl-i İmrân Suresi 3:192",
+      "fr": "Sourate Al-Imran 3:192"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا وَآتِنَا مَا وَعَدْتَنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ",
+    "translations": {
+      "bn": "হে আমাদের রব! আপনার রাসূলদের মাধ্যমে যে প্রতিশ্রুতি দিয়েছেন তা আমাদের দান করুন এবং কিয়ামতের দিন আমাদের অপমানিত করবেন না। নিশ্চয়ই আপনি প্রতিশ্রুতি ভঙ্গ করেন না।",
+      "en": "Our Lord, grant us what You promised through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You never break Your promise.",
+      "ur": "اے ہمارے رب! اپنے رسولوں کے ذریعے کیے ہوئے وعدے ہمیں عطا فرما اور قیامت کے دن ہمیں رسوا نہ کر۔ بے شک تو وعدہ خلافی نہیں کرتا۔",
+      "id": "Ya Tuhan kami, berikanlah apa yang Engkau janjikan melalui para rasul-Mu dan jangan hinakan kami pada hari Kiamat. Engkau tidak menyalahi janji.",
+      "tr": "Rabbimiz! Peygamberlerin aracılığıyla bize vadettiklerini ver ve kıyamet günü bizi rezil etme. Şüphesiz Sen sözünden dönmezsin.",
+      "fr": "Seigneur, accorde-nous ce que Tu as promis par Tes messagers et ne nous humilie pas au Jour de la Résurrection. Tu ne manques jamais à Ta promesse."
+    },
+    "reference": {
+      "bn": "সূরা আলে ইমরান ৩:১৯৪",
+      "en": "Surah Aal-Imran 3:194",
+      "ur": "سورۃ آل عمران 3:194",
+      "id": "Surah Ali 'Imran 3:194",
+      "tr": "Âl-i İmrân Suresi 3:194",
+      "fr": "Sourate Al-Imran 3:194"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+    "translations": {
+      "bn": "হে আমাদের রব! আমাদের উপর ধৈর্য ঢেলে দিন এবং মুসলিম অবস্থায় আমাদের মৃত্যু দিন।",
+      "en": "Our Lord, pour upon us patience and let us die as Muslims.",
+      "ur": "اے ہمارے رب! ہم پر صبر نازل فرما اور ہمیں مسلمان ہونے کی حالت میں موت دے۔",
+      "id": "Ya Tuhan kami, limpahkanlah kesabaran kepada kami dan wafatkanlah kami dalam keadaan Muslim.",
+      "tr": "Rabbimiz! Üzerimize sabır yağdır ve canımızı Müslüman olarak al.",
+      "fr": "Seigneur, déverse sur nous la patience et fais-nous mourir en musulmans."
+    },
+    "reference": {
+      "bn": "সূরা আল-আরাফ ৭:১২৬",
+      "en": "Surah Al-A'raf 7:126",
+      "ur": "سورۃ الاعراف 7:126",
+      "id": "Surah Al-A'raf 7:126",
+      "tr": "A'râf Suresi 7:126",
+      "fr": "Sourate Al-A'raf 7:126"
+    }
+  },
+  {
+    "arabic": "رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+    "translations": {
+      "bn": "হে আমার রব! আমাকে জালিম সম্প্রদায়ের কবল থেকে রক্ষা করুন।",
+      "en": "My Lord, save me from the wrongdoing people.",
+      "ur": "اے میرے رب! مجھے ظالم قوم سے نجات دے۔",
+      "id": "Ya Tuhanku, selamatkanlah aku dari kaum yang zalim.",
+      "tr": "Rabbim! Beni zalimler topluluğundan kurtar.",
+      "fr": "Seigneur, sauve-moi du peuple injuste."
+    },
+    "reference": {
+      "bn": "সূরা আল-কাসাস ২৮:২১",
+      "en": "Surah Al-Qasas 28:21",
+      "ur": "سورۃ القصص 28:21",
+      "id": "Surah Al-Qasas 28:21",
+      "tr": "Kasas Suresi 28:21",
+      "fr": "Sourate Al-Qasas 28:21"
+    }
+  },
+  {
+    "arabic": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+    "translations": {
+      "bn": "হে আমার রব! আপনি আমার প্রতি যে কল্যাণই অবতীর্ণ করবেন, আমি তার মুখাপেক্ষী।",
+      "en": "My Lord, indeed I am in need of whatever good You send down to me.",
+      "ur": "اے میرے رب! جو بھلائی تو میری طرف نازل کرے، میں اس کا محتاج ہوں۔",
+      "id": "Ya Tuhanku, sesungguhnya aku sangat memerlukan kebaikan apa pun yang Engkau turunkan kepadaku.",
+      "tr": "Rabbim! Bana indireceğin her hayra muhtacım.",
+      "fr": "Seigneur, j'ai grand besoin de tout bien que Tu feras descendre vers moi."
+    },
+    "reference": {
+      "bn": "সূরা আল-কাসাস ২৮:২৪",
+      "en": "Surah Al-Qasas 28:24",
+      "ur": "سورۃ القصص 28:24",
+      "id": "Surah Al-Qasas 28:24",
+      "tr": "Kasas Suresi 28:24",
+      "fr": "Sourate Al-Qasas 28:24"
+    }
+  },
+  {
+    "arabic": "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+    "translations": {
+      "bn": "হে আমার রব! আমাকে প্রজ্ঞা দান করুন এবং সৎকর্মশীলদের অন্তর্ভুক্ত করুন।",
+      "en": "My Lord, grant me wisdom and join me with the righteous.",
+      "ur": "اے میرے رب! مجھے حکمت عطا فرما اور نیک لوگوں میں شامل کر۔",
+      "id": "Ya Tuhanku, berikanlah kepadaku hikmah dan masukkanlah aku ke dalam golongan orang-orang saleh.",
+      "tr": "Rabbim! Bana hikmet ver ve beni salihler arasına kat.",
+      "fr": "Seigneur, accorde-moi la sagesse et joins-moi aux vertueux."
+    },
+    "reference": {
+      "bn": "সূরা আশ-শুআরা ২৬:৮৩",
+      "en": "Surah Ash-Shu'ara 26:83",
+      "ur": "سورۃ الشعراء 26:83",
+      "id": "Surah Ash-Shu'ara 26:83",
+      "tr": "Şuarâ Suresi 26:83",
+      "fr": "Sourate Ash-Shu'ara 26:83"
+    }
+  },
+  {
+    "arabic": "رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ",
+    "translations": {
+      "bn": "হে আমার রব! আপনার পক্ষ থেকে আমাকে উত্তম সন্তান দান করুন। নিশ্চয়ই আপনি দোয়া শ্রবণকারী।",
+      "en": "My Lord, grant me from Yourself good offspring. Indeed, You are the Hearer of supplication.",
+      "ur": "اے میرے رب! اپنی طرف سے مجھے پاکیزہ اولاد عطا فرما۔ بے شک تو دعا سننے والا ہے۔",
+      "id": "Ya Tuhanku, berilah aku keturunan yang baik dari sisi-Mu. Sesungguhnya Engkau Maha Mendengar doa.",
+      "tr": "Rabbim! Bana katından hayırlı bir nesil bağışla. Şüphesiz Sen duaları işitensin.",
+      "fr": "Seigneur, accorde-moi de Ta part une bonne descendance. Tu entends toutes les invocations."
+    },
+    "reference": {
+      "bn": "সূরা আলে ইমরান ৩:৩৮",
+      "en": "Surah Aal-Imran 3:38",
+      "ur": "سورۃ آل عمران 3:38",
+      "id": "Surah Ali 'Imran 3:38",
+      "tr": "Âl-i İmrân Suresi 3:38",
+      "fr": "Sourate Al-Imran 3:38"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
+    "translations": {
+      "bn": "হে আমাদের রব! আমাদের থেকে জাহান্নামের শাস্তি দূর করুন। নিশ্চয়ই এর শাস্তি অত্যন্ত কঠিন ও স্থায়ী।",
+      "en": "Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever clinging.",
+      "ur": "اے ہمارے رب! ہم سے جہنم کا عذاب دور فرما۔ بے شک اس کا عذاب نہایت سخت اور چمٹ جانے والا ہے۔",
+      "id": "Ya Tuhan kami, jauhkanlah azab Jahanam dari kami. Sesungguhnya azabnya itu sangat berat dan terus melekat.",
+      "tr": "Rabbimiz! Cehennem azabını bizden uzaklaştır. Şüphesiz onun azabı sürekli ve ağırdır.",
+      "fr": "Seigneur, écarte de nous le châtiment de l'Enfer. Son châtiment est certes persistant."
+    },
+    "reference": {
+      "bn": "সূরা আল-ফুরকান ২৫:৬৫",
+      "en": "Surah Al-Furqan 25:65",
+      "ur": "سورۃ الفرقان 25:65",
+      "id": "Surah Al-Furqan 25:65",
+      "tr": "Furkân Suresi 25:65",
+      "fr": "Sourate Al-Furqan 25:65"
+    }
+  },
+  {
+    "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+    "translations": {
+      "bn": "হে আমাদের রব! আমাদের স্ত্রী-সন্তানদের আমাদের চোখের শীতলতা বানিয়ে দিন এবং আমাদের মুত্তাকীদের আদর্শ করুন।",
+      "en": "Our Lord, grant us comfort in our spouses and offspring, and make us examples for the righteous.",
+      "ur": "اے ہمارے رب! ہماری بیویوں اور اولاد کو ہماری آنکھوں کی ٹھنڈک بنا اور ہمیں پرہیزگاروں کا پیشوا بنا۔",
+      "id": "Ya Tuhan kami, anugerahkanlah kepada kami pasangan dan keturunan sebagai penyejuk mata, dan jadikanlah kami teladan bagi orang-orang bertakwa.",
+      "tr": "Rabbimiz! Eşlerimizi ve çocuklarımızı bize göz aydınlığı kıl ve bizi takva sahiplerine önder yap.",
+      "fr": "Seigneur, fais de nos époux et de nos descendants la joie de nos yeux et fais de nous des modèles pour les pieux."
+    },
+    "reference": {
+      "bn": "সূরা আল-ফুরকান ২৫:৭৪",
+      "en": "Surah Al-Furqan 25:74",
+      "ur": "سورۃ الفرقان 25:74",
+      "id": "Surah Al-Furqan 25:74",
+      "tr": "Furkân Suresi 25:74",
+      "fr": "Sourate Al-Furqan 25:74"
+    }
   }
+
+
+
+
+  
 ]
