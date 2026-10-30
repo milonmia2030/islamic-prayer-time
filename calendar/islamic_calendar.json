@@ -1,44 +1,61 @@
-
 {
-  "version": "2026.08",
-  "last_updated": "2026-08-24",
-
-  "hijri_months": [
-    "Muharram",
-    "Safar",
-    "Rabi al-Awwal",
-    "Rabi al-Thani",
-    "Jumada al-Awwal",
-    "Jumada al-Thani",
-    "Rajab",
-    "Sha'ban",
-    "Ramadan",
-    "Shawwal",
-    "Dhul-Qadah",
-    "Dhul-Hijjah"
-  ],
-
+  "version": "2026.10",
+  "last_updated": "2026-10-30",
+  "region": "Bangladesh",
+  "date_status": "estimated; verify with Bangladesh moon-sighting announcements",
+  "date_note_bn": "হিজরি তারিখ চাঁদ দেখার ওপর নির্ভরশীল। date বাংলাদেশভিত্তিক সম্ভাব্য দিন; calculated_date আন্তর্জাতিক গণনাভিত্তিক বিকল্প। ধর্মীয় রাত আগের দিনের সূর্যাস্তে শুরু হয়।",
+  "hijri_months": ["Muharram", "Safar", "Rabi al-Awwal", "Rabi al-Thani", "Jumada al-Awwal", "Jumada al-Thani", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhul-Qadah", "Dhul-Hijjah"],
   "events": [
-    {
-      "id": "ashura",
-      "title": "Ashura",
-      "date": "2026-07-26",
-      "hijri": "10 Muharram 1448 AH",
-      "type": "important"
-    },
-    {
-      "id": "mawlid",
-      "title": "Mawlid an-Nabi",
-      "date": "2026-08-25",
-      "hijri": "12 Rabi al-Awwal 1448 AH",
-      "type": "important"
-    }
+    {"id":"isra_miraj_1447","title":"Isra and Mi'raj (commemorated)","title_bn":"শবে মেরাজ","date":"2026-01-17","calculated_date":"2026-01-16","hijri":"27 Rajab 1447 AH","type":"observance","description_bn":"ইসরা ও মেরাজে মহানবী (সা.)-এর অলৌকিক রাত্রিযাত্রা ও ঊর্ধ্বারোহণ স্মরণ করা হয়। পাঁচ ওয়াক্ত সালাত ফরজ হওয়ার বিষয়টি মেরাজের সঙ্গে সম্পর্কিত।","observance_bn":"সালাতের গুরুত্ব স্মরণ, কুরআন পাঠ ও দোয়া। ঘটনার সুনির্দিষ্ট ২৭ রজব তারিখ সর্বসম্মতভাবে প্রমাণিত নয়।"},
+    {"id":"mid_shaban_1447","title":"Mid-Sha'ban (Shab-e-Barat)","title_bn":"শবে বরাত","date":"2026-02-03","calculated_date":"2026-02-03","hijri":"15 Sha'ban 1447 AH","type":"observance","description_bn":"শাবান মাসের মধ্যরাত্রি; বাংলাদেশে শবে বরাত নামে পরিচিত। এ রাতের বিশেষ ফজিলত ও নির্দিষ্ট আমল নিয়ে আলেমদের মধ্যে মতভেদ রয়েছে।","observance_bn":"সাধারণ নফল ইবাদত, দোয়া ও তওবা করা যায়; নির্দিষ্ট বিশেষ নামাজ বাধ্যতামূলক নয়।"},
+    {"id":"ramadan_start_1447","title":"Start of Ramadan","title_bn":"রমজান শুরু","date":"2026-02-19","calculated_date":"2026-02-18","hijri":"1 Ramadan 1447 AH","type":"major","description_bn":"ইসলামের পাঁচ স্তম্ভের একটি রোজা পালনের মাস শুরু। প্রাপ্তবয়স্ক সক্ষম মুসলিমদের জন্য রোজা ফরজ, শরিয়তসম্মত ব্যতিক্রম রয়েছে।","observance_bn":"সেহরি, ফজর থেকে সূর্যাস্ত পর্যন্ত রোজা, ইফতার, তারাবিহ ও কুরআন তিলাওয়াত।"},
+    {"id":"last_ten_ramadan_1447","title":"Last Ten Nights of Ramadan","title_bn":"রমজানের শেষ দশ রাত","date":"2026-03-10","calculated_date":"2026-03-09","hijri":"21–30 Ramadan 1447 AH (approx.)","type":"important","description_bn":"রমজানের শেষ দশ রাতে লাইলাতুল কদর অনুসন্ধান করা হয়; বিশেষত বিজোড় রাতগুলোতে।","observance_bn":"নফল সালাত, দোয়া, কুরআন তিলাওয়াত ও সামর্থ্য অনুযায়ী ইতেকাফ।"},
+    {"id":"laylat_qadr_1447","title":"Laylat al-Qadr (27th-night observance)","title_bn":"শবে কদর (২৭তম রাতের প্রচলিত পালন)","date":"2026-03-17","calculated_date":"2026-03-16","hijri":"27 Ramadan 1447 AH","type":"important","description_bn":"লাইলাতুল কদর হাজার মাসের চেয়ে উত্তম। নির্দিষ্ট রাত নিশ্চিত নয়; শেষ দশকের বিজোড় রাতগুলোতে অনুসন্ধানের নির্দেশ রয়েছে।","observance_bn":"ইবাদত ও দোয়া; ২৭তম রাতকে একমাত্র নিশ্চিত রাত মনে করা ঠিক নয়।"},
+    {"id":"eid_fitr_1447","title":"Eid al-Fitr","title_bn":"ঈদুল ফিতর","date":"2026-03-21","calculated_date":"2026-03-20","hijri":"1 Shawwal 1447 AH","type":"festival","description_bn":"রমজানের রোজা শেষে মুসলিমদের প্রধান দুই ঈদের একটি।","observance_bn":"ঈদের সালাত, সদকাতুল ফিতর, আত্মীয়স্বজনের সঙ্গে আনন্দ ভাগাভাগি।"},
+    {"id":"shawwal_six_1447","title":"Six Fasts of Shawwal","title_bn":"শাওয়ালের ছয় রোজা","date":"2026-03-22","calculated_date":"2026-03-21","hijri":"2–30 Shawwal 1447 AH","type":"recommended","description_bn":"রমজানের রোজার পর শাওয়াল মাসে ছয়টি নফল রোজা রাখার ফজিলত সহিহ হাদিসে বর্ণিত।","observance_bn":"ঈদের দিন বাদ দিয়ে শাওয়ালের মধ্যে যেকোনো ছয় দিন রোজা।"},
+    {"id":"dhul_hijjah_first_ten_1447","title":"First Ten Days of Dhul-Hijjah","title_bn":"জিলহজের প্রথম দশ দিন","date":"2026-05-18","calculated_date":"2026-05-18","hijri":"1–10 Dhul-Hijjah 1447 AH","type":"important","description_bn":"জিলহজের প্রথম দশ দিন নেক আমলের জন্য বিশেষ মর্যাদাপূর্ণ।","observance_bn":"তাকবির, জিকির, দান, নফল রোজা ও সৎকর্ম; ঈদের দিন রোজা নয়।"},
+    {"id":"arafah_1447","title":"Day of Arafah","title_bn":"আরাফার দিন","date":"2026-05-26","calculated_date":"2026-05-26","hijri":"9 Dhul-Hijjah 1447 AH","type":"important","description_bn":"হজের প্রধান রুকন আরাফাতের ময়দানে অবস্থান। হজে নেই এমন ব্যক্তির জন্য আরাফার রোজার ফজিলত বর্ণিত।","observance_bn":"হাজিদের আরাফাতে অবস্থান; অন্যদের জন্য নফল রোজা ও দোয়া। হজের তারিখ সৌদি কর্তৃপক্ষ নির্ধারণ করে।"},
+    {"id":"eid_adha_1447","title":"Eid al-Adha","title_bn":"ঈদুল আজহা","date":"2026-05-27","calculated_date":"2026-05-27","hijri":"10 Dhul-Hijjah 1447 AH","type":"festival","description_bn":"মুসলিমদের দ্বিতীয় প্রধান ঈদ; ইবরাহিম (আ.)-এর আত্মত্যাগের স্মৃতির সঙ্গে কোরবানির বিধান সম্পর্কিত।","observance_bn":"ঈদের সালাত, সামর্থ্য ও বিধান অনুযায়ী কোরবানি এবং মাংস বিতরণ।"},
+    {"id":"tashreeq_1447","title":"Days of Tashreeq","title_bn":"আইয়ামে তাশরিক","date":"2026-05-28","calculated_date":"2026-05-28","hijri":"11–13 Dhul-Hijjah 1447 AH","type":"important","description_bn":"ঈদুল আজহার পরের তিন দিন; হজের বিভিন্ন আমল ও তাকবিরের সঙ্গে সম্পর্কিত।","observance_bn":"তাকবির ও জিকির; সাধারণভাবে এই দিনগুলোতে রোজা নিষিদ্ধ, হজের বিশেষ ব্যতিক্রম রয়েছে।"},
+    {"id":"islamic_new_year_1448","title":"Islamic New Year","title_bn":"হিজরি নববর্ষ","date":"2026-06-17","calculated_date":"2026-06-16","hijri":"1 Muharram 1448 AH","type":"important","description_bn":"মহররম মাসের প্রথম দিন থেকে নতুন হিজরি বছর শুরু। মহররম চারটি সম্মানিত মাসের একটি।","observance_bn":"হিজরতের শিক্ষা স্মরণ ও নেক আমল; নববর্ষের জন্য নির্দিষ্ট বিশেষ ইবাদত সাব্যস্ত নয়।"},
+    {"id":"ashura_1448","title":"Ashura","title_bn":"আশুরা","date":"2026-06-26","calculated_date":"2026-06-25","hijri":"10 Muharram 1448 AH","type":"important","description_bn":"আশুরা মহররমের দশম দিন। মুসা (আ.) ও বনি ইসরাইলের মুক্তির স্মরণে রোজার বর্ণনা রয়েছে; কারবালার শোকস্মৃতিও এ দিনের সঙ্গে জড়িত।","observance_bn":"১০ মহররমের রোজা; ৯ বা ১১ মহররমের সঙ্গে মিলিয়ে রাখার প্রচলিত সুপারিশ রয়েছে।"},
+    {"id":"mawlid_1448","title":"Mawlid an-Nabi","title_bn":"ঈদে মিলাদুন্নবী (প্রচলিত স্মরণ)","date":"2026-08-26","calculated_date":"2026-08-25","hijri":"12 Rabi al-Awwal 1448 AH","type":"observance","description_bn":"অনেক মুসলিম সম্প্রদায় মহানবী (সা.)-এর জন্মস্মরণে এ দিন পালন করে। জন্মের সুনির্দিষ্ট তারিখ এবং এ উপলক্ষ পালনের শরয়ি অবস্থান নিয়ে মতভেদ রয়েছে।","observance_bn":"সিরাত আলোচনা, দরুদ ও দান; এটি সর্বসম্মতভাবে নির্ধারিত দুই ঈদের একটি নয়।"},
+    {"id":"isra_miraj_1448","title":"Isra and Mi'raj (commemorated)","title_bn":"শবে মেরাজ","date":"2027-01-06","calculated_date":"2027-01-05","hijri":"27 Rajab 1448 AH","type":"observance","description_bn":"ইসরা ও মেরাজের ঘটনা স্মরণ করা হয়। ২৭ রজবকে ঘটনার নিশ্চিত ঐতিহাসিক তারিখ বলা যায় না।","observance_bn":"সালাতের গুরুত্ব, কুরআন পাঠ ও সাধারণ নফল ইবাদত।"},
+    {"id":"mid_shaban_1448","title":"Mid-Sha'ban (Shab-e-Barat)","title_bn":"শবে বরাত","date":"2027-01-24","calculated_date":"2027-01-23","hijri":"15 Sha'ban 1448 AH","type":"observance","description_bn":"শাবান মাসের মধ্যরাত্রি; বাংলাদেশে ব্যাপকভাবে স্মরণ করা হয়। বিশেষ ফজিলত ও আমলের বিষয়ে মতভেদ আছে।","observance_bn":"দোয়া, তওবা ও সাধারণ নফল ইবাদত; কোনো নির্দিষ্ট বিশেষ নামাজ ফরজ নয়।"},
+    {"id":"ramadan_start_1448","title":"Start of Ramadan","title_bn":"রমজান শুরু","date":"2027-02-09","calculated_date":"2027-02-08","hijri":"1 Ramadan 1448 AH","type":"major","description_bn":"রোজার পবিত্র মাস শুরু; কুরআন নাজিলের মাস।","observance_bn":"চাঁদ দেখা নিশ্চিত করে রোজা, তারাবিহ, কুরআন পাঠ, দান ও দোয়া।"},
+    {"id":"last_ten_ramadan_1448","title":"Last Ten Nights of Ramadan","title_bn":"রমজানের শেষ দশ রাত","date":"2027-03-01","calculated_date":"2027-02-28","hijri":"21–30 Ramadan 1448 AH (approx.)","type":"important","description_bn":"রমজানের শেষ দশ রাতে লাইলাতুল কদর অনুসন্ধান করা হয়।","observance_bn":"বিজোড় রাতগুলোতে বিশেষভাবে ইবাদত, দোয়া ও ইতেকাফ।"},
+    {"id":"laylat_qadr_1448","title":"Laylat al-Qadr (27th-night observance)","title_bn":"শবে কদর (২৭তম রাতের প্রচলিত পালন)","date":"2027-03-07","calculated_date":"2027-03-06","hijri":"27 Ramadan 1448 AH","type":"important","description_bn":"কদরের রাত হাজার মাসের চেয়ে উত্তম; ২৭তম রাত একটি প্রচলিত সম্ভাব্য রাত, নিশ্চিত নয়।","observance_bn":"শেষ দশকের বিজোড় রাতগুলোতে দোয়া ও ইবাদত।"},
+    {"id":"eid_fitr_1448","title":"Eid al-Fitr","title_bn":"ঈদুল ফিতর","date":"2027-03-10","calculated_date":"2027-03-09","hijri":"1 Shawwal 1448 AH","type":"festival","description_bn":"রমজান শেষে ঈদুল ফিতর উদযাপন।","observance_bn":"ঈদের সালাত, ফিতরা, পারিবারিক ও সামাজিক আনন্দ।"},
+    {"id":"shawwal_six_1448","title":"Six Fasts of Shawwal","title_bn":"শাওয়ালের ছয় রোজা","date":"2027-03-11","calculated_date":"2027-03-10","hijri":"2–30 Shawwal 1448 AH","type":"recommended","description_bn":"শাওয়ালের ছয়টি নফল রোজার ফজিলত সহিহ হাদিসে এসেছে।","observance_bn":"ঈদের দিন বাদ দিয়ে মাসের যেকোনো ছয় দিন রোজা।"},
+    {"id":"dhul_hijjah_first_ten_1448","title":"First Ten Days of Dhul-Hijjah","title_bn":"জিলহজের প্রথম দশ দিন","date":"2027-05-08","calculated_date":"2027-05-07","hijri":"1–10 Dhul-Hijjah 1448 AH","type":"important","description_bn":"জিলহজের প্রথম দশ দিন সৎকর্মের বিশেষ মর্যাদাপূর্ণ সময়।","observance_bn":"তাকবির, দান, নফল ইবাদত ও আরাফার রোজা; ঈদের দিন রোজা নয়।"},
+    {"id":"arafah_1448","title":"Day of Arafah","title_bn":"আরাফার দিন","date":"2027-05-16","calculated_date":"2027-05-15","hijri":"9 Dhul-Hijjah 1448 AH","type":"important","description_bn":"হজের প্রধান দিন; হাজিরা আরাফাতে অবস্থান করেন।","observance_bn":"হজে না থাকা ব্যক্তিদের জন্য নফল রোজা; হজের চূড়ান্ত তারিখ সৌদি ঘোষণানির্ভর।"},
+    {"id":"eid_adha_1448","title":"Eid al-Adha","title_bn":"ঈদুল আজহা","date":"2027-05-17","calculated_date":"2027-05-16","hijri":"10 Dhul-Hijjah 1448 AH","type":"festival","description_bn":"হজ মৌসুমের কোরবানির ঈদ।","observance_bn":"ঈদের সালাত, কোরবানি ও দরিদ্রদের সঙ্গে ভাগাভাগি।"},
+    {"id":"tashreeq_1448","title":"Days of Tashreeq","title_bn":"আইয়ামে তাশরিক","date":"2027-05-18","calculated_date":"2027-05-17","hijri":"11–13 Dhul-Hijjah 1448 AH","type":"important","description_bn":"ঈদুল আজহার পরের তিন দিন।","observance_bn":"তাকবির, জিকির ও হজের সংশ্লিষ্ট আমল।"},
+    {"id":"islamic_new_year_1449","title":"Islamic New Year","title_bn":"হিজরি নববর্ষ","date":"2027-06-06","calculated_date":"2027-06-06","hijri":"1 Muharram 1449 AH","type":"important","description_bn":"১৪৪৯ হিজরি বছরের সূচনা।","observance_bn":"হিজরতের শিক্ষা স্মরণ ও সাধারণ সৎকর্ম।"},
+    {"id":"ashura_1449","title":"Ashura","title_bn":"আশুরা","date":"2027-06-15","calculated_date":"2027-06-15","hijri":"10 Muharram 1449 AH","type":"important","description_bn":"মহররমের দশম দিন; রোজার বিশেষ ফজিলত রয়েছে এবং কারবালার স্মৃতির সঙ্গে যুক্ত।","observance_bn":"আশুরার নফল রোজা ও ঐতিহাসিক শিক্ষা স্মরণ।"},
+    {"id":"mawlid_1449","title":"Mawlid an-Nabi","title_bn":"ঈদে মিলাদুন্নবী (প্রচলিত স্মরণ)","date":"2027-08-15","calculated_date":"2027-08-14","hijri":"12 Rabi al-Awwal 1449 AH","type":"observance","description_bn":"কিছু মুসলিম সম্প্রদায়ের মহানবী (সা.)-এর জন্মস্মরণ। দিনটির ঐতিহাসিক নির্ভুলতা ও উদযাপন নিয়ে মতভেদ রয়েছে।","observance_bn":"সিরাত পাঠ, দরুদ ও সৎকর্ম।"},
+    {"id":"isra_miraj_1449","title":"Isra and Mi'raj (commemorated)","title_bn":"শবে মেরাজ","date":"2027-12-25","calculated_date":"2027-12-25","hijri":"27 Rajab 1449 AH","type":"observance","description_bn":"ইসরা ও মেরাজ স্মরণের প্রচলিত দিন; ২৭ রজব ঐতিহাসিকভাবে নিশ্চিত নয়।","observance_bn":"সালাতের গুরুত্ব স্মরণ ও সাধারণ ইবাদত।"}
   ],
-
   "ramadan": {
     "id": "ramadan_1448",
     "title": "Ramadan",
-    "date": "2027-02-08",
-    "hijri": "1 Ramadan 1448 AH"
-  }
+    "title_bn": "রমজান",
+    "date": "2027-02-09",
+    "calculated_date": "2027-02-08",
+    "hijri": "1 Ramadan 1448 AH",
+    "description_bn": "রোজা, তারাবিহ, কুরআন তিলাওয়াত, দান ও আত্মশুদ্ধির মাস।",
+    "expected_eid_fitr_date": "2027-03-10"
+  },
+  "recurring_observances": [
+    {"id":"white_days","title":"Ayyam al-Bid","title_bn":"আইয়ামে বিজের রোজা","hijri":"13–15 of each Hijri month","type":"recommended","description_bn":"প্রতি হিজরি মাসের ১৩, ১৪ ও ১৫ তারিখে নফল রোজার সুপারিশ রয়েছে; নিষিদ্ধ রোজার দিনগুলো ব্যতিক্রম।"},
+    {"id":"monday_thursday","title":"Monday and Thursday Fasts","title_bn":"সোমবার ও বৃহস্পতিবারের নফল রোজা","hijri":"Weekly","type":"recommended","description_bn":"সোমবার ও বৃহস্পতিবার নফল রোজার ফজিলত হাদিসে বর্ণিত।"},
+    {"id":"jumuah","title":"Jumu'ah","title_bn":"জুমার দিন","hijri":"Every Friday","type":"weekly","description_bn":"সাপ্তাহিক জামাতে জুমার সালাত ও খুতবার দিন; যোগ্য ব্যক্তিদের জন্য জুমার সালাত ফরজ।"}
+  ],
+  "sources": [
+    "https://www.bangladatetoday.com/hijri-calendar",
+    "https://sajadah.org/hijri-calendar",
+    "https://www.islamiccal.com/en/gregorian-calendar/bangladesh/2027/",
+    "https://dateconverters.com/hijri-calendar/2026/",
+    "https://dateconverters.com/hijri-calendar/2027/"
+  ]
 }
