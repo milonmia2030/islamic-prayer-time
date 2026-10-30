@@ -248,5 +248,512 @@
       "ms": "Surah Al-Baqarah 2:20",
       "ar": "سورة البقرة ٢:٢٠"
     }
+  },
+
+
+  {
+    "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+    "translations": {
+      "en": "Do not despair of the mercy of Allah.",
+      "bn": "তোমরা আল্লাহর রহমত থেকে নিরাশ হয়ো না।",
+      "fr": "Ne désespérez pas de la miséricorde d'Allah.",
+      "de": "Verzweifelt nicht an Allahs Barmherzigkeit.",
+      "es": "No desesperéis de la misericordia de Alá.",
+      "tr": "Allah'ın rahmetinden ümit kesmeyin.",
+      "id": "Janganlah kamu berputus asa dari rahmat Allah.",
+      "ms": "Janganlah kamu berputus asa daripada rahmat Allah.",
+      "ar": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ"
+    },
+    "reference": {
+      "en": "Surah Az-Zumar 39:53",
+      "bn": "সূরা আয-যুমার ৩৯:৫৩",
+      "fr": "Sourate Az-Zumar 39:53",
+      "de": "Sure Az-Zumar 39:53",
+      "es": "Sura Az-Zumar 39:53",
+      "tr": "Zümer Suresi 39:53",
+      "id": "Surah Az-Zumar 39:53",
+      "ms": "Surah Az-Zumar 39:53",
+      "ar": "سورة الزمر ٣٩:٥٣"
+    }
+  },
+  {
+    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "translations": {
+      "en": "So indeed, with hardship comes ease.",
+      "bn": "অতএব নিশ্চয়ই কষ্টের সাথে রয়েছে স্বস্তি।",
+      "fr": "Certes, avec la difficulté vient la facilité.",
+      "de": "Gewiss, mit der Erschwernis kommt Erleichterung.",
+      "es": "En verdad, con la dificultad viene la facilidad.",
+      "tr": "Şüphesiz zorlukla beraber bir kolaylık vardır.",
+      "id": "Maka sesungguhnya bersama kesulitan ada kemudahan.",
+      "ms": "Maka sesungguhnya bersama kesusahan ada kemudahan.",
+      "ar": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    },
+    "reference": {
+      "en": "Surah Ash-Sharh 94:5",
+      "bn": "সূরা আশ-শারহ ৯৪:৫",
+      "fr": "Sourate Ash-Sharh 94:5",
+      "de": "Sure Ash-Sharh 94:5",
+      "es": "Sura Ash-Sharh 94:5",
+      "tr": "İnşirah Suresi 94:5",
+      "id": "Surah Ash-Sharh 94:5",
+      "ms": "Surah Ash-Sharh 94:5",
+      "ar": "سورة الشرح ٩٤:٥"
+    }
+  },
+  {
+    "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
+    "translations": {
+      "en": "And He is with you wherever you are.",
+      "bn": "তোমরা যেখানেই থাকো, তিনি তোমাদের সঙ্গে আছেন।",
+      "fr": "Il est avec vous où que vous soyez.",
+      "de": "Er ist mit euch, wo immer ihr auch seid.",
+      "es": "Él está con vosotros dondequiera que estéis.",
+      "tr": "Nerede olursanız olun, O sizinle beraberdir.",
+      "id": "Dia bersama kamu di mana saja kamu berada.",
+      "ms": "Dia bersama kamu di mana sahaja kamu berada.",
+      "ar": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ"
+    },
+    "reference": {
+      "en": "Surah Al-Hadid 57:4",
+      "bn": "সূরা আল-হাদীদ ৫৭:৪",
+      "fr": "Sourate Al-Hadid 57:4",
+      "de": "Sure Al-Hadid 57:4",
+      "es": "Sura Al-Hadid 57:4",
+      "tr": "Hadîd Suresi 57:4",
+      "id": "Surah Al-Hadid 57:4",
+      "ms": "Surah Al-Hadid 57:4",
+      "ar": "سورة الحديد ٥٧:٤"
+    }
+  },
+  {
+    "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا",
+    "translations": {
+      "en": "Do not lose heart and do not grieve.",
+      "bn": "তোমরা দুর্বল হয়ো না এবং দুঃখ করো না।",
+      "fr": "Ne faiblissez pas et ne vous affligez pas.",
+      "de": "Werdet nicht schwach und seid nicht traurig.",
+      "es": "No desfallezcáis ni os entristezcáis.",
+      "tr": "Gevşemeyin ve üzülmeyin.",
+      "id": "Janganlah kamu merasa lemah dan jangan bersedih hati.",
+      "ms": "Janganlah kamu berasa lemah dan jangan bersedih hati.",
+      "ar": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا"
+    },
+    "reference": {
+      "en": "Surah Aal-Imran 3:139",
+      "bn": "সূরা আলে ইমরান ৩:১৩৯",
+      "fr": "Sourate Aal-Imran 3:139",
+      "de": "Sure Aal-Imran 3:139",
+      "es": "Sura Aal-Imran 3:139",
+      "tr": "Âl-i İmrân Suresi 3:139",
+      "id": "Surah Ali 'Imran 3:139",
+      "ms": "Surah Ali 'Imran 3:139",
+      "ar": "سورة آل عمران ٣:١٣٩"
+    }
+  },
+  {
+    "arabic": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ",
+    "translations": {
+      "en": "Indeed, my Lord is Near and Responsive.",
+      "bn": "নিশ্চয়ই আমার রব নিকটবর্তী ও দোয়া কবুলকারী।",
+      "fr": "Mon Seigneur est proche et répond aux invocations.",
+      "de": "Mein Herr ist nahe und erhört die Gebete.",
+      "es": "Mi Señor está cerca y responde a las súplicas.",
+      "tr": "Şüphesiz Rabbim yakındır ve dualara cevap verendir.",
+      "id": "Sesungguhnya Tuhanku Maha Dekat lagi Maha Mengabulkan doa.",
+      "ms": "Sesungguhnya Tuhanku Maha Dekat lagi Maha Memperkenankan doa.",
+      "ar": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ"
+    },
+    "reference": {
+      "en": "Surah Hud 11:61",
+      "bn": "সূরা হূদ ১১:৬১",
+      "fr": "Sourate Hud 11:61",
+      "de": "Sure Hud 11:61",
+      "es": "Sura Hud 11:61",
+      "tr": "Hûd Suresi 11:61",
+      "id": "Surah Hud 11:61",
+      "ms": "Surah Hud 11:61",
+      "ar": "سورة هود ١١:٦١"
+    }
+  },
+  {
+    "arabic": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ",
+    "translations": {
+      "en": "My success is only through Allah.",
+      "bn": "আমার সফলতা কেবল আল্লাহর সাহায্যেই সম্ভব।",
+      "fr": "Ma réussite ne dépend que d'Allah.",
+      "de": "Mein Erfolg kommt nur durch Allah.",
+      "es": "Mi éxito depende únicamente de Alá.",
+      "tr": "Benim başarım ancak Allah'ın yardımıyladır.",
+      "id": "Keberhasilanku hanyalah dengan pertolongan Allah.",
+      "ms": "Kejayaanku hanyalah dengan pertolongan Allah.",
+      "ar": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ"
+    },
+    "reference": {
+      "en": "Surah Hud 11:88",
+      "bn": "সূরা হূদ ১১:৮৮",
+      "fr": "Sourate Hud 11:88",
+      "de": "Sure Hud 11:88",
+      "es": "Sura Hud 11:88",
+      "tr": "Hûd Suresi 11:88",
+      "id": "Surah Hud 11:88",
+      "ms": "Surah Hud 11:88",
+      "ar": "سورة هود ١١:٨٨"
+    }
+  },
+  {
+    "arabic": "وَقُل رَّبِّ زِدْنِي عِلْمًا",
+    "translations": {
+      "en": "And say, My Lord, increase me in knowledge.",
+      "bn": "আর বলুন, হে আমার রব, আমার জ্ঞান বৃদ্ধি করে দিন।",
+      "fr": "Et dis : Seigneur, accrois mes connaissances.",
+      "de": "Und sprich: Mein Herr, mehre mein Wissen.",
+      "es": "Y di: Señor mío, aumenta mi conocimiento.",
+      "tr": "De ki: Rabbim, ilmimi artır.",
+      "id": "Dan katakanlah, Ya Tuhanku, tambahkanlah ilmu kepadaku.",
+      "ms": "Dan katakanlah, Wahai Tuhanku, tambahkanlah ilmuku.",
+      "ar": "وَقُل رَّبِّ زِدْنِي عِلْمًا"
+    },
+    "reference": {
+      "en": "Surah Taha 20:114",
+      "bn": "সূরা ত্ব-হা ২০:১১৪",
+      "fr": "Sourate Taha 20:114",
+      "de": "Sure Taha 20:114",
+      "es": "Sura Taha 20:114",
+      "tr": "Tâhâ Suresi 20:114",
+      "id": "Surah Taha 20:114",
+      "ms": "Surah Taha 20:114",
+      "ar": "سورة طه ٢٠:١١٤"
+    }
+  },
+  {
+    "arabic": "وَقُل رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+    "translations": {
+      "en": "And say, My Lord, have mercy upon them as they raised me when I was small.",
+      "bn": "আর বলুন, হে আমার রব, তাঁদের প্রতি দয়া করুন, যেমন তাঁরা শৈশবে আমাকে লালন-পালন করেছেন।",
+      "fr": "Et dis : Seigneur, fais-leur miséricorde comme ils m'ont élevé tout petit.",
+      "de": "Und sprich: Mein Herr, erbarme Dich ihrer, wie sie mich als Kind aufgezogen haben.",
+      "es": "Y di: Señor mío, ten misericordia de ellos como me criaron cuando era pequeño.",
+      "tr": "De ki: Rabbim, onlar beni küçükken yetiştirdikleri gibi sen de onlara merhamet et.",
+      "id": "Dan katakanlah, Wahai Tuhanku, sayangilah keduanya sebagaimana mereka mendidikku ketika kecil.",
+      "ms": "Dan katakanlah, Wahai Tuhanku, kasihanilah mereka berdua sebagaimana mereka mendidikku semasa kecil.",
+      "ar": "وَقُل رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا"
+    },
+    "reference": {
+      "en": "Surah Al-Isra 17:24",
+      "bn": "সূরা আল-ইসরা ১৭:২৪",
+      "fr": "Sourate Al-Isra 17:24",
+      "de": "Sure Al-Isra 17:24",
+      "es": "Sura Al-Isra 17:24",
+      "tr": "İsrâ Suresi 17:24",
+      "id": "Surah Al-Isra 17:24",
+      "ms": "Surah Al-Isra 17:24",
+      "ar": "سورة الإسراء ١٧:٢٤"
+    }
+  },
+  {
+    "arabic": "وَبَشِّرِ الصَّابِرِينَ",
+    "translations": {
+      "en": "And give good news to the patient.",
+      "bn": "আর ধৈর্যশীলদের সুসংবাদ দিন।",
+      "fr": "Et annonce la bonne nouvelle aux endurants.",
+      "de": "Und verkünde den Geduldigen frohe Botschaft.",
+      "es": "Y anuncia buenas nuevas a los pacientes.",
+      "tr": "Sabredenleri müjdele.",
+      "id": "Dan sampaikanlah kabar gembira kepada orang-orang yang sabar.",
+      "ms": "Dan berilah khabar gembira kepada orang-orang yang sabar.",
+      "ar": "وَبَشِّرِ الصَّابِرِينَ"
+    },
+    "reference": {
+      "en": "Surah Al-Baqarah 2:155",
+      "bn": "সূরা আল-বাকারা ২:১৫৫",
+      "fr": "Sourate Al-Baqarah 2:155",
+      "de": "Sure Al-Baqarah 2:155",
+      "es": "Sura Al-Baqarah 2:155",
+      "tr": "Bakara Suresi 2:155",
+      "id": "Surah Al-Baqarah 2:155",
+      "ms": "Surah Al-Baqarah 2:155",
+      "ar": "سورة البقرة ٢:١٥٥"
+    }
+  },
+  {
+    "arabic": "إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+    "translations": {
+      "en": "Indeed, Allah does not allow the reward of those who do good to be lost.",
+      "bn": "নিশ্চয়ই আল্লাহ সৎকর্মশীলদের প্রতিদান নষ্ট করেন না।",
+      "fr": "Allah ne laisse pas perdre la récompense des bienfaisants.",
+      "de": "Allah lässt den Lohn der Gutes Tuenden nicht verloren gehen.",
+      "es": "Alá no deja que se pierda la recompensa de quienes hacen el bien.",
+      "tr": "Şüphesiz Allah iyilik yapanların mükâfatını zayi etmez.",
+      "id": "Sesungguhnya Allah tidak menyia-nyiakan pahala orang-orang yang berbuat baik.",
+      "ms": "Sesungguhnya Allah tidak mensia-siakan pahala orang-orang yang berbuat baik.",
+      "ar": "إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ"
+    },
+    "reference": {
+      "en": "Surah At-Tawbah 9:120",
+      "bn": "সূরা আত-তাওবা ৯:১২০",
+      "fr": "Sourate At-Tawbah 9:120",
+      "de": "Sure At-Tawbah 9:120",
+      "es": "Sura At-Tawbah 9:120",
+      "tr": "Tevbe Suresi 9:120",
+      "id": "Surah At-Tawbah 9:120",
+      "ms": "Surah At-Tawbah 9:120",
+      "ar": "سورة التوبة ٩:١٢٠"
+    }
+  },
+  {
+    "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
+    "translations": {
+      "en": "And do not despair of relief from Allah.",
+      "bn": "আর তোমরা আল্লাহর রহমত ও স্বস্তি থেকে নিরাশ হয়ো না।",
+      "fr": "Et ne désespérez pas du soulagement venant d'Allah.",
+      "de": "Und verzweifelt nicht an der Erleichterung durch Allah.",
+      "es": "Y no desesperéis del alivio que viene de Alá.",
+      "tr": "Allah'ın rahmetinden ümit kesmeyin.",
+      "id": "Dan janganlah kamu berputus asa dari pertolongan Allah.",
+      "ms": "Dan janganlah kamu berputus asa daripada pertolongan Allah.",
+      "ar": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ"
+    },
+    "reference": {
+      "en": "Surah Yusuf 12:87",
+      "bn": "সূরা ইউসুফ ১২:৮৭",
+      "fr": "Sourate Yusuf 12:87",
+      "de": "Sure Yusuf 12:87",
+      "es": "Sura Yusuf 12:87",
+      "tr": "Yûsuf Suresi 12:87",
+      "id": "Surah Yusuf 12:87",
+      "ms": "Surah Yusuf 12:87",
+      "ar": "سورة يوسف ١٢:٨٧"
+    }
+  },
+  {
+    "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ",
+    "translations": {
+      "en": "The believers are but brothers.",
+      "bn": "নিশ্চয়ই মুমিনরা পরস্পর ভাই ভাই।",
+      "fr": "Les croyants ne sont que des frères.",
+      "de": "Die Gläubigen sind doch Brüder.",
+      "es": "Los creyentes son hermanos.",
+      "tr": "Müminler ancak kardeştirler.",
+      "id": "Sesungguhnya orang-orang mukmin itu bersaudara.",
+      "ms": "Sesungguhnya orang-orang yang beriman itu bersaudara.",
+      "ar": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ"
+    },
+    "reference": {
+      "en": "Surah Al-Hujurat 49:10",
+      "bn": "সূরা আল-হুজুরাত ৪৯:১০",
+      "fr": "Sourate Al-Hujurat 49:10",
+      "de": "Sure Al-Hujurat 49:10",
+      "es": "Sura Al-Hujurat 49:10",
+      "tr": "Hucurât Suresi 49:10",
+      "id": "Surah Al-Hujurat 49:10",
+      "ms": "Surah Al-Hujurat 49:10",
+      "ar": "سورة الحجرات ٤٩:١٠"
+    }
+  },
+  {
+    "arabic": "وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا",
+    "translations": {
+      "en": "Do not spy on one another, nor backbite one another.",
+      "bn": "তোমরা একে অপরের গোপন বিষয় অনুসন্ধান করো না এবং পরনিন্দা করো না।",
+      "fr": "Ne vous espionnez pas et ne médisez pas les uns des autres.",
+      "de": "Spioniert einander nicht nach und redet nicht schlecht übereinander.",
+      "es": "No os espiéis ni habléis mal unos de otros a sus espaldas.",
+      "tr": "Birbirinizin kusurlarını araştırmayın ve birbirinizin gıybetini yapmayın.",
+      "id": "Janganlah kamu mencari-cari kesalahan orang lain dan jangan menggunjing satu sama lain.",
+      "ms": "Janganlah kamu mengintip kesalahan orang lain dan jangan mengumpat sesama sendiri.",
+      "ar": "وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا"
+    },
+    "reference": {
+      "en": "Surah Al-Hujurat 49:12",
+      "bn": "সূরা আল-হুজুরাত ৪৯:১২",
+      "fr": "Sourate Al-Hujurat 49:12",
+      "de": "Sure Al-Hujurat 49:12",
+      "es": "Sura Al-Hujurat 49:12",
+      "tr": "Hucurât Suresi 49:12",
+      "id": "Surah Al-Hujurat 49:12",
+      "ms": "Surah Al-Hujurat 49:12",
+      "ar": "سورة الحجرات ٤٩:١٢"
+    }
+  },
+  {
+    "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+    "translations": {
+      "en": "And speak kindly to people.",
+      "bn": "আর মানুষের সঙ্গে উত্তম কথা বলো।",
+      "fr": "Et parlez aux gens avec bonté.",
+      "de": "Und sprecht freundlich zu den Menschen.",
+      "es": "Y hablad amablemente a la gente.",
+      "tr": "İnsanlara güzel söz söyleyin.",
+      "id": "Dan bertutur katalah yang baik kepada manusia.",
+      "ms": "Dan ucapkanlah kata-kata yang baik kepada manusia.",
+      "ar": "وَقُولُوا لِلنَّاسِ حُسْنًا"
+    },
+    "reference": {
+      "en": "Surah Al-Baqarah 2:83",
+      "bn": "সূরা আল-বাকারা ২:৮৩",
+      "fr": "Sourate Al-Baqarah 2:83",
+      "de": "Sure Al-Baqarah 2:83",
+      "es": "Sura Al-Baqarah 2:83",
+      "tr": "Bakara Suresi 2:83",
+      "id": "Surah Al-Baqarah 2:83",
+      "ms": "Surah Al-Baqarah 2:83",
+      "ar": "سورة البقرة ٢:٨٣"
+    }
+  },
+  {
+    "arabic": "وَأَحْسِنُوا إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "translations": {
+      "en": "And do good; indeed, Allah loves those who do good.",
+      "bn": "আর সৎকর্ম করো; নিশ্চয়ই আল্লাহ সৎকর্মশীলদের ভালোবাসেন।",
+      "fr": "Faites le bien, car Allah aime les bienfaisants.",
+      "de": "Und tut Gutes, denn Allah liebt diejenigen, die Gutes tun.",
+      "es": "Haced el bien, pues Alá ama a quienes hacen el bien.",
+      "tr": "İyilik yapın; şüphesiz Allah iyilik yapanları sever.",
+      "id": "Dan berbuat baiklah, sesungguhnya Allah mencintai orang-orang yang berbuat baik.",
+      "ms": "Dan berbuat baiklah, sesungguhnya Allah mengasihi orang-orang yang berbuat baik.",
+      "ar": "وَأَحْسِنُوا إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ"
+    },
+    "reference": {
+      "en": "Surah Al-Baqarah 2:195",
+      "bn": "সূরা আল-বাকারা ২:১৯৫",
+      "fr": "Sourate Al-Baqarah 2:195",
+      "de": "Sure Al-Baqarah 2:195",
+      "es": "Sura Al-Baqarah 2:195",
+      "tr": "Bakara Suresi 2:195",
+      "id": "Surah Al-Baqarah 2:195",
+      "ms": "Surah Al-Baqarah 2:195",
+      "ar": "سورة البقرة ٢:١٩٥"
+    }
+  },
+  {
+    "arabic": "وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+    "translations": {
+      "en": "Do not be wasteful. Indeed, He does not love the wasteful.",
+      "bn": "অপচয় করো না। নিশ্চয়ই তিনি অপচয়কারীদের ভালোবাসেন না।",
+      "fr": "Ne commettez pas d'excès, car Il n'aime pas ceux qui commettent des excès.",
+      "de": "Seid nicht verschwenderisch, denn Er liebt die Verschwender nicht.",
+      "es": "No derrochéis, pues Él no ama a los derrochadores.",
+      "tr": "İsraf etmeyin; çünkü O israf edenleri sevmez.",
+      "id": "Janganlah berlebih-lebihan. Sesungguhnya Dia tidak menyukai orang-orang yang berlebih-lebihan.",
+      "ms": "Janganlah berlebih-lebihan. Sesungguhnya Dia tidak suka kepada orang-orang yang berlebih-lebihan.",
+      "ar": "وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ"
+    },
+    "reference": {
+      "en": "Surah Al-An'am 6:141",
+      "bn": "সূরা আল-আনআম ৬:১৪১",
+      "fr": "Sourate Al-An'am 6:141",
+      "de": "Sure Al-An'am 6:141",
+      "es": "Sura Al-An'am 6:141",
+      "tr": "En'âm Suresi 6:141",
+      "id": "Surah Al-An'am 6:141",
+      "ms": "Surah Al-An'am 6:141",
+      "ar": "سورة الأنعام ٦:١٤١"
+    }
+  },
+  {
+    "arabic": "إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ",
+    "translations": {
+      "en": "Indeed, prayer restrains from immorality and wrongdoing.",
+      "bn": "নিশ্চয়ই সালাত অশ্লীল ও মন্দ কাজ থেকে বিরত রাখে।",
+      "fr": "La prière préserve de la turpitude et du blâmable.",
+      "de": "Gewiss, das Gebet hält von Schändlichem und Verwerflichem ab.",
+      "es": "Ciertamente, la oración aleja de la indecencia y del mal.",
+      "tr": "Şüphesiz namaz, hayasızlıktan ve kötülükten alıkoyar.",
+      "id": "Sesungguhnya salat mencegah dari perbuatan keji dan mungkar.",
+      "ms": "Sesungguhnya solat itu mencegah daripada perbuatan keji dan mungkar.",
+      "ar": "إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ"
+    },
+    "reference": {
+      "en": "Surah Al-Ankabut 29:45",
+      "bn": "সূরা আল-আনকাবুত ২৯:৪৫",
+      "fr": "Sourate Al-Ankabut 29:45",
+      "de": "Sure Al-Ankabut 29:45",
+      "es": "Sura Al-Ankabut 29:45",
+      "tr": "Ankebût Suresi 29:45",
+      "id": "Surah Al-Ankabut 29:45",
+      "ms": "Surah Al-Ankabut 29:45",
+      "ar": "سورة العنكبوت ٢٩:٤٥"
+    }
+  },
+  {
+    "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "translations": {
+      "en": "Surely, in the remembrance of Allah do hearts find peace.",
+      "bn": "জেনে রাখো, আল্লাহর স্মরণেই অন্তরসমূহ প্রশান্তি লাভ করে।",
+      "fr": "N'est-ce pas par l'évocation d'Allah que les cœurs s'apaisent ?",
+      "de": "Wahrlich, im Gedenken Allahs finden die Herzen Ruhe.",
+      "es": "Ciertamente, con el recuerdo de Alá encuentran paz los corazones.",
+      "tr": "Biliniz ki kalpler ancak Allah'ı anmakla huzur bulur.",
+      "id": "Ingatlah, hanya dengan mengingat Allah hati menjadi tenteram.",
+      "ms": "Ketahuilah, dengan mengingati Allah hati menjadi tenang.",
+      "ar": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ"
+    },
+    "reference": {
+      "en": "Surah Ar-Ra'd 13:28",
+      "bn": "সূরা আর-রাদ ১৩:২৮",
+      "fr": "Sourate Ar-Ra'd 13:28",
+      "de": "Sure Ar-Ra'd 13:28",
+      "es": "Sura Ar-Ra'd 13:28",
+      "tr": "Ra'd Suresi 13:28",
+      "id": "Surah Ar-Ra'd 13:28",
+      "ms": "Surah Ar-Ra'd 13:28",
+      "ar": "سورة الرعد ١٣:٢٨"
+    }
+  },
+  {
+    "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+    "translations": {
+      "en": "If you are grateful, I will surely increase you.",
+      "bn": "তোমরা কৃতজ্ঞ হলে আমি অবশ্যই তোমাদের আরও বাড়িয়ে দেব।",
+      "fr": "Si vous êtes reconnaissants, Je vous accorderai davantage.",
+      "de": "Wenn ihr dankbar seid, werde Ich euch gewiss noch mehr geben.",
+      "es": "Si sois agradecidos, os daré aún más.",
+      "tr": "Şükrederseniz elbette size nimetimi artırırım.",
+      "id": "Jika kamu bersyukur, pasti Aku akan menambah nikmat kepadamu.",
+      "ms": "Jika kamu bersyukur, pasti Aku akan menambahkan nikmat kepadamu.",
+      "ar": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ"
+    },
+    "reference": {
+      "en": "Surah Ibrahim 14:7",
+      "bn": "সূরা ইবরাহীম ১৪:৭",
+      "fr": "Sourate Ibrahim 14:7",
+      "de": "Sure Ibrahim 14:7",
+      "es": "Sura Ibrahim 14:7",
+      "tr": "İbrâhîm Suresi 14:7",
+      "id": "Surah Ibrahim 14:7",
+      "ms": "Surah Ibrahim 14:7",
+      "ar": "سورة إبراهيم ١٤:٧"
+    }
+  },
+  {
+    "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+    "translations": {
+      "en": "And whoever puts their trust in Allah, He is sufficient for them.",
+      "bn": "আর যে আল্লাহর উপর ভরসা করে, তিনিই তার জন্য যথেষ্ট।",
+      "fr": "Quiconque place sa confiance en Allah, Il lui suffit.",
+      "de": "Und wer auf Allah vertraut, dem ist Er genug.",
+      "es": "Y a quien confía en Alá, Él le es suficiente.",
+      "tr": "Kim Allah'a tevekkül ederse, O kendisine yeter.",
+      "id": "Barang siapa bertawakal kepada Allah, niscaya Allah akan mencukupinya.",
+      "ms": "Sesiapa yang bertawakal kepada Allah, maka Allah mencukupkannya.",
+      "ar": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ"
+    },
+    "reference": {
+      "en": "Surah At-Talaq 65:3",
+      "bn": "সূরা আত-তালাক ৬৫:৩",
+      "fr": "Sourate At-Talaq 65:3",
+      "de": "Sure At-Talaq 65:3",
+      "es": "Sura At-Talaq 65:3",
+      "tr": "Talâk Suresi 65:3",
+      "id": "Surah At-Talaq 65:3",
+      "ms": "Surah At-Talaq 65:3",
+      "ar": "سورة الطلاق ٦٥:٣"
+    }
   }
+
+
+
+  
+  
 ]
